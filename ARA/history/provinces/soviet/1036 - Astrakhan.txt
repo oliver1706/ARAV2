@@ -2,5 +2,5 @@ owner=MUS
 controller=MUS
 trade_goods = wool
 life_rating = 35
-terrain = woods
+terrain = forest
 colonial=2

@@ -2,5 +2,5 @@ owner=UKR
 controller=MUS
 trade_goods = coal
 life_rating = 35
-terrain = woods
+terrain = forest
 colonial=2

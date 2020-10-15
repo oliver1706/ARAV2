@@ -5,5 +5,5 @@ add_core=LIG
 add_core=WLL
 trade_goods = timber
 life_rating = 35
-terrain = woods
+terrain = forest
 fort = 1

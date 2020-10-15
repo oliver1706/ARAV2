@@ -5,4 +5,4 @@ add_core=CZE
 add_core=CZH
 trade_goods = coal
 life_rating = 40
-terrain = woods
+terrain = forest

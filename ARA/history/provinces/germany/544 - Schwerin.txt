@@ -4,7 +4,7 @@ add_core=GER
 add_core=LUB
 trade_goods = grain
 life_rating = 40
-terrain = woods
+terrain = forest
 naval_base = 2
 state_building=
 {

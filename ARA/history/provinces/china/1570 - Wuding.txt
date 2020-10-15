@@ -4,5 +4,5 @@ add_core=CHI
 add_core=QIC
 trade_goods = grain
 life_rating = 32
-terrain = woods
+terrain = forest
 naval_base = 1

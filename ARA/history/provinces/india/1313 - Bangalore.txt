@@ -4,4 +4,4 @@ add_core=HND
 add_core=MYS
 trade_goods = wool
 life_rating = 32
-terrain = woods
+terrain = forest

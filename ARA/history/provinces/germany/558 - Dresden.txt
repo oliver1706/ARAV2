@@ -4,7 +4,7 @@ add_core=BRN
 add_core=GER
 trade_goods = coal
 life_rating = 40
-terrain = woods
+terrain = forest
 fort = 1
 state_building=
 {

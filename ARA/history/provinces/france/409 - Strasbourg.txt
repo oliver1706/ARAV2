@@ -4,5 +4,5 @@ add_core=GER
 add_core=X10
 trade_goods = grain
 life_rating = 33
-terrain = woods
+terrain = forest
 fort = 1

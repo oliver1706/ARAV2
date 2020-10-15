@@ -2,4 +2,4 @@ owner=ATR
 controller=ATR
 trade_goods = coal
 life_rating = 35
-terrain = woods
+terrain = forest

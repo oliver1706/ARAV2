@@ -3,4 +3,4 @@ controller=X17
 add_core=X17
 trade_goods = wool
 life_rating = 35
-terrain = woods
+terrain = forest
