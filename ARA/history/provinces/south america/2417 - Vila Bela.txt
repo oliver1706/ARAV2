@@ -1,0 +1,6 @@
+owner=X23
+controller=X23
+add_core=X23
+trade_goods = tobacco
+life_rating = 25
+terrain = jungle

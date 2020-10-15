@@ -1,0 +1,6 @@
+owner=BUG
+controller=BUG
+add_core=BUG
+trade_goods = tobacco
+life_rating = 15
+terrain = jungle

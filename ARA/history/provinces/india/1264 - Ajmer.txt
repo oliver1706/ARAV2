@@ -1,0 +1,7 @@
+owner=JOD
+controller=JOD
+add_core=HND
+add_core=JOD
+trade_goods = cotton
+life_rating = 32
+terrain = hills

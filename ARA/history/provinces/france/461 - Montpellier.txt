@@ -1,0 +1,8 @@
+owner=FOI
+controller=FOI
+add_core=FOI
+add_core=FRA
+add_core=OCC
+trade_goods = cattle
+life_rating = 31
+terrain = plains

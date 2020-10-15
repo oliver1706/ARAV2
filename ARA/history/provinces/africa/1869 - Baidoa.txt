@@ -1,0 +1,7 @@
+owner=MRE
+controller=MRE
+add_core=MRE
+add_core=SOM
+trade_goods = cotton
+life_rating = 15
+terrain = farmlands

@@ -1,0 +1,13 @@
+owner=WAL
+controller=WAL
+add_core=ROM
+add_core=WAL
+trade_goods = wool
+life_rating = 35
+terrain = steppe
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

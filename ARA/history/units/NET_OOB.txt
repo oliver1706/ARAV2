@@ -1,0 +1,1038 @@
+#Sphere of Influence
+
+ABU = {
+	value = -5
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = -4
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARD = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = -2
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+AUV = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+AZT = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -3
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRB = {
+	value = 65
+	military_access = yes
+	influence_value = 53
+	level = 5
+}
+BRE = {
+	value = -92
+	level = 2
+}
+BRG = {
+	value = -9
+	level = 2
+}
+BRN = {
+	value = 129
+	influence_value = 19
+	level = 3
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = -2
+	level = 2
+}
+BUL = {
+	value = -7
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = -5
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CNK = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = -4
+	level = 2
+}
+CSH = {
+	value = -1
+	level = 2
+}
+CST = {
+	value = -15
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = -2
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = -2
+	level = 2
+}
+DAU = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = -15
+	level = 2
+}
+EGY = {
+	value = -15
+	level = 2
+}
+ENG = {
+	value = 7
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FOI = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = -9
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = -5
+	level = 2
+}
+IRE = {
+	value = -12
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = 0
+	level = 2
+}
+KAZ = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KER = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = -2
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LIG = {
+	value = 126
+	influence_value = 19
+	level = 3
+}
+LOM = {
+	value = -9
+	level = 2
+}
+LOR = {
+	value = 6
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDR = {
+	value = -2
+	level = 2
+}
+MFA = {
+	value = -12
+	level = 2
+}
+MHR = {
+	value = -12
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = -16
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MOS = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+MSC = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = -7
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NAV = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = -5
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = -2
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+ORL = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = -7
+	level = 2
+}
+PAR = {
+	value = -4
+	level = 2
+}
+PER = {
+	value = -4
+	level = 2
+}
+PGA = {
+	value = -7
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = -15
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = -1
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SBP = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 1
+	level = 2
+}
+SCY = {
+	value = -7
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SGU = {
+	value = 0
+	level = 2
+}
+SHS = {
+	value = 0
+	level = 2
+}
+SHU = {
+	value = -4
+	level = 2
+}
+SHY = {
+	value = -4
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = -7
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SRD = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = -6
+	level = 2
+}
+SYR = {
+	value = -2
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = -5
+	level = 2
+}
+UKR = {
+	value = -7
+	level = 2
+}
+URB = {
+	value = -7
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = -4
+	level = 2
+}
+WES = {
+	value = 102
+	influence_value = 13
+	level = 3
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = -6
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = -1
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = -15
+	level = 2
+}
+X19 = {
+	value = -15
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 4
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+YAQ = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = -11
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 35
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Frederik Cordewiender"
+	date="1824.4.27"
+	type=sea
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Willem van Giessenburg"
+	date="1825.1.11"
+	type=land
+	personality="disciplined"
+	background="bootlicker"
+}
+
+leader = {
+	name="Gabriel Van Riebeeck"
+	date="1825.2.7"
+	type=sea
+	personality="disciplined"
+	background="artillerist"
+}
+
+
+#Armies
+army = {
+	name="Grand Company"
+	location=377
+	regiment = {
+		name="1st Arnhem Infantry"
+		type=infantry
+		home=382
+	}
+	regiment = {
+		name="2nd Arnhem Infantry"
+		type=infantry
+		home=382
+	}
+	regiment = {
+		name="3rd Arnhem Infantry"
+		type=infantry
+		home=382
+	}
+}
+
+army = {
+	name="Leger van Zeeland"
+	location=405
+	regiment = {
+		name="1st Utrecht Infantry"
+		type=infantry
+		home=377
+	}
+	regiment = {
+		name="1st Lingen Artillery"
+		type=artillery
+		home=542
+	}
+	regiment = {
+		name="2nd Utrecht Infantry"
+		type=infantry
+		home=377
+	}
+	regiment = {
+		name="3rd Utrecht Infantry"
+		type=infantry
+		home=377
+	}
+	regiment = {
+		name="1st Arnhem Artillery"
+		type=artillery
+		home=382
+	}
+	regiment = {
+		name="1st Middelburg Artillery"
+		type=artillery
+		home=378
+	}
+	regiment = {
+		name="2nd Arnhem Artillery"
+		type=artillery
+		home=382
+	}
+	regiment = {
+		name="2nd Lingen Artillery"
+		type=artillery
+		home=542
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2724
+	ship = {
+		name="1st Acapulco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Laredo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Houston Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Vloot van Amsterdam"
+	location=377
+	ship = {
+		name="1st Utrecht Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Leeuwarden Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Leeuwarden Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Leeuwarden Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Zwolle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Zwolle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Zwolle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Leeuwarden Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Emden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Zwolle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Zwolle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Emden Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2737
+	ship = {
+		name="1st Leeuwarden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Amsterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Leeuwarden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tobago Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Leeuwarden Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Vloot van Windward Islands"
+	location=2979
+	ship = {
+		name="1st Trinidad Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Groningen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Groningen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Groningen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Leger van Friesland"
+	location=376
+	regiment = {
+		name="1st Groningen Cavalry"
+		type=cavalry
+		home=383
+	}
+	regiment = {
+		name="2nd Groningen Cavalry"
+		type=cavalry
+		home=383
+	}
+	regiment = {
+		name="1st Emden Cavalry"
+		type=cavalry
+		home=543
+	}
+}
+
+navy = {
+	name="Staatse Vloot"
+	location=2723
+	ship = {
+		name="1st Middelburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rotterdam Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Noordzeevloot"
+	location=377
+	ship = {
+		name="1st Utrecht Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rotterdam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Leeuwarden Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Middelburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hamburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rotterdam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Middelburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zwolle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Middelburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Hamburg Clipper Transport"
+		type=clipper_transport
+	}
+}
+

@@ -1,0 +1,403 @@
+2066 = {
+	slaves=
+	{
+		culture = sena
+		religion = shamanism
+		size= 955
+	}
+
+	soldiers=
+	{
+		culture = sena
+		religion = shamanism
+		size= 1523
+	}
+
+	artisans=
+	{
+		culture = sena
+		religion = shamanism
+		size= 1158
+	}
+
+	clergymen=
+	{
+		culture = sena
+		religion = shamanism
+		size= 124
+	}
+
+	bureaucrats=
+	{
+		culture = sena
+		religion = shamanism
+		size= 11
+	}
+
+	officers=
+	{
+		culture = sena
+		religion = shamanism
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = sena
+		religion = shamanism
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = sena
+		religion = shamanism
+		size= 12654
+	}
+
+	slaves=
+	{
+		culture = shona
+		religion = shamanism
+		size= 2100
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 3346
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 6251
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 670
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 58
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 107
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 563
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 23279
+	}
+
+}
+2067 = {
+	slaves=
+	{
+		culture = sena
+		religion = shamanism
+		size= 1884
+	}
+
+	soldiers=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 617
+	}
+
+	clergymen=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 6367
+	}
+
+	slaves=
+	{
+		culture = sena
+		religion = sunni
+		size= 624
+	}
+
+	soldiers=
+	{
+		culture = tonga
+		religion = sunni
+		size= 399
+	}
+
+	artisans=
+	{
+		culture = tonga
+		religion = sunni
+		size= 287
+	}
+
+	clergymen=
+	{
+		culture = tonga
+		religion = sunni
+		size= 16
+	}
+
+	officers=
+	{
+		culture = tonga
+		religion = sunni
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = tonga
+		religion = sunni
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = tonga
+		religion = sunni
+		size= 3174
+	}
+
+	slaves=
+	{
+		culture = sena
+		religion = shiite
+		size= 97
+	}
+
+	soldiers=
+	{
+		culture = tonga
+		religion = shiite
+		size= 89
+	}
+
+	artisans=
+	{
+		culture = tonga
+		religion = shiite
+		size= 98
+	}
+
+	clergymen=
+	{
+		culture = tonga
+		religion = shiite
+		size= 5
+	}
+
+	officers=
+	{
+		culture = tonga
+		religion = shiite
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tonga
+		religion = shiite
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = tonga
+		religion = shiite
+		size= 668
+	}
+
+	slaves=
+	{
+		culture = shona
+		religion = shamanism
+		size= 1480
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 3876
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 207
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 14
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 233
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 4719
+	}
+
+	soldiers=
+	{
+		culture = sena
+		religion = shamanism
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = sena
+		religion = shamanism
+		size= 642
+	}
+
+	clergymen=
+	{
+		culture = sena
+		religion = shamanism
+		size= 35
+	}
+
+	officers=
+	{
+		culture = sena
+		religion = shamanism
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = sena
+		religion = shamanism
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = sena
+		religion = shamanism
+		size= 6995
+	}
+
+	soldiers=
+	{
+		culture = sena
+		religion = sunni
+		size= 172
+	}
+
+	artisans=
+	{
+		culture = sena
+		religion = sunni
+		size= 170
+	}
+
+	clergymen=
+	{
+		culture = sena
+		religion = sunni
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = sena
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = sena
+		religion = sunni
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = sena
+		religion = sunni
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = sena
+		religion = sunni
+		size= 1319
+	}
+
+}

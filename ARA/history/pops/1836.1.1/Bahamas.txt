@@ -1,0 +1,158 @@
+2219 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 921
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 76
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 65
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 3419
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 639
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 11
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 38
+	}
+
+}
+2220 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 114
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 674
+	}
+
+	soldiers=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 7
+	}
+
+}

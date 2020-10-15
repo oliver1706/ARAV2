@@ -1,0 +1,223 @@
+1914 = {
+	slaves=
+	{
+		culture = fon
+		religion = shamanism
+		size= 3198
+	}
+
+	soldiers=
+	{
+		culture = ewe
+		religion = shamanism
+		size= 1382
+	}
+
+	artisans=
+	{
+		culture = ewe
+		religion = shamanism
+		size= 493
+	}
+
+	clergymen=
+	{
+		culture = ewe
+		religion = shamanism
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = ewe
+		religion = shamanism
+		size= 12
+	}
+
+	officers=
+	{
+		culture = ewe
+		religion = shamanism
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = ewe
+		religion = shamanism
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = ewe
+		religion = shamanism
+		size= 19368
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 3760
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = protestant
+		size= 1624
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = protestant
+		size= 1654
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = protestant
+		size= 310
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 41
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = protestant
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 347
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = protestant
+		size= 21201
+	}
+
+}
+1917 = {
+	slaves=
+	{
+		culture = fon
+		religion = shamanism
+		size= 1965
+	}
+
+	soldiers=
+	{
+		culture = fon
+		religion = shamanism
+		size= 629
+	}
+
+	artisans=
+	{
+		culture = fon
+		religion = shamanism
+		size= 1257
+	}
+
+	clergymen=
+	{
+		culture = fon
+		religion = shamanism
+		size= 236
+	}
+
+	bureaucrats=
+	{
+		culture = fon
+		religion = shamanism
+		size= 16
+	}
+
+	officers=
+	{
+		culture = fon
+		religion = shamanism
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = fon
+		religion = shamanism
+		size= 264
+	}
+
+	farmers=
+	{
+		culture = fon
+		religion = shamanism
+		size= 27044
+	}
+
+}
+1918 = {
+	soldiers=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 119
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 237
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 9
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 5466
+	}
+
+}

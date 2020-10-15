@@ -1,0 +1,6 @@
+owner=ATR
+controller=ATR
+add_core=ATR
+trade_goods = coal
+life_rating = 35
+terrain = hills

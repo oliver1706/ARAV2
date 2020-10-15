@@ -1,0 +1,6 @@
+owner=BUL
+controller=BUL
+add_core=GRE
+trade_goods = cotton
+life_rating = 35
+terrain = hills

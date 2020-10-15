@@ -1,0 +1,1219 @@
+#Sphere of Influence
+
+ABU = {
+	value = 9
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = -2
+	level = 2
+}
+ARD = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = -2
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+AUV = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+AZT = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = -12
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -1
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRB = {
+	value = 0
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = -2
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = -2
+	level = 2
+}
+BUL = {
+	value = -2
+	level = 2
+}
+CAM = {
+	value = 105
+	influence_value = 13
+	level = 2
+}
+CAT = {
+	value = -2
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = -1
+	level = 2
+}
+CSH = {
+	value = -1
+	level = 2
+}
+CST = {
+	value = -4
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = -2
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = -2
+	level = 2
+}
+DAU = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = -4
+	level = 2
+}
+EGY = {
+	value = 6
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FOI = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = -4
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = -115
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = -2
+	level = 2
+}
+IRE = {
+	value = 7
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = 139
+	influence_value = 22
+	level = 3
+}
+KAZ = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = -2
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LIG = {
+	value = 0
+	level = 2
+}
+LND = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = -2
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 37
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDR = {
+	value = -77
+	level = 2
+}
+MFA = {
+	value = -3
+	level = 2
+}
+MHR = {
+	value = 7
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = -2
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = -92
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 1
+	level = 2
+}
+MTA = {
+	value = -3
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NAV = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = -2
+	level = 2
+}
+NEP = {
+	value = 139
+	influence_value = 22
+	level = 3
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = -2
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+ORL = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 8
+	level = 2
+}
+PAR = {
+	value = -2
+	level = 2
+}
+PER = {
+	value = 9
+	level = 2
+}
+PGA = {
+	value = 8
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = -4
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+SBP = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 8
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SGU = {
+	value = 0
+	level = 2
+}
+SHU = {
+	value = -4
+	level = 2
+}
+SHY = {
+	value = -5
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 8
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SRD = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 8
+	level = 2
+}
+SYR = {
+	value = -2
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = -2
+	level = 2
+}
+UKR = {
+	value = -2
+	level = 2
+}
+URB = {
+	value = 8
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = -2
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 9
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+YAQ = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = -2
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Sriranga II Sangama"
+	date="1818.9.29"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Devarsi Tuluva"
+	date="1801.6.2"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Mallikarjuna Nayak"
+	date="1818.10.1"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Dandanayaka Ummattur"
+	date="1818.10.4"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Nagama Alupa"
+	date="1818.10.7"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Sivvappa Kamma"
+	date="1823.6.18"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+
+#Armies
+navy = {
+	name="4th Fleet"
+	location=1305
+	ship = {
+		name="1st Mangalore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Pondicherry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mangalore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kolhapur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bombay Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Pondicherry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Belgaum Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kolhapur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Madurai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Pondicherry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tanjore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bombay Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Belgaum Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Tanjore Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2793
+	ship = {
+		name="1st Madurai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Madras Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Jaffna Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pondicherry Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kolhapur Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1277
+	regiment = {
+		name="1st Nellore Irregulars"
+		type=irregular
+		home=1307
+	}
+	regiment = {
+		name="1st Kurnool Irregulars"
+		type=irregular
+		home=1308
+	}
+	regiment = {
+		name="1st Madras Artillery"
+		type=artillery
+		home=1304
+	}
+	regiment = {
+		name="5th Nellore Irregulars"
+		type=irregular
+		home=1307
+	}
+	regiment = {
+		name="3rd Masulipatnam Irregulars"
+		type=irregular
+		home=1306
+	}
+	regiment = {
+		name="1st Hyderabad Artillery"
+		type=artillery
+		home=1283
+	}
+	regiment = {
+		name="8th Madras Artillery"
+		type=artillery
+		home=1304
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=3068
+	ship = {
+		name="2nd Jaffna Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mangalore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cochin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mangalore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tanjore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Madras Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1308
+	regiment = {
+		name="1st Madras Irregulars"
+		type=irregular
+		home=1304
+	}
+	regiment = {
+		name="2nd Nellore Irregulars"
+		type=irregular
+		home=1307
+	}
+	regiment = {
+		name="2nd Madras Irregulars"
+		type=irregular
+		home=1304
+	}
+	regiment = {
+		name="2nd Madras Artillery"
+		type=artillery
+		home=1304
+	}
+	regiment = {
+		name="3rd Madras Artillery"
+		type=artillery
+		home=1304
+	}
+	regiment = {
+		name="4th Madras Artillery"
+		type=artillery
+		home=1304
+	}
+	regiment = {
+		name="5th Madras Artillery"
+		type=artillery
+		home=1304
+	}
+	regiment = {
+		name="6th Nellore Irregulars"
+		type=irregular
+		home=1307
+	}
+	regiment = {
+		name="2nd Masulipatnam Artillery"
+		type=artillery
+		home=1306
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=3071
+	ship = {
+		name="1st Bombay Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bombay Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Nellore Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1321
+	regiment = {
+		name="3rd Madras Irregulars"
+		type=irregular
+		home=1304
+	}
+	regiment = {
+		name="4th Madras Irregulars"
+		type=irregular
+		home=1304
+	}
+	regiment = {
+		name="1st Nellore Artillery"
+		type=artillery
+		home=1307
+	}
+	regiment = {
+		name="2nd Nellore Artillery"
+		type=artillery
+		home=1307
+	}
+	regiment = {
+		name="6th Madras Artillery"
+		type=artillery
+		home=1304
+	}
+	regiment = {
+		name="2nd Masulipatnam Irregulars"
+		type=irregular
+		home=1306
+	}
+	regiment = {
+		name="3rd Hyderabad Artillery"
+		type=artillery
+		home=1283
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1308
+	regiment = {
+		name="2nd Kurnool Irregulars"
+		type=irregular
+		home=1308
+	}
+	regiment = {
+		name="3rd Kurnool Irregulars"
+		type=irregular
+		home=1308
+	}
+	regiment = {
+		name="5th Madras Irregulars"
+		type=irregular
+		home=1304
+	}
+	regiment = {
+		name="1st Kurnool Artillery"
+		type=artillery
+		home=1308
+	}
+	regiment = {
+		name="7th Madras Artillery"
+		type=artillery
+		home=1304
+	}
+	regiment = {
+		name="8th Madras Irregulars"
+		type=irregular
+		home=1304
+	}
+	regiment = {
+		name="2nd Hyderabad Artillery"
+		type=artillery
+		home=1283
+	}
+	regiment = {
+		name="3rd Nellore Artillery"
+		type=artillery
+		home=1307
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1287
+	regiment = {
+		name="3rd Nellore Irregulars"
+		type=irregular
+		home=1307
+	}
+	regiment = {
+		name="1st Masulipatnam Irregulars"
+		type=irregular
+		home=1306
+	}
+	regiment = {
+		name="1st Masulipatnam Artillery"
+		type=artillery
+		home=1306
+	}
+	regiment = {
+		name="7th Madras Irregulars"
+		type=irregular
+		home=1304
+	}
+	regiment = {
+		name="2nd Kurnool Artillery"
+		type=artillery
+		home=1308
+	}
+}
+
+navy = {
+	name="12th Fleet"
+	location=2790
+	ship = {
+		name="3rd Tanjore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Belgaum Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="15th Army"
+	location=1308
+	regiment = {
+		name="4th Nellore Irregulars"
+		type=irregular
+		home=1307
+	}
+	regiment = {
+		name="6th Madras Irregulars"
+		type=irregular
+		home=1304
+	}
+	regiment = {
+		name="9th Madras Irregulars"
+		type=irregular
+		home=1304
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=3069
+	ship = {
+		name="1st Goa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kolhapur Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Malacca Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2794
+	ship = {
+		name="2nd Tanjore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Belgaum Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Tanjore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Madras Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mangalore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mangalore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kolhapur Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kolhapur Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Madras Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pondicherry Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jaffna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Madurai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Madurai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Tanjore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Madras Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Madurai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Madras Clipper Transport"
+		type=clipper_transport
+	}
+}
+

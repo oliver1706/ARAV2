@@ -1,0 +1,7 @@
+owner=ZIM
+controller=ZIM
+add_core=ZIM
+trade_goods = tobacco
+life_rating = 35
+terrain = hills
+naval_base = 1

@@ -1,0 +1,86 @@
+political_decisions = {
+	form_transcaucasia = {
+		picture = protect_eastern_christians
+		potential = {
+			OR = {
+				primary_culture = georgian
+				primary_culture = armenian
+				primary_culture = azerbaijani
+			}
+			NOT = {
+				exists = TCA
+				tag = RUS
+				tag = SLA
+				tag = TUR
+				tag = PER
+			}
+		}
+		allow = {
+			war = no
+			prestige = 5
+			GEO = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			ARM = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			AZB = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 10
+			any_country = {
+				limit = {
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+					OR = {
+						capital_scope = { continent = europe }
+						capital_scope = { continent = asia }
+					}
+					OR = {
+						primary_culture = georgian
+						primary_culture = armenian
+						primary_culture = azerbaijani
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				add_core = TCA
+			}			
+			
+			change_tag = TCA
+			add_accepted_culture = georgian
+			add_accepted_culture = armenian
+			add_accepted_culture = azerbaijani
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

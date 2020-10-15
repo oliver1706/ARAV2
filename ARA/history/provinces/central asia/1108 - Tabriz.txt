@@ -1,0 +1,13 @@
+owner=ARM
+controller=ARM
+add_core=AZB
+trade_goods = coal
+life_rating = 35
+terrain = hills
+colonial=2
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

@@ -1,0 +1,7 @@
+owner=WAL
+controller=REB
+add_core=ROM
+add_core=WAL
+trade_goods = wool
+life_rating = 35
+terrain = hills

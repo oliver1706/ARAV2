@@ -1,0 +1,5 @@
+owner=GUJ
+controller=GUJ
+trade_goods = wool
+life_rating = 32
+terrain = woods

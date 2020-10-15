@@ -1,0 +1,14 @@
+owner=LUB
+controller=LUB
+add_core=GER
+add_core=LUB
+trade_goods = grain
+life_rating = 40
+terrain = woods
+naval_base = 2
+state_building=
+{
+	level=1
+	building = luxury_furniture_factory
+	upgrade = yes
+}

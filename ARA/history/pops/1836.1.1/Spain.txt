@@ -1,0 +1,4400 @@
+474 = {
+	soldiers=
+	{
+		culture = galician
+		religion = catholic
+		size= 866
+	}
+
+	artisans=
+	{
+		culture = galician
+		religion = catholic
+		size= 13487
+	}
+
+	clergymen=
+	{
+		culture = galician
+		religion = catholic
+		size= 1446
+	}
+
+	bureaucrats=
+	{
+		culture = galician
+		religion = catholic
+		size= 135
+	}
+
+	officers=
+	{
+		culture = galician
+		religion = catholic
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = galician
+		religion = catholic
+		size= 809
+	}
+
+	farmers=
+	{
+		culture = galician
+		religion = catholic
+		size= 69850
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 233
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 2333
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 250
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 140
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 20348
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 610
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 8118
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 870
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 81
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 487
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 50758
+	}
+
+}
+475 = {
+	soldiers=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 1880
+	}
+
+	clergymen=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 201
+	}
+
+	bureaucrats=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 338
+	}
+
+	farmers=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 4201
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 342
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 2896
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 1160
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 124
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 209
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 3328
+	}
+
+}
+476 = {
+	soldiers=
+	{
+		culture = galician
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = galician
+		religion = catholic
+		size= 7142
+	}
+
+	clergymen=
+	{
+		culture = galician
+		religion = catholic
+		size= 765
+	}
+
+	bureaucrats=
+	{
+		culture = galician
+		religion = catholic
+		size= 92
+	}
+
+	officers=
+	{
+		culture = galician
+		religion = catholic
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = galician
+		religion = catholic
+		size= 428
+	}
+
+	farmers=
+	{
+		culture = galician
+		religion = catholic
+		size= 36408
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 68
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 622
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 6006
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 271
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 3854
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 413
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 49
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 232
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 22320
+	}
+
+}
+477 = {
+	soldiers=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 1046
+	}
+
+	artisans=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 8911
+	}
+
+	clergymen=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 955
+	}
+
+	bureaucrats=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 90
+	}
+
+	officers=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 108
+	}
+
+	aristocrats=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 1069
+	}
+
+	farmers=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 42849
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 85
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 236
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 4089
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 219
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 798
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 85
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 10322
+	}
+
+}
+478 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 306
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 4237
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 454
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 381
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 25099
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 147
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 2098
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 225
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 189
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 11993
+	}
+
+}
+479 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 372
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 2603
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 279
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 234
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 33654
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 228
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 5800
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 621
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 58
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 522
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 15547
+	}
+
+}
+480 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 324
+	}
+
+	craftsmen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 10750
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 2270
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 122
+	}
+
+	clerks=
+	{
+		culture = spanish
+		religion = catholic
+		size= 324
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 21
+	}
+
+	capitalists=
+	{
+		culture = spanish
+		religion = catholic
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 204
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 18337
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 169
+	}
+
+	craftsmen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 5590
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 4632
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 248
+	}
+
+	clerks=
+	{
+		culture = catalan
+		religion = catholic
+		size= 662
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 46
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 43
+	}
+
+	capitalists=
+	{
+		culture = catalan
+		religion = catholic
+		size= 118
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 417
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 4942
+	}
+
+}
+481 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 492
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 492
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 160
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 206
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 47770
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 227
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 945
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 307
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 397
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 20736
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = catholic
+		size= 1437
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = catholic
+		size= 467
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = catholic
+		size= 65
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = catholic
+		size= 604
+	}
+
+}
+482 = {
+	soldiers=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 274
+	}
+
+	artisans=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 4808
+	}
+
+	clergymen=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 515
+	}
+
+	bureaucrats=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 866
+	}
+
+	farmers=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 20892
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 2886
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 309
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 29
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 520
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 23464
+	}
+
+}
+483 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 356
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 2492
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 267
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 299
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 32125
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 213
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 5474
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 587
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 70
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 657
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 14252
+	}
+
+}
+484 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 367
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 2572
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 275
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 463
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 33005
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 182
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 5120
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 549
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 66
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 922
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 11316
+	}
+
+}
+485 = {
+	soldiers=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 217
+	}
+
+	artisans=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 1518
+	}
+
+	clergymen=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 163
+	}
+
+	bureaucrats=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 19619
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 270
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 5292
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 567
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 476
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 20268
+	}
+
+}
+486 = {
+	soldiers=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 194
+	}
+
+	artisans=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 1359
+	}
+
+	clergymen=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 146
+	}
+
+	bureaucrats=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = cantabrian
+		religion = catholic
+		size= 17577
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 242
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 4741
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 508
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 34
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 427
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 18156
+	}
+
+}
+487 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 581
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 4070
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 436
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 52
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 366
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 52594
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 364
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 9168
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 982
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 118
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 85
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 825
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 24873
+	}
+
+}
+488 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 326
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 2283
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 245
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 29
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 29569
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 5086
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 545
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 65
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 306
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 13771
+	}
+
+}
+489 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 16533
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 4134
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 443
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 53
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 372
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 37481
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 6927
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 742
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 89
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 623
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 11308
+	}
+
+}
+490 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 550
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 3852
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 413
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 50
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 347
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 49775
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 342
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 8646
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 926
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 111
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 80
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 778
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 23360
+	}
+
+}
+491 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 464
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 928
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 348
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 42
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 292
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 44309
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 265
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 1988
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 746
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 89
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 626
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 22715
+	}
+
+}
+492 = {
+	soldiers=
+	{
+		culture = basque
+		religion = catholic
+		size= 370
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = catholic
+		size= 6144
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = catholic
+		size= 570
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = catholic
+		size= 79
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = catholic
+		size= 369
+	}
+
+	farmers=
+	{
+		culture = basque
+		religion = catholic
+		size= 29428
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 130
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 1101
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 11546
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 286
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 3747
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 348
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 23885
+	}
+
+}
+493 = {
+	soldiers=
+	{
+		culture = basque
+		religion = catholic
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = catholic
+		size= 1072
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = catholic
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = catholic
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = basque
+		religion = catholic
+		size= 15953
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 89
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 1693
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 6796
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 226
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 5934
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 551
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 59
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 356
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 15477
+	}
+
+}
+494 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 273
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 273
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 115
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 26578
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 126
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 526
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 171
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 221
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 11535
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = catholic
+		size= 799
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = catholic
+		size= 260
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = catholic
+		size= 336
+	}
+
+}
+495 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 797
+	}
+
+	craftsmen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 11147
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 1194
+	}
+
+	clerks=
+	{
+		culture = catalan
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 111
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 64
+	}
+
+	capitalists=
+	{
+		culture = catalan
+		religion = catholic
+		size= 138
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 1003
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 56503
+	}
+
+}
+496 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 570
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 7980
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 428
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 80
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 718
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 47179
+	}
+
+}
+497 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 583
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 8167
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 875
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 105
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 735
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 47824
+	}
+
+}
+498 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 1200
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 16806
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 1800
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 216
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 1513
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 98412
+	}
+
+}
+499 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 589
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 8244
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 883
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 106
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 742
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 48272
+	}
+
+}
+500 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 421
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 5895
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 632
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 76
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 531
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 34521
+	}
+
+}
+501 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 633
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 8861
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 949
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 114
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 1595
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 51091
+	}
+
+}
+502 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 610
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 8026
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 860
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 103
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 481
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 50811
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = protestant
+		size= 543
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = protestant
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = protestant
+		size= 7
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = protestant
+		size= 33
+	}
+
+}
+503 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 1092
+	}
+
+	craftsmen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 8171
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 9826
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 1637
+	}
+
+	clerks=
+	{
+		culture = catalan
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 153
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 88
+	}
+
+	capitalists=
+	{
+		culture = catalan
+		religion = catholic
+		size= 138
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 1223
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 86353
+	}
+
+}
+504 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 231
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 807
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 145
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 21784
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = sunni
+		size= 313
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = sunni
+		size= 6805
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = sunni
+		size= 730
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = sunni
+		size= 68
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = sunni
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = sunni
+		size= 1225
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = sunni
+		size= 22128
+	}
+
+}
+505 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 980
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 13727
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 1470
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 176
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 79
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 2470
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 79142
+	}
+
+}
+506 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 354
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 5052
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 469
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 46
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 909
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 28570
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 190
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 2569
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 239
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 462
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 15478
+	}
+
+}
+507 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 144
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 1009
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 108
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 12948
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 94
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 2330
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 250
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 419
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 6290
+	}
+
+}
+508 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 312
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 2188
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 234
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 394
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 28087
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 205
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 5053
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 541
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 65
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 910
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 13642
+	}
+
+}
+509 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 959
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 13430
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 1247
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 124
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 124
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 2417
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 77624
+	}
+
+}
+510 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 522
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 3651
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 339
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 328
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 47258
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 304
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 7905
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 734
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 51
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 711
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 20607
+	}
+
+}
+511 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 238
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 1663
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 299
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 21453
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 117
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 3301
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 31
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 594
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 7473
+	}
+
+}
+512 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 860
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 12034
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 1117
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 77
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 112
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 1084
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 70669
+	}
+
+}
+513 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 25833
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 546
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 6
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 13224
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 220
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 8430
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 782
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 78
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 505
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 11852
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 358
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 4660
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 433
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 280
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 29938
+	}
+
+}
+514 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 409
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 642
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 209
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 135
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 39546
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 607
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 3424
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 1112
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 719
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 54645
+	}
+
+}
+515 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 432
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 5861
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 545
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 54
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 704
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 35595
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = sunni
+		size= 189
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = sunni
+		size= 2834
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = sunni
+		size= 263
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = sunni
+		size= 26
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = sunni
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = sunni
+		size= 340
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = sunni
+		size= 15186
+	}
+
+}
+516 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 431
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 3020
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 140
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 543
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 38940
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 256
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 6605
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 307
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 61
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 1189
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 17132
+	}
+
+}
+2136 = {
+	soldiers=
+	{
+		culture = berber
+		religion = animist
+		size= 268
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = animist
+		size= 1873
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = animist
+		size= 201
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = animist
+		size= 24
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = animist
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = animist
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = animist
+		size= 24152
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 230
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 3519
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 377
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 422
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 18392
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = animist
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = animist
+		size= 1967
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = animist
+		size= 211
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = animist
+		size= 25
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = animist
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = animist
+		size= 236
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = animist
+		size= 329
+	}
+
+}

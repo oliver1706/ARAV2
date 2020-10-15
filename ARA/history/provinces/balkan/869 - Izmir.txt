@@ -1,0 +1,12 @@
+owner=X03
+controller=X03
+add_core=X03
+trade_goods = fish
+life_rating = 35
+terrain = hills
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

@@ -1,0 +1,198 @@
+1329 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 540
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 193
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 2
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 18463
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 260
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 379
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 5
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 8487
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 362
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 5
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1595
+	}
+
+	soldiers=
+	{
+		culture = bengali
+		religion = hindu
+		size= 90
+	}
+
+	artisans=
+	{
+		culture = bengali
+		religion = hindu
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = bengali
+		religion = hindu
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = bengali
+		religion = hindu
+		size= 5
+	}
+
+	officers=
+	{
+		culture = bengali
+		religion = hindu
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = bengali
+		religion = hindu
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = bengali
+		religion = hindu
+		size= 2515
+	}
+
+}

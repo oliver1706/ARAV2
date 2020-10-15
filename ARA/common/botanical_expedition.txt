@@ -1,0 +1,705 @@
+ADA = {
+	monarchy = no
+	last_dynasty = "Walashma"
+}
+ADU = {
+	monarchy = yes
+	last_dynasty = "Ummayad"
+}
+AYR = {
+	monarchy = yes
+	last_dynasty = "Dag Rali"
+}
+ALB = {
+	monarchy = no
+	last_dynasty = "Domagojevic"
+}
+APA = {
+	monarchy = yes
+}
+ARD = {
+	monarchy = yes
+	last_dynasty = "Ardalan"
+}
+ARM = {
+	monarchy = yes
+	last_dynasty = "Rubenid"
+}
+ASH = {
+	monarchy = yes
+	last_dynasty = "Oyoko Abohyen"
+}
+ATR = {
+	monarchy = yes
+	last_dynasty = "de Hoyos"
+}
+AUV = {
+	monarchy = yes
+	last_dynasty = "de Vaudemont"
+}
+AVA = {
+	monarchy = yes
+	last_dynasty = "Sharqi"
+}
+AZT = {
+	monarchy = yes
+	last_dynasty = "Otli"
+}
+BAV = {
+	monarchy = no
+	last_dynasty = "Moshamm"
+}
+BRU = {
+	monarchy = yes
+	last_dynasty = "Bolkiah"
+}
+X00 = {
+	monarchy = no
+	last_dynasty = "Balawat"
+}
+BEN = {
+	monarchy = no
+	last_dynasty = "Rufai"
+}
+BRY = {
+	monarchy = yes
+	last_dynasty = "de Valois"
+}
+BLA = {
+	monarchy = yes
+}
+BNG = {
+	monarchy = yes
+	last_dynasty = "Sen"
+}
+BNY = {
+	monarchy = yes
+	last_dynasty = "Shila"
+}
+BOH = {
+	monarchy = yes
+	last_dynasty = "Jankovsk� z Vla�imi"
+}
+BOS = {
+	monarchy = yes
+	last_dynasty = "Kotromanic"
+}
+BRN = {
+	monarchy = yes
+	last_dynasty = "von Hohenzollern"
+}
+BRB = {
+	monarchy = yes
+	last_dynasty = "de Bourgogne"
+}
+BRE = {
+	monarchy = no
+}
+BRT = {
+	monarchy = yes
+	last_dynasty = "Naoned"
+}
+BUG = {
+	monarchy = yes
+	last_dynasty = "Ababyasi"
+}
+BUL = {
+	monarchy = yes
+	last_dynasty = "Teleki"
+}
+BRG = {
+	monarchy = yes
+	last_dynasty = "von Habsburg"
+}
+X11 = {
+	monarchy = yes
+}
+X12 = {
+	monarchy = no
+}
+X13 = {
+	monarchy = yes
+	last_dynasty = "d'Albert"
+}
+X17 = {
+	monarchy = no
+}
+X23 = {
+	monarchy = no
+}
+X22 = {
+	monarchy = no
+}
+X16 = {
+	monarchy = no
+}
+RGS = {
+	monarchy = yes
+	last_dynasty = "de Bragan�a"
+}
+X15 = {
+	monarchy = yes
+	last_dynasty = "de Castro"
+}
+X20 = {
+	monarchy = yes
+	last_dynasty = "de Altamira"
+}
+X14 = {
+	monarchy = no
+}
+X21 = {
+	monarchy = no
+}
+X18 = {
+	monarchy = no
+}
+X19 = {
+	monarchy = no
+}
+X24 = {
+	monarchy = no
+}
+CST = {
+	monarchy = yes
+	last_dynasty = "de Trast�mara"
+}
+CAT = {
+	monarchy = yes
+	last_dynasty = "de Luna"
+}
+CEB = {
+	monarchy = no
+	last_dynasty = "Yuda"
+}
+SRI = {
+	monarchy = yes
+	last_dynasty = "Savulu"
+}
+CKW = {
+	monarchy = yes
+	last_dynasty = "Kazembe"
+}
+SLO = {
+	monarchy = yes
+	last_dynasty = "Turjaski"
+}
+CNK = {
+	monarchy = no
+}
+CRS = {
+	monarchy = yes
+	last_dynasty = "Senni"
+}
+CRO = {
+	monarchy = yes
+	last_dynasty = "Cerva"
+}
+CSH = {
+	monarchy = yes
+	last_dynasty = "Jiang"
+}
+CUB = {
+	monarchy = yes
+	last_dynasty = "de Menezes"
+}
+CYI = {
+	monarchy = yes
+	last_dynasty = "Feng"
+}
+DAH = {
+	monarchy = yes
+	last_dynasty = "Sessegnon"
+}
+DAI = {
+	monarchy = yes
+	last_dynasty = "Trinh"
+}
+DLM = {
+	monarchy = no
+}
+DAU = {
+	monarchy = yes
+	last_dynasty = "de Saboulin"
+}
+DGB = {
+	monarchy = yes
+	last_dynasty = "Dagomba"
+}
+ETH = {
+	monarchy = no
+	last_dynasty = "Astatkeid"
+}
+FOI = {
+	monarchy = yes
+	last_dynasty = "d'Anjou"
+}
+FUL = {
+	monarchy = yes
+	last_dynasty = "Garm"
+}
+GLC = {
+	monarchy = yes
+	last_dynasty = "de Niebla"
+}
+ENG = {
+	monarchy = yes
+	last_dynasty = "Lancaster"
+}
+GDW = {
+	monarchy = yes
+	last_dynasty = "Haihaya"
+}
+GEN = {
+	monarchy = no
+}
+GNV = {
+	monarchy = no
+}
+GOC = {
+	monarchy = yes
+	last_dynasty = "Sangama"
+}
+GRE = {
+	monarchy = no
+}
+GUJ = {
+	monarchy = yes
+	last_dynasty = "Kanjar"
+}
+GYN = {
+	monarchy = yes
+	last_dynasty = "du Quenoy"
+}
+HAU = {
+	monarchy = yes
+	last_dynasty = "Yan Korau"
+}
+HDA = {
+	monarchy = yes
+}
+HDJ = {
+	monarchy = yes
+	last_dynasty = "Al Abu Risha"
+}
+LUB = {
+	monarchy = no
+}
+IRE = {
+	monarchy = no
+}
+IRQ = {
+	monarchy = yes
+	last_dynasty = "Jarwanid"
+}
+JAP = {
+	monarchy = yes
+	last_dynasty = "Ashikaga"
+}
+JNN = {
+	monarchy = yes
+	last_dynasty = "Seku"
+}
+WOL = {
+	monarchy = yes
+	last_dynasty = "N'Dyaye"
+}
+X01 = {
+	monarchy = no
+	last_dynasty = "Bonaparte"
+}
+X02 = {
+	monarchy = no
+	last_dynasty = "de la Tour du Pin"
+}
+X03 = {
+	monarchy = yes
+	last_dynasty = "de Castro"
+}
+X04 = {
+	monarchy = no
+}
+X05 = {
+	monarchy = yes
+	last_dynasty = "von Falkenberg"
+}
+X06 = {
+	monarchy = no
+}
+X07 = {
+	monarchy = yes
+	last_dynasty = "Gadhi"
+}
+X08 = {
+	monarchy = yes
+	last_dynasty = "von Habsburg"
+}
+X09 = {
+	monarchy = yes
+	last_dynasty = "Condulmer"
+}
+KBO = {
+	monarchy = yes
+	last_dynasty = "Yorassem"
+}
+KER = {
+	monarchy = yes
+}
+KHI = {
+	monarchy = yes
+	last_dynasty = "Bayarnai"
+}
+CAM = {
+	monarchy = no
+	last_dynasty = "Angkor"
+}
+KLK = {
+	monarchy = no
+	last_dynasty = "Borjigin"
+}
+KNG = {
+	monarchy = yes
+	last_dynasty = "Wattara"
+}
+KON = {
+	monarchy = yes
+	last_dynasty = "Lukeni"
+}
+KOR = {
+	monarchy = yes
+	last_dynasty = "Yuan"
+}
+KSJ = {
+	monarchy = yes
+	last_dynasty = "Kikondja"
+}
+KUB = {
+	monarchy = yes
+	last_dynasty = "Kete"
+}
+KZB = {
+	monarchy = yes
+	last_dynasty = "Shila"
+}
+KAZ = {
+	monarchy = yes
+	last_dynasty = "Kanjar"
+}
+LIG = {
+	monarchy = no
+}
+LND = {
+	monarchy = yes
+	last_dynasty = "Kikondja"
+}
+LOR = {
+	monarchy = yes
+	last_dynasty = "Ansembourg"
+}
+LBX = {
+	monarchy = yes
+	last_dynasty = "Shila"
+}
+LXA = {
+	monarchy = yes
+	last_dynasty = "Li"
+}
+MDR = {
+	monarchy = yes
+	last_dynasty = "Aryacakravarti"
+}
+MLI = {
+	monarchy = yes
+	last_dynasty = "Keita"
+}
+EGY = {
+	monarchy = no
+	last_dynasty = "Abaza"
+}
+MTA = {
+	monarchy = no
+	last_dynasty = "Carandini"
+}
+MRT = {
+	monarchy = yes
+	last_dynasty = "Gaitonde"
+}
+JOD = {
+	monarchy = yes
+	last_dynasty = "Sangama"
+}
+MCK = {
+	monarchy = yes
+	last_dynasty = "Yuan"
+}
+MFA = {
+	monarchy = no
+	last_dynasty = "Palaiologos"
+}
+MHR = {
+	monarchy = no
+	last_dynasty = "Al-Shahri"
+}
+MKS = {
+	monarchy = yes
+	last_dynasty = "Manado"
+}
+MKU = {
+	monarchy = yes
+	last_dynasty = "Karonga"
+}
+MLC = {
+	monarchy = yes
+	last_dynasty = "Pahang"
+}
+ML1 = {
+	monarchy = yes
+	last_dynasty = "Al-Malindi"
+}
+LOM = {
+	monarchy = no
+	last_dynasty = "di Savoia"
+}
+MAW = {
+	monarchy = yes
+	last_dynasty = "Shaja'atid"
+}
+MOR = {
+	monarchy = yes
+	last_dynasty = "Wattassid"
+}
+MUS = {
+	monarchy = no
+	last_dynasty = "Obolensky"
+}
+MLW = {
+	monarchy = yes
+	last_dynasty = "Undi"
+}
+MRE = {
+	monarchy = yes
+	last_dynasty = "Darod"
+}
+MSC = {
+	monarchy = yes
+}
+MOS = {
+	monarchy = yes
+	last_dynasty = "Moogo"
+}
+MYS = {
+	monarchy = yes
+	last_dynasty = "Kalachuri"
+}
+NEJ = {
+	monarchy = no
+	last_dynasty = "Nubi"
+}
+NAP = {
+	monarchy = no
+}
+NAV = {
+	monarchy = yes
+	last_dynasty = "de Trast�mara"
+}
+NET = {
+	monarchy = no
+}
+NOG = {
+	monarchy = no
+	last_dynasty = "Suren Unegen"
+}
+NEP = {
+	monarchy = yes
+	last_dynasty = "Sangama"
+}
+NSS = {
+	monarchy = no
+}
+NUB = {
+	monarchy = no
+	last_dynasty = "Keira"
+}
+NUP = {
+	monarchy = no
+	last_dynasty = "Opara"
+}
+AWA = {
+	monarchy = yes
+	last_dynasty = "Tomara"
+}
+OIR = {
+	monarchy = yes
+	last_dynasty = "Ganbold"
+}
+ORI = {
+	monarchy = yes
+	last_dynasty = "Pusapati"
+}
+ORL = {
+	monarchy = no
+	last_dynasty = "de Rohan"
+}
+OYO = {
+	monarchy = yes
+	last_dynasty = "Ubah"
+}
+PAP = {
+	monarchy = no
+}
+PAR = {
+	monarchy = no
+}
+PER = {
+	monarchy = yes
+	last_dynasty = "Khalifeh"
+}
+PGA = {
+	monarchy = no
+	last_dynasty = "Baglioni"
+}
+PLB = {
+	monarchy = yes
+	last_dynasty = "Inayat"
+}
+POR = {
+	monarchy = yes
+	last_dynasty = "von Habsburg"
+}
+QIC = {
+	monarchy = yes
+	last_dynasty = "Yuan"
+}
+SAL = {
+	monarchy = yes
+	last_dynasty = "Kwantlen"
+}
+SRD = {
+	monarchy = yes
+	last_dynasty = "Adorno"
+}
+SVY = {
+	monarchy = no
+	last_dynasty = "Ariosti"
+}
+SBP = {
+	monarchy = yes
+	last_dynasty = "Nagavamsi"
+}
+SCA = {
+	monarchy = yes
+	last_dynasty = "Kaas"
+}
+SHS = {
+	monarchy = yes
+}
+ABU = {
+	monarchy = no
+}
+SHU = {
+	monarchy = yes
+	last_dynasty = "Ruan"
+}
+SHY = {
+	monarchy = yes
+	last_dynasty = "Borjigin"
+}
+SIB = {
+	monarchy = yes
+	last_dynasty = "Aven"
+}
+SCY = {
+	monarchy = no
+	last_dynasty = "di Savoia"
+}
+SKA = {
+	monarchy = no
+	last_dynasty = "Rozwi"
+}
+SGU = {
+	monarchy = yes
+	last_dynasty = "Coulibaly"
+}
+SGH = {
+	monarchy = yes
+	last_dynasty = "Askia"
+}
+SUL = {
+	monarchy = no
+	last_dynasty = "Bolkiah"
+}
+X10 = {
+	monarchy = no
+	last_dynasty = "von J�lich-Berg"
+}
+SYR = {
+	monarchy = no
+}
+TTE = {
+	monarchy = yes
+	last_dynasty = "Gapi"
+}
+TLC = {
+	monarchy = yes
+	last_dynasty = "Maatka"
+}
+TUS = {
+	monarchy = no
+	last_dynasty = "de' Medici"
+}
+UKR = {
+	monarchy = yes
+	last_dynasty = "Pinesky"
+}
+URB = {
+	monarchy = no
+	last_dynasty = "Pallavicino"
+}
+VEN = {
+	monarchy = no
+}
+VIJ = {
+	monarchy = yes
+	last_dynasty = "Sangama"
+}
+WAL = {
+	monarchy = no
+	last_dynasty = "Krum"
+}
+WES = {
+	monarchy = no
+}
+CWU = {
+	monarchy = yes
+	last_dynasty = "Xia"
+}
+YKA = {
+	monarchy = yes
+	last_dynasty = "Kikondja"
+}
+YAO = {
+	monarchy = yes
+	last_dynasty = "Mahamat"
+}
+YAQ = {
+	monarchy = yes
+}
+YEM = {
+	monarchy = no
+	last_dynasty = "al-Qasimi"
+}
+YKT = {
+	monarchy = no
+}
+YUE = {
+	monarchy = yes
+	last_dynasty = "Qin"
+}
+SWA = {
+	monarchy = no
+	last_dynasty = "al-Mawahib"
+}
+ZIM = {
+	monarchy = yes
+	last_dynasty = "Mwenemutapa"
+}

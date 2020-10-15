@@ -1,0 +1,6 @@
+owner=DAU
+controller=DAU
+add_core=ITA
+trade_goods = fish
+life_rating = 35
+terrain = hills

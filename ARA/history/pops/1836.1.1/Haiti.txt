@@ -1,0 +1,200 @@
+2213 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 9556
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 535
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 430
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 15
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 40
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 70129
+	}
+
+	soldiers=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 3927
+	}
+
+	artisans=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 6741
+	}
+
+	clergymen=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 487
+	}
+
+	bureaucrats=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 225
+	}
+
+	officers=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 120
+	}
+
+	aristocrats=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 630
+	}
+
+}
+2215 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 6535
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 131
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 294
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 55
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 46212
+	}
+
+	soldiers=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 924
+	}
+
+	artisans=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 4454
+	}
+
+	clergymen=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 321
+	}
+
+	bureaucrats=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 149
+	}
+
+	officers=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 831
+	}
+
+}

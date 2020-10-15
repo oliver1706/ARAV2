@@ -1,0 +1,207 @@
+2237 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 2971
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 183
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 65
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 19
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 7158
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 441
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 380
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 10
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 80
+	}
+
+}
+2238 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1084
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 62
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 2612
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 130
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 27
+	}
+
+}

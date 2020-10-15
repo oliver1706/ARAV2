@@ -1,0 +1,886 @@
+2509 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 42
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 2012
+	}
+
+	soldiers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 132
+	}
+
+	clergymen=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 1999
+	}
+
+}
+2510 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 950
+	}
+
+	soldiers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 137
+	}
+
+	clergymen=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 824
+	}
+
+}
+2511 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 1432
+	}
+
+	soldiers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 93
+	}
+
+	clergymen=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 1405
+	}
+
+}
+2512 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 1458
+	}
+
+	soldiers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 91
+	}
+
+	clergymen=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 1344
+	}
+
+}
+2513 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 501
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 29
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = protestant
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 417
+	}
+
+}
+2514 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 503
+	}
+
+	soldiers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 29
+	}
+
+	clergymen=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 420
+	}
+
+}
+2515 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 1008
+	}
+
+	soldiers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 59
+	}
+
+	clergymen=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 838
+	}
+
+}
+2516 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 1483
+	}
+
+	soldiers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 91
+	}
+
+	clergymen=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 1324
+	}
+
+}
+2571 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 1439
+	}
+
+	soldiers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 92
+	}
+
+	clergymen=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = reinosul
+		religion = catholic
+		size= 1370
+	}
+
+}

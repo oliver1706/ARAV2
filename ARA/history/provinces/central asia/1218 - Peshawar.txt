@@ -1,0 +1,5 @@
+owner=NEP
+controller=NEP
+trade_goods = grain
+life_rating = 35
+terrain = mountain

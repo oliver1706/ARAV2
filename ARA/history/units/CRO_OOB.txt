@@ -1,0 +1,330 @@
+#Sphere of Influence
+
+ABU = {
+	value = -14
+	level = 2
+}
+ADU = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = -4
+	level = 2
+}
+ARD = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = -2
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+AUV = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -3
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRB = {
+	value = 0
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = -2
+	level = 2
+}
+BUL = {
+	value = -4
+	level = 2
+}
+CAT = {
+	value = -10
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = -8
+	level = 2
+}
+CSH = {
+	value = -1
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = -2
+	level = 2
+}
+DAI = {
+	value = -2
+	level = 2
+}
+DAU = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = -37
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FOI = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = -9
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = -5
+	level = 2
+}
+IRE = {
+	value = -31
+	level = 2
+}
+KON = {
+	value = -2
+	level = 2
+}
+LIG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = -22
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+MDR = {
+	value = -2
+	level = 2
+}
+MFA = {
+	value = -31
+	level = 2
+}
+MHR = {
+	value = -31
+	level = 2
+}
+MKU = {
+	value = -6
+	level = 2
+}
+MTA = {
+	value = -7
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+NAV = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = -5
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = -2
+	level = 2
+}
+ORL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = -19
+	level = 2
+}
+PAR = {
+	value = -4
+	level = 2
+}
+PER = {
+	value = -21
+	level = 2
+}
+PGA = {
+	value = -18
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = -25
+	level = 2
+}
+SCY = {
+	value = -18
+	level = 2
+}
+SHU = {
+	value = -4
+	level = 2
+}
+SHY = {
+	value = -4
+	level = 2
+}
+SKA = {
+	value = -18
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = -16
+	level = 2
+}
+SYR = {
+	value = -2
+	level = 2
+}
+TUS = {
+	value = -5
+	level = 2
+}
+UKR = {
+	value = -18
+	level = 2
+}
+URB = {
+	value = -18
+	level = 2
+}
+WAL = {
+	value = -4
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = -15
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = -9
+	level = 2
+}
+
+#Leaders
+
+#Armies

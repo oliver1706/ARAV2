@@ -1,0 +1,6 @@
+owner=VIJ
+controller=MRT
+add_core=HND
+trade_goods = grain
+life_rating = 32
+terrain = farmlands

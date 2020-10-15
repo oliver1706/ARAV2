@@ -1,0 +1,990 @@
+800 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 203
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 4164
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = catholic
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = catholic
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = catholic
+		size= 356
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 59
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 189
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 264
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 7
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 3487
+	}
+
+}
+2569 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 412
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size= 45
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 8469
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = catholic
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = catholic
+		size= 53
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = catholic
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = catholic
+		size= 726
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 104
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 119
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 385
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 537
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 201
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 13
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 113
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 7092
+	}
+
+}
+2577 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 297
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size= 32
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 6006
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = catholic
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = catholic
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = catholic
+		size= 517
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 85
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 278
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 388
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 10
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 5028
+	}
+
+}
+2582 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 208
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 7165
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = catholic
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = catholic
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = catholic
+		size= 774
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 89
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 144
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 212
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 475
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 178
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 12
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 6558
+	}
+
+}
+2583 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 610
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size= 66
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 12025
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = catholic
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = catholic
+		size= 79
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = catholic
+		size= 1029
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 154
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = catholic
+		size= 170
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 570
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 796
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 298
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 20
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 167
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 10068
+	}
+
+}

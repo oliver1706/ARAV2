@@ -1,0 +1,8 @@
+guarantee=
+{
+	first="SCA"
+	second="MUS"
+	start_date="1758.8.7"
+	end_date="1936.1.1"
+}
+

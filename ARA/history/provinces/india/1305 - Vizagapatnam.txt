@@ -1,0 +1,6 @@
+owner=VIJ
+controller=ORI
+add_core=HND
+trade_goods = tobacco
+life_rating = 32
+terrain = plains

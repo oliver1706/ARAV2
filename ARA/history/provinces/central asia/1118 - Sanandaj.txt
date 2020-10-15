@@ -1,0 +1,7 @@
+owner=ARD
+controller=ARD
+add_core=AZB
+trade_goods = wool
+life_rating = 35
+terrain = mountain
+fort = 2

@@ -1,0 +1,5 @@
+owner=NUB
+controller=NUB
+trade_goods = tropical_wood
+life_rating = 30
+terrain = desert

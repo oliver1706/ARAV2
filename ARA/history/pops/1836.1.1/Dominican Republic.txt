@@ -1,0 +1,228 @@
+2214 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1064
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 134
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 82
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 506
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 9436
+	}
+
+	soldiers=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 1186
+	}
+
+	artisans=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 1525
+	}
+
+	clergymen=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 58
+	}
+
+	officers=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 214
+	}
+
+	farmers=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 3478
+	}
+
+}
+2216 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 701
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 755
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 5418
+	}
+
+	soldiers=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 1211
+	}
+
+	clergymen=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 41
+	}
+
+	officers=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 113
+	}
+
+	farmers=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 1618
+	}
+
+}

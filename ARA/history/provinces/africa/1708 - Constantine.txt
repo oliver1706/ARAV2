@@ -1,0 +1,14 @@
+owner=X08
+controller=X08
+add_core=CAT
+add_core=SPA
+add_core=X08
+trade_goods = iron
+life_rating = 35
+terrain = mountain
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

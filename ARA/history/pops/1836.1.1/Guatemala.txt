@@ -1,0 +1,540 @@
+2186 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 621
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 311
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 19
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 29933
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 803
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 1113
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 362
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 67
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 273
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 37472
+	}
+
+	artisans=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 1424
+	}
+
+	clergymen=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 463
+	}
+
+	bureaucrats=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 85
+	}
+
+	officers=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 349
+	}
+
+}
+2187 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 471
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 124
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 7
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 11709
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 272
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 197
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 6568
+	}
+
+	artisans=
+	{
+		culture = italoamericano
+		religion = catholic
+		size= 251
+	}
+
+	clergymen=
+	{
+		culture = italoamericano
+		religion = catholic
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = italoamericano
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = italoamericano
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = italoamericano
+		religion = catholic
+		size= 53
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 333
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 245
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 15
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 8029
+	}
+
+	artisans=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 315
+	}
+
+	clergymen=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 19
+	}
+
+	officers=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 66
+	}
+
+}
+2188 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 135
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 6431
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 226
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 588
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 123
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 10240
+	}
+
+}
+2189 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 73
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1509
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 288
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1997
+	}
+
+}

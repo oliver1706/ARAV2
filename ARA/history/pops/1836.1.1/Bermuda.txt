@@ -1,0 +1,58 @@
+203 = {
+	soldiers=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 301
+	}
+
+	clergymen=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = north_hispano
+		religion = catholic
+		size= 1908
+	}
+
+	artisans=
+	{
+		culture = north_hispano
+		religion = protestant
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = north_hispano
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = north_hispano
+		religion = protestant
+		size= 3
+	}
+
+}

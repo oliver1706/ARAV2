@@ -1,0 +1,6 @@
+owner=SGH
+controller=SGU
+add_core=SGH
+trade_goods = cattle
+life_rating = 10
+terrain = plains

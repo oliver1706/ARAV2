@@ -1,0 +1,5 @@
+owner=X13
+controller=X13
+trade_goods = iron
+life_rating = 40
+terrain = farmlands

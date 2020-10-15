@@ -1,0 +1,6 @@
+owner=RGS
+controller=RGS
+add_core=RGS
+trade_goods = sulphur
+life_rating = 25
+terrain = plains

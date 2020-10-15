@@ -1,0 +1,754 @@
+#Sphere of Influence
+
+ABU = {
+	value = -5
+	level = 2
+}
+ADU = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = -4
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARD = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = -2
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+AUV = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AZT = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 146
+	influence_value = 24
+	level = 3
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -3
+	level = 2
+}
+BRB = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = -9
+	level = 2
+}
+BRN = {
+	value = -24
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = -2
+	level = 2
+}
+BUL = {
+	value = -7
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = -5
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = -4
+	level = 2
+}
+CSH = {
+	value = -1
+	level = 2
+}
+CST = {
+	value = -11
+	level = 2
+}
+CUB = {
+	value = -14
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = -2
+	level = 2
+}
+DAI = {
+	value = -2
+	level = 2
+}
+DAU = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = -15
+	level = 2
+}
+EGY = {
+	value = -15
+	level = 2
+}
+ENG = {
+	value = 5
+	level = 2
+}
+FOI = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = -9
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = -5
+	level = 2
+}
+IRE = {
+	value = -12
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = 0
+	level = 2
+}
+KAZ = {
+	value = 0
+	level = 2
+}
+KER = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = -2
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+LIG = {
+	value = 84
+	influence_value = 8
+	level = 2
+}
+LOM = {
+	value = -9
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 126
+	influence_value = 19
+	level = 3
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDR = {
+	value = -2
+	level = 2
+}
+MFA = {
+	value = -12
+	level = 2
+}
+MHR = {
+	value = -12
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = -9
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MSC = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = -7
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NAV = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = -5
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 23
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = -2
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = -7
+	level = 2
+}
+PAR = {
+	value = -4
+	level = 2
+}
+PER = {
+	value = -4
+	level = 2
+}
+PGA = {
+	value = -7
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = -15
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = -14
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = -7
+	level = 2
+}
+SHU = {
+	value = -4
+	level = 2
+}
+SHY = {
+	value = -4
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = -7
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = -6
+	level = 2
+}
+SYR = {
+	value = -2
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = -5
+	level = 2
+}
+UKR = {
+	value = -7
+	level = 2
+}
+URB = {
+	value = -7
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = -4
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = -6
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = -13
+	level = 2
+}
+X16 = {
+	value = -14
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = -13
+	level = 2
+}
+X19 = {
+	value = -14
+	level = 2
+}
+X20 = {
+	value = -13
+	level = 2
+}
+X21 = {
+	value = 8
+	level = 2
+}
+X22 = {
+	value = -13
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+YAQ = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = -11
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 35
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Bernhard Grovermann"
+	date="1816.11.22"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Gregor Boelken"
+	date="1819.3.20"
+	type=sea
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Heinrich Adler"
+	date="1819.3.27"
+	type=sea
+	personality="active_p"
+	background="engineer"
+}
+
+leader = {
+	name="Florent Steinwachs"
+	date="1823.4.26"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=539
+	ship = {
+		name="1st Bremen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bremen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oldenburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bremen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stade Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bremen Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=531
+	regiment = {
+		name="1st Stade Infantry"
+		type=infantry
+		home=531
+	}
+	regiment = {
+		name="1st Oldenburg Artillery"
+		type=artillery
+		home=540
+	}
+	regiment = {
+		name="1st Oldenburg Infantry"
+		type=infantry
+		home=540
+	}
+	regiment = {
+		name="1st Lüneburg Artillery"
+		type=artillery
+		home=532
+	}
+	regiment = {
+		name="2nd Lüneburg Artillery"
+		type=artillery
+		home=532
+	}
+}
+
+army = {
+	name="Armee von Bremen"
+	location=539
+	regiment = {
+		name="1st Hamburg Infantry"
+		type=infantry
+		home=528
+	}
+	regiment = {
+		name="1st Hanover Infantry"
+		type=infantry
+		home=534
+	}
+	regiment = {
+		name="1st Hamburg Cavalry"
+		type=cavalry
+		home=528
+	}
+	regiment = {
+		name="1st Hamburg Artillery"
+		type=artillery
+		home=528
+	}
+	regiment = {
+		name="2nd Stade Infantry"
+		type=infantry
+		home=531
+	}
+	regiment = {
+		name="1st Stade Cavalry"
+		type=cavalry
+		home=531
+	}
+	regiment = {
+		name="2nd Hamburg Cavalry"
+		type=cavalry
+		home=528
+	}
+	regiment = {
+		name="2nd Hamburg Artillery"
+		type=artillery
+		home=528
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2727
+	ship = {
+		name="1st Hamburg Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armee von Hanover"
+	location=535
+	regiment = {
+		name="2nd Hanover Infantry"
+		type=infantry
+		home=534
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=539
+	ship = {
+		name="1st Bremen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hamburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bremen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bremen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hamburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Hamburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Hamburg Frigate"
+		type=frigate
+	}
+}
+

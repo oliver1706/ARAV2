@@ -1,0 +1,6 @@
+owner=MYS
+controller=MDR
+add_core=HND
+trade_goods = dye
+life_rating = 32
+terrain = farmlands

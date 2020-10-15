@@ -1,0 +1,40 @@
+vassal=
+{
+	first="BAV"
+	second="X05"
+	start_date="1825.2.3"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="BAV"
+	second="VEN"
+	start_date="1825.2.11"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="POR"
+	second="GLC"
+	start_date="1825.1.25"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="NET"
+	second="BRB"
+	start_date="1825.2.11"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X10"
+	second="GNV"
+	start_date="1578.2.14"
+	end_date="1936.1.1"
+}
+

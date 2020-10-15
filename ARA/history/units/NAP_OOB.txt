@@ -1,0 +1,1414 @@
+#Sphere of Influence
+
+ABU = {
+	value = 0
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARD = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = -2
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+AUV = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+AZT = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRB = {
+	value = 0
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = -2
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CNK = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = -1
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = -2
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = -2
+	level = 2
+}
+DAU = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FOI = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = 0
+	level = 2
+}
+KAZ = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KER = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = -2
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LIG = {
+	value = 0
+	level = 2
+}
+LND = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDR = {
+	value = 0
+	level = 2
+}
+MFA = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = -6
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+MSC = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NAV = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = -2
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+ORL = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PAR = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PGA = {
+	value = 0
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SBP = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SGU = {
+	value = 0
+	level = 2
+}
+SHS = {
+	value = 0
+	level = 2
+}
+SHU = {
+	value = -4
+	level = 2
+}
+SHY = {
+	value = -4
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SRD = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = -3
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+YAQ = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=2760
+	ship = {
+		name="1st Salerno Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Lamu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Lamu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Latakia Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armata di Corfu"
+	location=1096
+	regiment = {
+		name="1st Salerno Infantry"
+		type=infantry
+		home=755
+	}
+	regiment = {
+		name="1st Foggia Infantry"
+		type=infantry
+		home=757
+	}
+	regiment = {
+		name="1st Corfu Infantry"
+		type=infantry
+		home=826
+	}
+	regiment = {
+		name="2nd Salerno Infantry"
+		type=infantry
+		home=755
+	}
+	regiment = {
+		name="1st Foggia Artillery"
+		type=artillery
+		home=757
+	}
+	regiment = {
+		name="1st Naples Artillery"
+		type=artillery
+		home=754
+	}
+	regiment = {
+		name="1st Gaeta Artillery"
+		type=artillery
+		home=2567
+	}
+	regiment = {
+		name="2nd Naples Artillery"
+		type=artillery
+		home=754
+	}
+	regiment = {
+		name="10th Foggia Infantry"
+		type=infantry
+		home=757
+	}
+	regiment = {
+		name="6th Naples Artillery"
+		type=artillery
+		home=754
+	}
+}
+
+army = {
+	name="Armata di Sharqiya"
+	location=862
+	regiment = {
+		name="1st Bari Infantry"
+		type=infantry
+		home=756
+	}
+	regiment = {
+		name="1st Gaeta Infantry"
+		type=infantry
+		home=2567
+	}
+	regiment = {
+		name="1st Naples Infantry"
+		type=infantry
+		home=754
+	}
+	regiment = {
+		name="2nd Gaeta Artillery"
+		type=artillery
+		home=2567
+	}
+	regiment = {
+		name="1st Bari Artillery"
+		type=artillery
+		home=756
+	}
+	regiment = {
+		name="11th Foggia Infantry"
+		type=infantry
+		home=757
+	}
+	regiment = {
+		name="4th Naples Artillery"
+		type=artillery
+		home=754
+	}
+}
+
+army = {
+	name="Armata di I�el"
+	location=1206
+	regiment = {
+		name="3rd Salerno Infantry"
+		type=infantry
+		home=755
+	}
+	regiment = {
+		name="2nd Foggia Artillery"
+		type=artillery
+		home=757
+	}
+	regiment = {
+		name="1st Brindisi Artillery"
+		type=artillery
+		home=758
+	}
+	regiment = {
+		name="8th Foggia Infantry"
+		type=infantry
+		home=757
+	}
+	regiment = {
+		name="3rd Naples Artillery"
+		type=artillery
+		home=754
+	}
+}
+
+army = {
+	name="Armata di Napoli"
+	location=907
+	regiment = {
+		name="2nd Bari Infantry"
+		type=infantry
+		home=756
+	}
+	regiment = {
+		name="4th Salerno Infantry"
+		type=infantry
+		home=755
+	}
+	regiment = {
+		name="1st Salerno Cavalry"
+		type=cavalry
+		home=755
+	}
+	regiment = {
+		name="1st Salerno Artillery"
+		type=artillery
+		home=755
+	}
+	regiment = {
+		name="2nd Salerno Artillery"
+		type=artillery
+		home=755
+	}
+	regiment = {
+		name="6th Foggia Infantry"
+		type=infantry
+		home=757
+	}
+	regiment = {
+		name="2nd Foggia Cavalry"
+		type=cavalry
+		home=757
+	}
+	regiment = {
+		name="5th Foggia Cavalry"
+		type=cavalry
+		home=757
+	}
+}
+
+army = {
+	name="Armata di Ravenna"
+	location=263
+	regiment = {
+		name="5th Salerno Infantry"
+		type=infantry
+		home=755
+	}
+	regiment = {
+		name="2nd Gaeta Infantry"
+		type=infantry
+		home=2567
+	}
+	regiment = {
+		name="2nd Salerno Cavalry"
+		type=cavalry
+		home=755
+	}
+	regiment = {
+		name="3rd Salerno Artillery"
+		type=artillery
+		home=755
+	}
+	regiment = {
+		name="4th Salerno Artillery"
+		type=artillery
+		home=755
+	}
+	regiment = {
+		name="3rd Gaeta Infantry"
+		type=infantry
+		home=2567
+	}
+	regiment = {
+		name="3rd Foggia Cavalry"
+		type=cavalry
+		home=757
+	}
+	regiment = {
+		name="6th Foggia Cavalry"
+		type=cavalry
+		home=757
+	}
+	regiment = {
+		name="2nd Bari Artillery"
+		type=artillery
+		home=756
+	}
+}
+
+army = {
+	name="Armata di Calabria"
+	location=264
+	regiment = {
+		name="6th Salerno Infantry"
+		type=infantry
+		home=755
+	}
+	regiment = {
+		name="2nd Foggia Infantry"
+		type=infantry
+		home=757
+	}
+	regiment = {
+		name="3rd Salerno Cavalry"
+		type=cavalry
+		home=755
+	}
+	regiment = {
+		name="2nd Brindisi Artillery"
+		type=artillery
+		home=758
+	}
+	regiment = {
+		name="5th Salerno Artillery"
+		type=artillery
+		home=755
+	}
+	regiment = {
+		name="9th Foggia Infantry"
+		type=infantry
+		home=757
+	}
+	regiment = {
+		name="1st Gaeta Cavalry"
+		type=cavalry
+		home=2567
+	}
+	regiment = {
+		name="4th Foggia Artillery"
+		type=artillery
+		home=757
+	}
+}
+
+army = {
+	name="Armata di Kerman"
+	location=1772
+	regiment = {
+		name="7th Salerno Infantry"
+		type=infantry
+		home=755
+	}
+	regiment = {
+		name="8th Salerno Infantry"
+		type=infantry
+		home=755
+	}
+	regiment = {
+		name="6th Salerno Artillery"
+		type=artillery
+		home=755
+	}
+	regiment = {
+		name="7th Salerno Artillery"
+		type=artillery
+		home=755
+	}
+	regiment = {
+		name="7th Foggia Infantry"
+		type=infantry
+		home=757
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2586
+	regiment = {
+		name="9th Salerno Infantry"
+		type=infantry
+		home=755
+	}
+	regiment = {
+		name="3rd Foggia Infantry"
+		type=infantry
+		home=757
+	}
+	regiment = {
+		name="1st Brindisi Infantry"
+		type=infantry
+		home=758
+	}
+	regiment = {
+		name="8th Salerno Artillery"
+		type=artillery
+		home=755
+	}
+	regiment = {
+		name="9th Salerno Artillery"
+		type=artillery
+		home=755
+	}
+	regiment = {
+		name="3rd Gaeta Artillery"
+		type=artillery
+		home=2567
+	}
+	regiment = {
+		name="5th Naples Artillery"
+		type=artillery
+		home=754
+	}
+}
+
+army = {
+	name="Armata di Luangwa"
+	location=2038
+	regiment = {
+		name="10th Salerno Infantry"
+		type=infantry
+		home=755
+	}
+	regiment = {
+		name="4th Foggia Infantry"
+		type=infantry
+		home=757
+	}
+	regiment = {
+		name="5th Foggia Infantry"
+		type=infantry
+		home=757
+	}
+	regiment = {
+		name="1st Foggia Cavalry"
+		type=cavalry
+		home=757
+	}
+	regiment = {
+		name="3rd Foggia Artillery"
+		type=artillery
+		home=757
+	}
+	regiment = {
+		name="4th Foggia Cavalry"
+		type=cavalry
+		home=757
+	}
+	regiment = {
+		name="3rd Brindisi Artillery"
+		type=artillery
+		home=758
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2772
+	ship = {
+		name="1st Gaza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Palermo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kavala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Messina Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Palermo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Xanthe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Palermo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Messina Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Palermo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Polygyros Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Messina Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Naples Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Brindisi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tobruk Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bari Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Volos Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2772
+	ship = {
+		name="1st Gaeta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Aquila Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Odessa Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2773
+	ship = {
+		name="1st Alexandria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sirt Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Corinth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dumyat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gabes Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Myteline Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Potenza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Istanbul Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Nafplion Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Patras Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Volos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Sirt Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Askaleh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Gabes Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Volos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Reggio di Calabria Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Izmit Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Nafplion Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Varna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Canakkale Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gabes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kalamata Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Istanbul Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tripoli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Nafplion Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Patras Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Corinth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ras Gharib Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2773
+	ship = {
+		name="2nd Corinth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kalamata Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Lamu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Izmit Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tripoli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Messina Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cyclades Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Missolonghi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Foggia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Volos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Corinth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Catanzaro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Kalamata Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Izmit Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Patras Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Corinth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Naples Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ravenna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ancona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Messina Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tripoli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Nafplion Clipper Transport"
+		type=clipper_transport
+	}
+}
+

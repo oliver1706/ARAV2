@@ -1,0 +1,214 @@
+2241 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 447
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 265
+	}
+
+	soldiers=
+	{
+		culture = south_hispano
+		religion = sunni
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = south_hispano
+		religion = sunni
+		size= 156
+	}
+
+	clergymen=
+	{
+		culture = south_hispano
+		religion = sunni
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = south_hispano
+		religion = sunni
+		size= 8
+	}
+
+	officers=
+	{
+		culture = south_hispano
+		religion = sunni
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = south_hispano
+		religion = sunni
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = south_hispano
+		religion = sunni
+		size= 3258
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 79
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 48
+	}
+
+	soldiers=
+	{
+		culture = south_hispano
+		religion = sunni
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = south_hispano
+		religion = sunni
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = south_hispano
+		religion = sunni
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = south_hispano
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = south_hispano
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = south_hispano
+		religion = sunni
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = south_hispano
+		religion = sunni
+		size= 575
+	}
+
+}

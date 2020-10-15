@@ -1,0 +1,8 @@
+owner=NOG
+controller=NOG
+add_core=KAZ
+add_core=NOG
+trade_goods = coal
+life_rating = 35
+terrain = woods
+fort = 2

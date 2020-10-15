@@ -1,0 +1,5 @@
+owner=X12
+controller=X12
+trade_goods = sulphur
+life_rating = 35
+terrain = woods

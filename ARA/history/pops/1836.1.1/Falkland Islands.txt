@@ -1,0 +1,46 @@
+2131 = {
+	soldiers=
+	{
+		culture = argentine
+		religion = protestant
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = argentine
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = argentine
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = argentine
+		religion = protestant
+		size= 69
+	}
+
+}
+2133 = {
+	artisans=
+	{
+		culture = argentine
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = argentine
+		religion = protestant
+		size= 14
+	}
+
+}

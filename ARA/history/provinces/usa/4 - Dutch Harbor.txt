@@ -1,0 +1,5 @@
+owner=X14
+controller=X14
+trade_goods = fish
+life_rating = 20
+terrain = arctic

@@ -1,0 +1,661 @@
+2229 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 3127
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 296
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 366
+	}
+
+	soldiers=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 77
+	}
+
+	clergymen=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 19172
+	}
+
+	soldiers=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 437
+	}
+
+	artisans=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 3481
+	}
+
+	clergymen=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 323
+	}
+
+	bureaucrats=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 84
+	}
+
+	officers=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 209
+	}
+
+}
+2231 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 790
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 1301
+	}
+
+	soldiers=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 146
+	}
+
+	clergymen=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 17
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 2391
+	}
+
+	soldiers=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 142
+	}
+
+	artisans=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 510
+	}
+
+	clergymen=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 61
+	}
+
+}
+2232 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 865
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 1214
+	}
+
+	soldiers=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 138
+	}
+
+	clergymen=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 8
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 2592
+	}
+
+	soldiers=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 153
+	}
+
+	artisans=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 537
+	}
+
+	clergymen=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 32
+	}
+
+}
+2233 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1302
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 2145
+	}
+
+	soldiers=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 245
+	}
+
+	clergymen=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 30
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 3939
+	}
+
+	soldiers=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 236
+	}
+
+	artisans=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 849
+	}
+
+	clergymen=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 102
+	}
+
+}
+2409 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 930
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 1531
+	}
+
+	soldiers=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 171
+	}
+
+	clergymen=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = sitkan
+		religion = protestant
+		size= 21
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 2814
+	}
+
+	soldiers=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 165
+	}
+
+	artisans=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 595
+	}
+
+	clergymen=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = sitkan
+		religion = catholic
+		size= 71
+	}
+
+}

@@ -1,0 +1,86 @@
+#Sphere of Influence
+
+AYR = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = -2
+	level = 2
+}
+CSH = {
+	value = -1
+	level = 2
+}
+CYI = {
+	value = -2
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = -2
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = -2
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = -2
+	level = 2
+}
+SHU = {
+	value = -4
+	level = 2
+}
+SYR = {
+	value = -2
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

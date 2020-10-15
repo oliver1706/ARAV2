@@ -1,0 +1,13 @@
+owner=CAT
+controller=CAT
+add_core=CAT
+add_core=SPA
+trade_goods = grain
+life_rating = 31
+terrain = mountain
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

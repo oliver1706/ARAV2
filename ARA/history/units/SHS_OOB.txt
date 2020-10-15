@@ -1,0 +1,146 @@
+#Sphere of Influence
+
+ABU = {
+	value = -1
+	level = 2
+}
+ALB = {
+	value = -2
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -1
+	level = 2
+}
+BUG = {
+	value = -2
+	level = 2
+}
+CAT = {
+	value = -2
+	level = 2
+}
+CRS = {
+	value = -1
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = -4
+	level = 2
+}
+HDJ = {
+	value = -2
+	level = 2
+}
+IRE = {
+	value = -3
+	level = 2
+}
+KER = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = -2
+	level = 2
+}
+LOM = {
+	value = -2
+	level = 2
+}
+MFA = {
+	value = -3
+	level = 2
+}
+MHR = {
+	value = -3
+	level = 2
+}
+MKU = {
+	value = -2
+	level = 2
+}
+MTA = {
+	value = -3
+	level = 2
+}
+NEJ = {
+	value = -2
+	level = 2
+}
+PAP = {
+	value = -2
+	level = 2
+}
+PAR = {
+	value = -2
+	level = 2
+}
+PGA = {
+	value = -2
+	level = 2
+}
+SCY = {
+	value = -2
+	level = 2
+}
+SHS = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = -4
+	level = 2
+}
+SKA = {
+	value = -2
+	level = 2
+}
+SWA = {
+	value = -2
+	level = 2
+}
+SYR = {
+	value = -2
+	level = 2
+}
+TUS = {
+	value = -2
+	level = 2
+}
+URB = {
+	value = -2
+	level = 2
+}
+WAL = {
+	value = -2
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = -1
+	level = 2
+}
+YAQ = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = -2
+	level = 2
+}
+
+#Leaders
+
+#Armies

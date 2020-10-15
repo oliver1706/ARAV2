@@ -1,0 +1,7 @@
+owner=MTA
+controller=MTA
+add_core=ITA
+add_core=MTA
+trade_goods = silk
+life_rating = 35
+terrain = farmlands

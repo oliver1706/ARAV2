@@ -1,0 +1,8 @@
+owner=GNV
+controller=GNV
+add_core=GER
+add_core=GNV
+trade_goods = iron
+life_rating = 40
+terrain = mountain
+fort = 1

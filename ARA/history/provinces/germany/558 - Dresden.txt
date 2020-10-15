@@ -1,0 +1,20 @@
+owner=BRN
+controller=BRN
+add_core=BRN
+add_core=GER
+trade_goods = coal
+life_rating = 40
+terrain = woods
+fort = 1
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}

@@ -1,0 +1,5 @@
+owner=X17
+controller=X17
+trade_goods = cattle
+life_rating = 35
+terrain = plains

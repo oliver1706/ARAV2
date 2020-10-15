@@ -1,0 +1,286 @@
+#Sphere of Influence
+
+ABU = {
+	value = -1
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = -2
+	level = 2
+}
+ARD = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = -2
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -1
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = -2
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = -2
+	level = 2
+}
+CRS = {
+	value = -1
+	level = 2
+}
+CSH = {
+	value = -1
+	level = 2
+}
+CYI = {
+	value = -2
+	level = 2
+}
+DAI = {
+	value = -2
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = -4
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = -2
+	level = 2
+}
+IRE = {
+	value = -3
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = -2
+	level = 2
+}
+LOM = {
+	value = -2
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MDR = {
+	value = 0
+	level = 2
+}
+MFA = {
+	value = -3
+	level = 2
+}
+MHR = {
+	value = -3
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = -2
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 50
+	level = 3
+}
+MTA = {
+	value = -3
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = -2
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = -2
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = -2
+	level = 2
+}
+PAR = {
+	value = -2
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PGA = {
+	value = -2
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+SBP = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = -2
+	level = 2
+}
+SHU = {
+	value = -4
+	level = 2
+}
+SHY = {
+	value = -4
+	level = 2
+}
+SKA = {
+	value = -2
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = -2
+	level = 2
+}
+SYR = {
+	value = -2
+	level = 2
+}
+TUS = {
+	value = -2
+	level = 2
+}
+URB = {
+	value = -2
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = -2
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = -1
+	level = 2
+}
+YEM = {
+	value = -2
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

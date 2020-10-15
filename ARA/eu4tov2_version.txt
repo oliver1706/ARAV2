@@ -1,0 +1,1 @@
+Converter version 1.0Q "Qi-prerelease" - compatible with 1.30 and previous

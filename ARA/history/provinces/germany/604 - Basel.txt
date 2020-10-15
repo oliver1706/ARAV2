@@ -1,0 +1,7 @@
+owner=GNV
+controller=GNV
+add_core=GER
+add_core=GNV
+trade_goods = fruit
+life_rating = 35
+terrain = mountain

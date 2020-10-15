@@ -1,0 +1,368 @@
+2191 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 930
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 122
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 23358
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1034
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 394
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 25604
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 574
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 819
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 41
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 13327
+	}
+
+	artisans=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 1336
+	}
+
+	clergymen=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 67
+	}
+
+	officers=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 281
+	}
+
+}
+2192 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 629
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 83
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 15799
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 700
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 267
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 17319
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 388
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 554
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 90
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 28
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 9014
+	}
+
+	artisans=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 904
+	}
+
+	clergymen=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 147
+	}
+
+	bureaucrats=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 45
+	}
+
+	officers=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = italoamericano
+		religion = protestant
+		size= 190
+	}
+
+}

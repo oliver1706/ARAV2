@@ -1,0 +1,7 @@
+owner=X03
+controller=X03
+add_core=IRQ
+trade_goods = wool
+life_rating = 35
+terrain = plains
+naval_base = 1

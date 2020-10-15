@@ -1,0 +1,158 @@
+2123 = {
+	aristocrats=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 325
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 3425
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 5500
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 50
+	}
+
+}
+2124 = {
+	aristocrats=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 900
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 10
+	}
+
+}

@@ -1,0 +1,6 @@
+owner=X04
+controller=X04
+trade_goods = cattle
+life_rating = 15
+terrain = arctic
+colonial=2

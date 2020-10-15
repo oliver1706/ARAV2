@@ -1,0 +1,5 @@
+owner=NUP
+controller=NUP
+trade_goods = coal
+life_rating = 15
+terrain = plains

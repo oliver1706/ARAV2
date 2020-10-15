@@ -1,0 +1,875 @@
+#Sphere of Influence
+
+ABU = {
+	value = -1
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = -2
+	level = 2
+}
+ARD = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = -82
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+AUV = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AZT = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BEN = {
+	value = 131
+	influence_value = 20
+	level = 3
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -1
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRB = {
+	value = 0
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = -2
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = -17
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = -2
+	level = 2
+}
+BUL = {
+	value = -2
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = -2
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = -1
+	level = 2
+}
+CSH = {
+	value = -1
+	level = 2
+}
+CST = {
+	value = -5
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = -2
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = -9
+	level = 2
+}
+DAU = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = -4
+	level = 2
+}
+EGY = {
+	value = -4
+	level = 2
+}
+ENG = {
+	value = 4
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FOI = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 182
+	influence_value = 33
+	level = 4
+}
+GEN = {
+	value = -4
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = -2
+	level = 2
+}
+IRE = {
+	value = -3
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = 0
+	level = 2
+}
+KAZ = {
+	value = 7
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 3
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = -2
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LIG = {
+	value = 0
+	level = 2
+}
+LND = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = -2
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDR = {
+	value = -2
+	level = 2
+}
+MFA = {
+	value = -3
+	level = 2
+}
+MHR = {
+	value = -3
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = -2
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = -3
+	level = 2
+}
+MUS = {
+	value = -40
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NAV = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = -2
+	level = 2
+}
+NEP = {
+	value = -7
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = -34
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORL = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = -2
+	level = 2
+}
+PAR = {
+	value = -2
+	level = 2
+}
+PER = {
+	value = -1
+	level = 2
+}
+PGA = {
+	value = -2
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = -4
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = -2
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SGU = {
+	value = 0
+	level = 2
+}
+SHU = {
+	value = -4
+	level = 2
+}
+SHY = {
+	value = -19
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = -2
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = -2
+	level = 2
+}
+SYR = {
+	value = -6
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = -2
+	level = 2
+}
+UKR = {
+	value = -2
+	level = 2
+}
+URB = {
+	value = -2
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = -2
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = -1
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = -54
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+YAQ = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = -2
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Al-Hajj V Keita"
+	date="1809.4.23"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Dhu al-Nun Konare"
+	date="1802.5.25"
+	type=sea
+	personality="inspiring"
+	background="aristocrat"
+}
+
+leader = {
+	name="Mahmud Keita"
+	date="1809.4.25"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Sa'ud 'Arjud Konare"
+	date="1813.6.25"
+	type=sea
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+
+#Armies
+army = {
+	name="5th Army"
+	location=1882
+	regiment = {
+		name="1st Timbo Irregulars"
+		type=irregular
+		home=1880
+	}
+	regiment = {
+		name="1st Timbo Artillery"
+		type=artillery
+		home=1880
+	}
+	regiment = {
+		name="1st Bougouni Irregulars"
+		type=irregular
+		home=1798
+	}
+	regiment = {
+		name="1st Kayes Artillery"
+		type=artillery
+		home=1795
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1786
+	regiment = {
+		name="1st Dinguiraye Irregulars"
+		type=irregular
+		home=1881
+	}
+	regiment = {
+		name="1st Bougouni Artillery"
+		type=artillery
+		home=1798
+	}
+	regiment = {
+		name="2nd Bamako Irregulars"
+		type=irregular
+		home=1794
+	}
+	regiment = {
+		name="1st Gabu Artillery"
+		type=artillery
+		home=1878
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1877
+	ship = {
+		name="1st Saint-Louis Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Banjul Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rosso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bissau Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Free Company"
+	location=1786
+	regiment = {
+		name="1st Bakel Irregulars"
+		type=irregular
+		home=1791
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1904
+	regiment = {
+		name="2nd Timbo Irregulars"
+		type=irregular
+		home=1880
+	}
+	regiment = {
+		name="1st Kankan Artillery"
+		type=artillery
+		home=1882
+	}
+	regiment = {
+		name="1st Linguere Artillery"
+		type=artillery
+		home=1786
+	}
+	regiment = {
+		name="1st Linguere Irregulars"
+		type=irregular
+		home=1786
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1910
+	regiment = {
+		name="1st Bamako Irregulars"
+		type=irregular
+		home=1794
+	}
+	regiment = {
+		name="1st Kayes Irregulars"
+		type=irregular
+		home=1795
+	}
+	regiment = {
+		name="1st Dinguiraye Artillery"
+		type=artillery
+		home=1881
+	}
+	regiment = {
+		name="2nd Bougouni Artillery"
+		type=artillery
+		home=1798
+	}
+	regiment = {
+		name="1st Bakel Artillery"
+		type=artillery
+		home=1791
+	}
+	regiment = {
+		name="2nd Timbo Artillery"
+		type=artillery
+		home=1880
+	}
+	regiment = {
+		name="2nd Linguere Irregulars"
+		type=irregular
+		home=1786
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=1907
+	ship = {
+		name="1st Bissau Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bissau Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Accra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bissau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bissau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bissau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Boffa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Boffa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Grand Bassam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bissau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ziguinchor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Boffa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Bissau Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1795
+	regiment = {
+		name="2nd Kankan Artillery"
+		type=artillery
+		home=1882
+	}
+	regiment = {
+		name="1st Bamako Artillery"
+		type=artillery
+		home=1794
+	}
+	regiment = {
+		name="2nd Bakel Artillery"
+		type=artillery
+		home=1791
+	}
+}
+

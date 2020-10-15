@@ -1,0 +1,5 @@
+owner=X21
+controller=X21
+trade_goods = iron
+life_rating = 35
+terrain = forest

@@ -1,0 +1,602 @@
+2068 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 943
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 616
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 116
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 8
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 129
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 14988
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = sunni
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = sunni
+		size= 60
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = sunni
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = sunni
+		size= 13
+	}
+
+}
+2069 = {
+	aristocrats=
+	{
+		culture = shona
+		religion = animist
+		size= 450
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = animist
+		size= 1200
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = animist
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = animist
+		size= 21850
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = animist
+		size= 250
+	}
+
+}
+2070 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 1349
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 3372
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 181
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 12
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 18929
+	}
+
+}
+2071 = {
+	aristocrats=
+	{
+		culture = nguni
+		religion = animist
+		size= 250
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = animist
+		size= 600
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = animist
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = sotho
+		religion = animist
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = animist
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = animist
+		size= 10825
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = animist
+		size= 2700
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = animist
+		size= 1825
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = animist
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = animist
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = sotho
+		religion = animist
+		size= 25
+	}
+
+}
+2072 = {
+	aristocrats=
+	{
+		culture = shona
+		religion = animist
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = animist
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = animist
+		size= 5475
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 4575
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = animist
+		size= 75
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = animist
+		size= 25
+	}
+
+}
+2073 = {
+	aristocrats=
+	{
+		culture = shona
+		religion = animist
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size= 800
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = animist
+		size= 1800
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 14575
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 175
+	}
+
+}
+2635 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 840
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 496
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 7723
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = catholic
+		size= 145
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = catholic
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = sunni
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = sunni
+		size= 646
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = sunni
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = sunni
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = sunni
+		size= 39
+	}
+
+}

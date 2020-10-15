@@ -1,0 +1,4670 @@
+647 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 2373
+	}
+
+	craftsmen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 3223
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 903
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 158
+	}
+
+	clerks=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 11
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 17
+	}
+
+	capitalists=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 73423
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 720
+	}
+
+	craftsmen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 978
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 1451
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 253
+	}
+
+	clerks=
+	{
+		culture = romanian
+		religion = catholic
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 27
+	}
+
+	capitalists=
+	{
+		culture = romanian
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 144
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 20723
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 284
+	}
+
+	craftsmen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 385
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = catholic
+		size= 2786
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 485
+	}
+
+	clerks=
+	{
+		culture = slovak
+		religion = catholic
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 52
+	}
+
+	capitalists=
+	{
+		culture = slovak
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 276
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 5268
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = protestant
+		size= 2639
+	}
+
+	craftsmen=
+	{
+		culture = slovak
+		religion = protestant
+		size= 3584
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = protestant
+		size= 13171
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = protestant
+		size= 2292
+	}
+
+	clerks=
+	{
+		culture = slovak
+		religion = protestant
+		size= 355
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = protestant
+		size= 155
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = protestant
+		size= 248
+	}
+
+	capitalists=
+	{
+		culture = slovak
+		religion = protestant
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = protestant
+		size= 1303
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = protestant
+		size= 65667
+	}
+
+}
+651 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1220
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 415
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 6
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 39250
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 372
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 666
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 128
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 11130
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 146
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = catholic
+		size= 1279
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 244
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 144
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 2933
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = protestant
+		size= 1357
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = protestant
+		size= 6043
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = protestant
+		size= 1150
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = protestant
+		size= 81
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = protestant
+		size= 130
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = protestant
+		size= 683
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = protestant
+		size= 35631
+	}
+
+}
+652 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 2534
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 1024
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 332
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 52
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 215
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 117405
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = orthodox
+		size= 189
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = orthodox
+		size= 338
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = orthodox
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = orthodox
+		size= 17
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = orthodox
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = orthodox
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = orthodox
+		size= 8341
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 1986
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 8054
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 2618
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 402
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 261
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 1692
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 80771
+	}
+
+}
+653 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 7001
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 761
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 247
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 160
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 67272
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1707
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1132
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 368
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 57
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 82
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 238
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 14842
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 4395
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 3804
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1236
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 190
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 276
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 799
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 36765
+	}
+
+}
+654 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 502
+	}
+
+	craftsmen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 3285
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 166
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 32
+	}
+
+	clerks=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 4
+	}
+
+	capitalists=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 13651
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 178
+	}
+
+	craftsmen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 1159
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 283
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 54
+	}
+
+	clerks=
+	{
+		culture = romanian
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 6
+	}
+
+	capitalists=
+	{
+		culture = romanian
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 4433
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 24
+	}
+
+	craftsmen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 157
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = catholic
+		size= 480
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 92
+	}
+
+	clerks=
+	{
+		culture = slovak
+		religion = catholic
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 11
+	}
+
+	capitalists=
+	{
+		culture = slovak
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 56
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = protestant
+		size= 546
+	}
+
+	craftsmen=
+	{
+		culture = slovak
+		religion = protestant
+		size= 3569
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = protestant
+		size= 2367
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = protestant
+		size= 455
+	}
+
+	clerks=
+	{
+		culture = slovak
+		religion = protestant
+		size= 354
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = protestant
+		size= 33
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = protestant
+		size= 52
+	}
+
+	capitalists=
+	{
+		culture = slovak
+		religion = protestant
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = protestant
+		size= 275
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = protestant
+		size= 11095
+	}
+
+}
+655 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 898
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 326
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 29628
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 367
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 591
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 106
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 11484
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 637
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1838
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 330
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 23
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 193
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 18813
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 348
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 3757
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 675
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 47
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 394
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 6440
+	}
+
+}
+656 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 715
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 252
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 24225
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 292
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 457
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 9390
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 507
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1420
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 260
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 18
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 154
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 15383
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 277
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 2903
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 533
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 37
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 314
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 5266
+	}
+
+}
+657 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 374
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 191
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 36134
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 124
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 317
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 11571
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1767
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 321
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 23
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 188
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 3381
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 135
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 3373
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 613
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 43
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 359
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 8427
+	}
+
+}
+659 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 220
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 105
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 21615
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 73
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 174
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 6922
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 964
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 187
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 13
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 114
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 2024
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 1842
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 358
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 26
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 216
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 5042
+	}
+
+}
+660 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 330
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 546
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 31545
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 148
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1036
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 116
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 11
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 13189
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1817
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 203
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 20
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1236
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 4614
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 516
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 51
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 304
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 3276
+	}
+
+}
+661 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 961
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 28486
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 340
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 598
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 107
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 9465
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 46
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = catholic
+		size= 1015
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 181
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 133
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = protestant
+		size= 1045
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = protestant
+		size= 5005
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = protestant
+		size= 895
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = protestant
+		size= 62
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = protestant
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = protestant
+		size= 521
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = protestant
+		size= 25251
+	}
+
+}
+663 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 603
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 72
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 29350
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 293
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 13905
+	}
+
+	soldiers=
+	{
+		culture = polish
+		religion = catholic
+		size= 97
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = catholic
+		size= 345
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = catholic
+		size= 92
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = catholic
+		size= 117
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = catholic
+		size= 3932
+	}
+
+	soldiers=
+	{
+		culture = polish
+		religion = protestant
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = protestant
+		size= 666
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = protestant
+		size= 177
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = protestant
+		size= 38
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = protestant
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = protestant
+		size= 226
+	}
+
+}
+664 = {
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = orthodox
+		size= 118
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 2048
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 3291
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 548
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 51
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 307
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 59793
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = protestant
+		size= 61
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1064
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 6712
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1119
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 104
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 119
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 626
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 24857
+	}
+
+}
+665 = {
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = orthodox
+		size= 31
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 2319
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 504
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 189
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 13
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 44627
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = protestant
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 429
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 690
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 259
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 17
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 145
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 7253
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = protestant
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 831
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 1917
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 719
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 48
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 115
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 403
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 13095
+	}
+
+}
+666 = {
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = orthodox
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1256
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1009
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 16
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 110
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 40831
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = protestant
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 283
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1464
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 244
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 23
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 159
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 7585
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = protestant
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 667
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 4619
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 770
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 72
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 82
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 503
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 16352
+	}
+
+}
+667 = {
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = orthodox
+		size= 189
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 2061
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1008
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 16
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 110
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 36589
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = protestant
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 172
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1177
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 196
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 18
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1618
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = protestant
+		size= 81
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 876
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 3898
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 650
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 61
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 104
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 424
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 10975
+	}
+
+}
+668 = {
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = orthodox
+		size= 97
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1485
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 597
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 9
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 46703
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = catholic
+		size= 18
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 262
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 807
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 135
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 151
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 7251
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = protestant
+		size= 34
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 515
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 5867
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 978
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 92
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1096
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 8338
+	}
+
+}
+669 = {
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = orthodox
+		size= 49
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1085
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 436
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 7
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 35046
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = catholic
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 191
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 590
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 110
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 5462
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = protestant
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 376
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 4286
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 715
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 66
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 800
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 6415
+	}
+
+}
+670 = {
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = orthodox
+		size= 121
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1719
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1719
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 645
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 43
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 361
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 71088
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = catholic
+		size= 91
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 1288
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 4295
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 1611
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 107
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 86
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 902
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 48495
+	}
+
+}
+671 = {
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = orthodox
+		size= 33
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 696
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 696
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 261
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 17
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 30640
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = catholic
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 521
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 1739
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 652
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 365
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 20979
+	}
+
+}
+672 = {
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = orthodox
+		size= 46
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 939
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 469
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 176
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 12
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 41206
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = catholic
+		size= 53
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 1087
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 1557
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 584
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 39
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 327
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 46077
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = protestant
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 333
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 2693
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1010
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 67
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 565
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 10513
+	}
+
+}
+673 = {
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = orthodox
+		size= 28
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 693
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 346
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 130
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 9
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 30976
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = catholic
+		size= 32
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 803
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 1149
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 431
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 29
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 241
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 34660
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = protestant
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 246
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1988
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 745
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 50
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 417
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 7959
+	}
+
+}
+674 = {
+	slaves=
+	{
+		culture = afro_slavic
+		religion = orthodox
+		size= 1015
+	}
+
+	soldiers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size= 848
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size= 76
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size= 28313
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = orthodox
+		size= 322
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 269
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 124
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 8819
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 172
+	}
+
+	soldiers=
+	{
+		culture = creuat
+		religion = catholic
+		size= 144
+	}
+
+	artisans=
+	{
+		culture = creuat
+		religion = catholic
+		size= 251
+	}
+
+	clergymen=
+	{
+		culture = creuat
+		religion = catholic
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = creuat
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = creuat
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = creuat
+		religion = catholic
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = creuat
+		religion = catholic
+		size= 4403
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = catholic
+		size= 60
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 486
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 872
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = protestant
+		size= 455
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 380
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1480
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 555
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 37
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 311
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 10279
+	}
+
+}
+675 = {
+	slaves=
+	{
+		culture = afro_slavic
+		religion = orthodox
+		size= 727
+	}
+
+	soldiers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size= 402
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size= 72
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size= 13106
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = catholic
+		size= 98
+	}
+
+	soldiers=
+	{
+		culture = bulgarian
+		religion = catholic
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = catholic
+		size= 91
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = catholic
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = catholic
+		size= 1639
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = catholic
+		size= 29
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 174
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 241
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = protestant
+		size= 258
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 142
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 541
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 203
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 114
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 3786
+	}
+
+}
+2533 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 459
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = catholic
+		size= 772
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = catholic
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = catholic
+		size= 43742
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 206
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1465
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 162
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 16
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 18290
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 2570
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 284
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 28
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 165
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1712
+	}
+
+	soldiers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 128
+	}
+
+	artisans=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 6525
+	}
+
+	clergymen=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 720
+	}
+
+	bureaucrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 70
+	}
+
+	officers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 419
+	}
+
+	farmers=
+	{
+		culture = venetian_italian
+		religion = protestant
+		size= 4543
+	}
+
+}

@@ -1,0 +1,5 @@
+owner=AWA
+controller=GUJ
+trade_goods = cotton
+life_rating = 32
+terrain = plains

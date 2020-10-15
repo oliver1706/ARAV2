@@ -1,0 +1,935 @@
+#Sphere of Influence
+
+ABU = {
+	value = -1
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = -2
+	level = 2
+}
+ARD = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = -8
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+AUV = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = -12
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+AZT = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -2
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRB = {
+	value = 0
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = -2
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = -17
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = -2
+	level = 2
+}
+BUL = {
+	value = -2
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = -2
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = -1
+	level = 2
+}
+CSH = {
+	value = -1
+	level = 2
+}
+CST = {
+	value = -4
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = -2
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 1
+	level = 2
+}
+DAU = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = -4
+	level = 2
+}
+EGY = {
+	value = -4
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FOI = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = -5
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = -3
+	level = 2
+}
+IRE = {
+	value = -3
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+JOD = {
+	value = -86
+	level = 2
+}
+KAZ = {
+	value = 160
+	influence_value = 27
+	level = 4
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 3
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = -2
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LIG = {
+	value = 0
+	level = 2
+}
+LND = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = -2
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = -11
+	level = 2
+}
+MDR = {
+	value = -5
+	level = 2
+}
+MFA = {
+	value = -3
+	level = 2
+}
+MHR = {
+	value = -3
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = -2
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = -4
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NAV = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = -3
+	level = 2
+}
+NEP = {
+	value = -41
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = -8
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+ORL = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = -2
+	level = 2
+}
+PAR = {
+	value = -2
+	level = 2
+}
+PER = {
+	value = -1
+	level = 2
+}
+PGA = {
+	value = -2
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = -4
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+SBP = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = -2
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SGU = {
+	value = 0
+	level = 2
+}
+SHU = {
+	value = -4
+	level = 2
+}
+SHY = {
+	value = -43
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = -2
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SRD = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = -2
+	level = 2
+}
+SYR = {
+	value = -6
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = -3
+	level = 2
+}
+UKR = {
+	value = -2
+	level = 2
+}
+URB = {
+	value = -2
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = -2
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = -1
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+YAQ = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = -2
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Mahmud II Kanjar"
+	date="1817.4.6"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Ahmad Kanjar"
+	date="1817.4.7"
+	type=land
+	personality="audacious"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Mubarak Khan"
+	date="1817.4.10"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Mahmud Tomara"
+	date="1817.4.12"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Rajsinhji Parikh"
+	date="1817.4.14"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Nasir Munshi"
+	date="1817.4.20"
+	type=land
+	personality="resolute"
+	background="bootlicker"
+}
+
+leader = {
+	name="Fath Bhilala"
+	date="1817.8.28"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=1292
+	ship = {
+		name="1st Surat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gujarati Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Karachi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Gujarati Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Surat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Gujarati Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tanjore Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1290
+	regiment = {
+		name="1st Lahore Irregulars"
+		type=irregular
+		home=1227
+	}
+	regiment = {
+		name="2nd Lahore Irregulars"
+		type=irregular
+		home=1227
+	}
+	regiment = {
+		name="1st Jaisalmer Artillery"
+		type=artillery
+		home=1265
+	}
+	regiment = {
+		name="1st Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="1st Bikaner Artillery"
+		type=artillery
+		home=1267
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2791
+	ship = {
+		name="1st Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Surat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mandvi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Surat Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1228
+	regiment = {
+		name="1st Bikaner Irregulars"
+		type=irregular
+		home=1267
+	}
+	regiment = {
+		name="1st Jaisalmer Irregulars"
+		type=irregular
+		home=1265
+	}
+	regiment = {
+		name="1st Mandvi Irregulars"
+		type=irregular
+		home=1293
+	}
+	regiment = {
+		name="2nd Jaisalmer Irregulars"
+		type=irregular
+		home=1265
+	}
+	regiment = {
+		name="1st Sukkur Artillery"
+		type=artillery
+		home=1289
+	}
+	regiment = {
+		name="2nd Jaisalmer Artillery"
+		type=artillery
+		home=1265
+	}
+	regiment = {
+		name="1st Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="3rd Jaisalmer Artillery"
+		type=artillery
+		home=1265
+	}
+	regiment = {
+		name="1st Mandvi Artillery"
+		type=artillery
+		home=1293
+	}
+	regiment = {
+		name="2nd Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2791
+	ship = {
+		name="3rd Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gujarati Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=1292
+	ship = {
+		name="4th Rajkot Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1230
+	regiment = {
+		name="1st Shahpur Irregulars"
+		type=irregular
+		home=1232
+	}
+	regiment = {
+		name="2nd Shahpur Irregulars"
+		type=irregular
+		home=1232
+	}
+}
+

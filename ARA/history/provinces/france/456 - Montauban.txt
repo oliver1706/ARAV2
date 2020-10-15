@@ -1,0 +1,8 @@
+owner=GYN
+controller=GYN
+add_core=FRA
+add_core=GYN
+add_core=OCC
+trade_goods = tobacco
+life_rating = 30
+terrain = plains
