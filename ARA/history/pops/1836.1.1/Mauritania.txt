@@ -526,43 +526,6 @@
 	}
 
 }
-1780 = {
-	aristocrats=
-	{
-		culture = maures
-		religion = sunni
-		size= 50
-	}
-
-	artisans=
-	{
-		culture = maures
-		religion = sunni
-		size= 150
-	}
-
-	clergymen=
-	{
-		culture = maures
-		religion = sunni
-		size= 75
-	}
-
-	farmers=
-	{
-		culture = maures
-		religion = sunni
-		size= 2700
-	}
-
-	soldiers=
-	{
-		culture = maures
-		religion = sunni
-		size= 25
-	}
-
-}
 1781 = {
 	aristocrats=
 	{

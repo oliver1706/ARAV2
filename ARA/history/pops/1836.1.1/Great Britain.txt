@@ -4866,3 +4866,38 @@
 	}
 
 }
+
+#Orkney & Shetland - former Tamanrasset
+1724 = {
+
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 40
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 225
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 375
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 5860
+    }
+
+}

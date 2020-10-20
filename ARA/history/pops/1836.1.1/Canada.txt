@@ -72,43 +72,6 @@
 	}
 
 }
-8 = {
-	aristocrats=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 10
-	}
-
-	artisans=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 50
-	}
-
-	clergymen=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 25
-	}
-
-	farmers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 900
-	}
-
-	soldiers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 15
-	}
-
-}
 9 = {
 	aristocrats=
 	{
@@ -143,43 +106,6 @@
 		culture = na_dene
 		religion = totemism
 		size= 10
-	}
-
-}
-10 = {
-	aristocrats=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 10
-	}
-
-	artisans=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 50
-	}
-
-	clergymen=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 25
-	}
-
-	farmers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 900
-	}
-
-	soldiers=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 15
 	}
 
 }

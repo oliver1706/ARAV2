@@ -1,6 +1,7 @@
-owner=EGY
-controller=EGY
-add_core=EGY
-trade_goods = wool
-life_rating = 25
-terrain = desert
+owner = NET
+controller = NET
+add_core = NET
+add_core = NET
+trade_goods = cattle
+life_rating = 40
+1861.1.1 = { railroad = 3 }

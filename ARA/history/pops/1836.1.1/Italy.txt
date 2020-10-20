@@ -5638,3 +5638,100 @@
 	}
 
 }
+
+#Belluno - Former Ross River (4000/1000 POPS)
+8 = {
+    clergymen = {
+        culture = south_german
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = south_german
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = venetian_italian
+        religion = catholic
+        size = 17600
+    }
+
+    farmers = {
+        culture = south_german
+        religion = catholic
+        size = 1000
+    }
+
+}
+
+#Elba - Former Impfondo (32000/8000 POPS)
+1981 = {
+
+    clergymen = {
+        culture = north_italian
+        religion = catholic
+        size = 35
+    }
+
+    artisans = {
+        culture = north_italian
+        religion = catholic
+        size = 450
+    }
+
+    soldiers = {
+        culture = north_italian
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = north_italian
+        religion = catholic
+        size = 3065
+    }
+
+}
+
+
+#Pescara - Former Inuvik (4000/1000 POPS)
+10 = {
+    clergymen = {
+        culture = south_italian
+        religion = catholic
+        size = 600
+    }
+
+    artisans = {
+        culture = south_italian
+        religion = catholic
+        size = 3125
+    }
+
+    soldiers = {
+        culture = south_italian
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = south_italian
+        religion = catholic
+        size = 64850
+    }
+
+    farmers = {
+        culture = croat
+        religion = catholic
+        size = 3000
+    }
+}

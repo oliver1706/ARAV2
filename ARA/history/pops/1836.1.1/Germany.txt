@@ -8460,3 +8460,95 @@
 	}
 
 }
+
+#Former Ghat - Now Nordhorn(16000/4000 POPS)
+1743 = {
+    officers = {
+        culture = dutch
+        religion = protestant
+        size = 25
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 400
+    }
+
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 88
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 2000
+    }
+
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 6000
+    }
+
+    farmers = {
+        culture = north_german
+        size = 500
+        religion = catholic
+    }
+
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 15
+    }
+
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 985
+    }
+
+}
+
+#Sondrio - former Amga (6000/1500 POPS)
+2669 = {
+    clergymen = {
+        culture = south_german
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = north_italian
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = north_italian
+        religion = catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = south_german
+        religion = protestant
+        size = 18000
+    }
+
+    farmers = {
+        culture = north_italian
+        religion = catholic
+        size = 12000
+    }
+
+}

@@ -228,43 +228,6 @@
 	}
 
 }
-1981 = {
-	aristocrats=
-	{
-		culture = african_minor
-		religion = animist
-		size= 150
-	}
-
-	artisans=
-	{
-		culture = african_minor
-		religion = animist
-		size= 400
-	}
-
-	clergymen=
-	{
-		culture = african_minor
-		religion = animist
-		size= 75
-	}
-
-	farmers=
-	{
-		culture = african_minor
-		religion = animist
-		size= 7300
-	}
-
-	soldiers=
-	{
-		culture = african_minor
-		religion = animist
-		size= 75
-	}
-
-}
 2624 = {
 	slaves=
 	{
