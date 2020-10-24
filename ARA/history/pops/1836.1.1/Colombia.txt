@@ -1493,7 +1493,7 @@
 	{
 		culture = south_hispano
 		religion = catholic
-		size= 302
+		size= 1033
 	}
 
 	artisans=
@@ -1535,7 +1535,7 @@
 	{
 		culture = south_hispano
 		religion = catholic
-		size= 7847
+		size= 7116
 	}
 
 }
@@ -1693,7 +1693,7 @@
 	{
 		culture = south_hispano
 		religion = catholic
-		size= 377
+		size= 1033
 	}
 
 	artisans=
@@ -1735,7 +1735,7 @@
 	{
 		culture = south_hispano
 		religion = catholic
-		size= 11134
+		size= 10478
 	}
 
 	soldiers=

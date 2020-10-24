@@ -57,42 +57,42 @@
 
 	soldiers=
 	{
-		culture = north_hispano
+		culture = cambio
 		religion = catholic
 		size= 4634
 	}
 
 	artisans=
 	{
-		culture = north_hispano
+		culture = cambio
 		religion = catholic
 		size= 8034
 	}
 
 	clergymen=
 	{
-		culture = north_hispano
+		culture = cambio
 		religion = catholic
 		size= 580
 	}
 
 	bureaucrats=
 	{
-		culture = north_hispano
+		culture = cambio
 		religion = catholic
 		size= 268
 	}
 
 	officers=
 	{
-		culture = north_hispano
+		culture = cambio
 		religion = catholic
 		size= 143
 	}
 
 	aristocrats=
 	{
-		culture = north_hispano
+		culture = cambio
 		religion = catholic
 		size= 750
 	}
@@ -115,28 +115,28 @@
 
 	soldiers=
 	{
-		culture = north_hispano
+		culture = cambio
 		religion = catholic
 		size= 6
 	}
 
 	artisans=
 	{
-		culture = north_hispano
+		culture = cambio
 		religion = catholic
 		size= 11
 	}
 
 	clergymen=
 	{
-		culture = north_hispano
+		culture = cambio
 		religion = catholic
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = north_hispano
+		culture = cambio
 		religion = catholic
 		size= 3
 	}

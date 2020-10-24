@@ -138,7 +138,7 @@
 	{
 		culture = south_hispano
 		religion = catholic
-		size= 1033
+		size= 93
 	}
 
 	artisans=
@@ -180,7 +180,7 @@
 	{
 		culture = south_hispano
 		religion = catholic
-		size= 7517
+		size= 8457
 	}
 
 }
@@ -275,7 +275,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 32
+		size= 1033
 	}
 
 	artisans=
@@ -317,7 +317,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 3097
+		size= 2096
 	}
 
 	soldiers=
@@ -373,7 +373,7 @@
 	{
 		culture = south_hispano
 		religion = catholic
-		size= 61
+		size= 4133
 	}
 
 	artisans=
@@ -415,7 +415,7 @@
 	{
 		culture = south_hispano
 		religion = catholic
-		size= 5570
+		size= 1498
 	}
 
 }

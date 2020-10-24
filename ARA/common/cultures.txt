@@ -1851,6 +1851,23 @@ latin_american_cultures = {
 		last_names = { Acosta Alfau B�ez Batista Bayo Cabral Carmona Castillo Castro Cisneros de C�spedes de la Rosa de Meri�o de Rojas Espaillat Estrada Estrella Fern�ndez Figuereo Garc�a Gil G�mez Gonz�les Gonz�lez Grau Guillermo Henr�quez Herrera Hevia Laredo Luper�n Maceo Machado M�rquez Mella M�ndez Mendieta Moncada Morales Mota Pelletier Pimentel Puello Santana Sosa Trujillo Valverde V�squez V�zquez Zayas  }
 		
 	}
+	cambio = {
+		color = {122 11 74}
+
+		first_names = { Alberto Alejandro Alfredo Ambrosio Anselmo Antonio Arturo Benigno Buenaventura Calixto
+		Carlos Ceferino Ces�reo Demetrio Desiderio Dionisio Domingo Eugenio Federico Felipe
+		Fernando Fidel Fulgencio Gerardo Gregorio Guillermo Horacio Ignacio Jacinto Jacobo
+		Jes�s Joaqu�n Jos� "Jos� Miguel" Juan "Juan Bautista" Manuel Mariano Mario M�ximo
+		Osvaldo Pablo Pedro Rafael Ram�n Ra�l Salvador Rom�s Ulises Wenceslao
+		}
+
+		last_names = { Acosta Alfau B�ez Batista Bayo Cabral Carmona Castillo Castro Cisneros
+		"de C�spedes" "de la Rosa" "de Meri�o" "de Rojas" Espaillat Estrada Estrella Fern�ndez Figuereo Garc�a
+		Gil G�mez Gonz�les Gonz�lez Grau Guillermo Henr�quez Herrera Hevia Laredo
+		Luper�n Maceo Machado M�rquez Mella M�ndez Mendieta Moncada Morales Mota
+		Pelletier Pimentel Puello Santana Sosa Trujillo Valverde V�squez V�zquez Zayas
+		}
+	}
 	catalano = {
 		color = { 122 11 74 }
 		
