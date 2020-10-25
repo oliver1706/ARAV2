@@ -1,6 +1,6 @@
-owner=X12
-add_core=X12
-controller=X12
+owner=AFO
+add_core=AFO
+controller=AFO
 trade_goods = fish
 life_rating = 25
 terrain = arctic

@@ -656,7 +656,7 @@ X11 = {
 	value = 0
 	level = 2
 }
-X12 = {
+AFO = {
 	value = 0
 	level = 2
 }
@@ -791,11 +791,11 @@ navy = {
 	name="5th Fleet"
 	location=2965
 	ship = {
-		name="1st Mazatlán Frigate"
+		name="1st Mazatlï¿½n Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Culiacán Frigate"
+		name="1st Culiacï¿½n Frigate"
 		type=frigate
 	}
 	ship = {

@@ -656,7 +656,7 @@ X11 = {
 	value = 0
 	level = 2
 }
-X12 = {
+AFO = {
 	value = 0
 	level = 2
 }
@@ -845,7 +845,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Mérida Clipper Transport"
+		name="1st Mï¿½rida Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -861,7 +861,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Mérida Clipper Transport"
+		name="2nd Mï¿½rida Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {

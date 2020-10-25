@@ -501,7 +501,7 @@ X11 = {
 	value = 0
 	level = 2
 }
-X12 = {
+AFO = {
 	value = 0
 	level = 2
 }
@@ -621,19 +621,19 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Lübeck Man'o'war"
+		name="1st Lï¿½beck Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Lübeck Frigate"
+		name="1st Lï¿½beck Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Lübeck Frigate"
+		name="2nd Lï¿½beck Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Lübeck Frigate"
+		name="3rd Lï¿½beck Frigate"
 		type=frigate
 	}
 	ship = {
@@ -654,11 +654,11 @@ navy = {
 	name="1st Fleet"
 	location=2719
 	ship = {
-		name="4th Lübeck Frigate"
+		name="4th Lï¿½beck Frigate"
 		type=frigate
 	}
 	ship = {
-		name="6th Lübeck Frigate"
+		name="6th Lï¿½beck Frigate"
 		type=frigate
 	}
 }
@@ -716,7 +716,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="5th Lübeck Frigate"
+		name="5th Lï¿½beck Frigate"
 		type=frigate
 	}
 	ship = {
@@ -744,7 +744,7 @@ navy = {
 	name="4th Fleet"
 	location=2711
 	ship = {
-		name="1st Lübeck Clipper Transport"
+		name="1st Lï¿½beck Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -752,7 +752,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Köslin Clipper Transport"
+		name="1st Kï¿½slin Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -772,7 +772,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Lübeck Clipper Transport"
+		name="2nd Lï¿½beck Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {

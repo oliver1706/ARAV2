@@ -643,7 +643,7 @@ X11 = {
 	value = 0
 	level = 2
 }
-X12 = {
+AFO = {
 	value = 0
 	level = 2
 }
@@ -811,7 +811,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Malmö Man'o'war"
+		name="1st Malmï¿½ Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -843,7 +843,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Malmö Man'o'war"
+		name="2nd Malmï¿½ Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -895,7 +895,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="3rd Malmö Man'o'war"
+		name="3rd Malmï¿½ Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -907,7 +907,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="4th Malmö Man'o'war"
+		name="4th Malmï¿½ Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -923,7 +923,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="5th Malmö Man'o'war"
+		name="5th Malmï¿½ Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1013,7 +1013,7 @@ army = {
 	name="5th Army"
 	location=335
 	regiment = {
-		name="1st Malmö Infantry"
+		name="1st Malmï¿½ Infantry"
 		type=infantry
 		home=334
 	}
@@ -1088,27 +1088,27 @@ army = {
 		home=372
 	}
 	regiment = {
-		name="1st Umeå Infantry"
+		name="1st Umeï¿½ Infantry"
 		type=infantry
 		home=320
 	}
 	regiment = {
-		name="1st Borås Infantry"
+		name="1st Borï¿½s Infantry"
 		type=infantry
 		home=330
 	}
 	regiment = {
-		name="2nd Umeå Infantry"
+		name="2nd Umeï¿½ Infantry"
 		type=infantry
 		home=320
 	}
 	regiment = {
-		name="2nd Malmö Infantry"
+		name="2nd Malmï¿½ Infantry"
 		type=infantry
 		home=334
 	}
 	regiment = {
-		name="1st Åland Islands Infantry"
+		name="1st ï¿½land Islands Infantry"
 		type=infantry
 		home=348
 	}
@@ -1163,7 +1163,7 @@ army = {
 		home=335
 	}
 	regiment = {
-		name="1st Borås Artillery"
+		name="1st Borï¿½s Artillery"
 		type=artillery
 		home=330
 	}
@@ -1173,7 +1173,7 @@ army = {
 		home=313
 	}
 	regiment = {
-		name="1st Luleå Artillery"
+		name="1st Luleï¿½ Artillery"
 		type=artillery
 		home=321
 	}
@@ -1183,7 +1183,7 @@ army = {
 		home=328
 	}
 	regiment = {
-		name="2nd Borås Artillery"
+		name="2nd Borï¿½s Artillery"
 		type=artillery
 		home=330
 	}
@@ -1203,12 +1203,12 @@ army = {
 	name="24th Army"
 	location=305
 	regiment = {
-		name="2nd Borås Infantry"
+		name="2nd Borï¿½s Infantry"
 		type=infantry
 		home=330
 	}
 	regiment = {
-		name="1st Norrköping Infantry"
+		name="1st Norrkï¿½ping Infantry"
 		type=infantry
 		home=325
 	}
@@ -1263,12 +1263,12 @@ army = {
 		home=335
 	}
 	regiment = {
-		name="1st Hämeenlinna Infantry"
+		name="1st Hï¿½meenlinna Infantry"
 		type=infantry
 		home=344
 	}
 	regiment = {
-		name="1st Luleå Infantry"
+		name="1st Luleï¿½ Infantry"
 		type=infantry
 		home=321
 	}
@@ -1288,7 +1288,7 @@ army = {
 		home=372
 	}
 	regiment = {
-		name="1st Malmö Cavalry"
+		name="1st Malmï¿½ Cavalry"
 		type=cavalry
 		home=334
 	}
@@ -1333,17 +1333,17 @@ army = {
 		home=328
 	}
 	regiment = {
-		name="1st Malmö Artillery"
+		name="1st Malmï¿½ Artillery"
 		type=artillery
 		home=334
 	}
 	regiment = {
-		name="3rd Borås Artillery"
+		name="3rd Borï¿½s Artillery"
 		type=artillery
 		home=330
 	}
 	regiment = {
-		name="1st Växjö Artillery"
+		name="1st Vï¿½xjï¿½ Artillery"
 		type=artillery
 		home=333
 	}
@@ -1353,7 +1353,7 @@ army = {
 		home=998
 	}
 	regiment = {
-		name="2nd Växjö Artillery"
+		name="2nd Vï¿½xjï¿½ Artillery"
 		type=artillery
 		home=333
 	}
@@ -1363,7 +1363,7 @@ army = {
 		home=316
 	}
 	regiment = {
-		name="1st Königsberg Artillery"
+		name="1st Kï¿½nigsberg Artillery"
 		type=artillery
 		home=695
 	}
@@ -1378,7 +1378,7 @@ army = {
 		home=1015
 	}
 	regiment = {
-		name="3rd Borås Infantry"
+		name="3rd Borï¿½s Infantry"
 		type=infantry
 		home=330
 	}
@@ -1427,11 +1427,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Malmö Frigate"
+		name="2nd Malmï¿½ Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Malmö Frigate"
+		name="3rd Malmï¿½ Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1439,7 +1439,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Pärnu Frigate"
+		name="1st Pï¿½rnu Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1472,11 +1472,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Västerås Frigate"
+		name="1st Vï¿½sterï¿½s Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Malmö Frigate"
+		name="4th Malmï¿½ Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1484,11 +1484,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="5th Malmö Frigate"
+		name="5th Malmï¿½ Frigate"
 		type=frigate
 	}
 	ship = {
-		name="6th Malmö Frigate"
+		name="6th Malmï¿½ Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1504,11 +1504,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="7th Malmö Frigate"
+		name="7th Malmï¿½ Frigate"
 		type=frigate
 	}
 	ship = {
-		name="8th Malmö Frigate"
+		name="8th Malmï¿½ Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1618,12 +1618,12 @@ army = {
 		home=373
 	}
 	regiment = {
-		name="4th Borås Infantry"
+		name="4th Borï¿½s Infantry"
 		type=infantry
 		home=330
 	}
 	regiment = {
-		name="2nd Norrköping Infantry"
+		name="2nd Norrkï¿½ping Infantry"
 		type=infantry
 		home=325
 	}
@@ -1643,12 +1643,12 @@ army = {
 		home=328
 	}
 	regiment = {
-		name="3rd Växjö Artillery"
+		name="3rd Vï¿½xjï¿½ Artillery"
 		type=artillery
 		home=333
 	}
 	regiment = {
-		name="4th Norrköping Infantry"
+		name="4th Norrkï¿½ping Infantry"
 		type=infantry
 		home=325
 	}
@@ -1667,15 +1667,15 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="9th Malmö Frigate"
+		name="9th Malmï¿½ Frigate"
 		type=frigate
 	}
 	ship = {
-		name="10th Malmö Frigate"
+		name="10th Malmï¿½ Frigate"
 		type=frigate
 	}
 	ship = {
-		name="11th Malmö Frigate"
+		name="11th Malmï¿½ Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1683,7 +1683,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="12th Malmö Frigate"
+		name="12th Malmï¿½ Frigate"
 		type=frigate
 	}
 }
@@ -1692,7 +1692,7 @@ army = {
 	name="8th Army"
 	location=332
 	regiment = {
-		name="3rd Norrköping Infantry"
+		name="3rd Norrkï¿½ping Infantry"
 		type=infantry
 		home=325
 	}
@@ -1775,7 +1775,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Pärnu Clipper Transport"
+		name="1st Pï¿½rnu Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1795,7 +1795,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Malmö Clipper Transport"
+		name="1st Malmï¿½ Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {

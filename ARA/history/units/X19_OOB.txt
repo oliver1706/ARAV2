@@ -657,7 +657,7 @@ X11 = {
 	value = 0
 	level = 2
 }
-X12 = {
+AFO = {
 	value = 0
 	level = 2
 }
@@ -799,7 +799,7 @@ army = {
 		home=2166
 	}
 	regiment = {
-		name="1st Galápagos Infantry"
+		name="1st Galï¿½pagos Infantry"
 		type=infantry
 		home=2285
 	}
@@ -809,7 +809,7 @@ army = {
 		home=2170
 	}
 	regiment = {
-		name="1st Los Albañiles Infantry"
+		name="1st Los Albaï¿½iles Infantry"
 		type=infantry
 		home=2171
 	}
@@ -832,12 +832,12 @@ army = {
 	name="1st Army"
 	location=2191
 	regiment = {
-		name="2nd Galápagos Infantry"
+		name="2nd Galï¿½pagos Infantry"
 		type=infantry
 		home=2285
 	}
 	regiment = {
-		name="5th Galápagos Infantry"
+		name="5th Galï¿½pagos Infantry"
 		type=infantry
 		home=2285
 	}
@@ -890,7 +890,7 @@ army = {
 		home=2180
 	}
 	regiment = {
-		name="3rd Galápagos Infantry"
+		name="3rd Galï¿½pagos Infantry"
 		type=infantry
 		home=2285
 	}
@@ -900,7 +900,7 @@ army = {
 		home=2180
 	}
 	regiment = {
-		name="4th Galápagos Infantry"
+		name="4th Galï¿½pagos Infantry"
 		type=infantry
 		home=2285
 	}
@@ -920,7 +920,7 @@ navy = {
 	name="1st Fleet"
 	location=2179
 	ship = {
-		name="1st Los Albañiles Frigate"
+		name="1st Los Albaï¿½iles Frigate"
 		type=frigate
 	}
 	ship = {
@@ -941,7 +941,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Los Albañiles Frigate"
+		name="2nd Los Albaï¿½iles Frigate"
 		type=frigate
 	}
 }

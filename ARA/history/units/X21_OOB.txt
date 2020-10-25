@@ -657,7 +657,7 @@ X11 = {
 	value = 0
 	level = 2
 }
-X12 = {
+AFO = {
 	value = 0
 	level = 2
 }
@@ -767,7 +767,7 @@ army = {
 		home=67
 	}
 	regiment = {
-		name="1st Trois-Rivières Artillery"
+		name="1st Trois-Riviï¿½res Artillery"
 		type=artillery
 		home=64
 	}
@@ -782,7 +782,7 @@ army = {
 		home=66
 	}
 	regiment = {
-		name="1st Trois-Rivières Infantry"
+		name="1st Trois-Riviï¿½res Infantry"
 		type=infantry
 		home=64
 	}
@@ -837,7 +837,7 @@ army = {
 		home=57
 	}
 	regiment = {
-		name="2nd Trois-Rivières Artillery"
+		name="2nd Trois-Riviï¿½res Artillery"
 		type=artillery
 		home=64
 	}

@@ -1,5 +1,5 @@
-owner=X12
-controller=X12
+owner=AFO
+controller=AFO
 trade_goods = grain
 life_rating = 35
 terrain = plains

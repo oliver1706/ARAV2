@@ -656,7 +656,7 @@ X11 = {
 	value = 0
 	level = 2
 }
-X12 = {
+AFO = {
 	value = 0
 	level = 2
 }
@@ -833,7 +833,7 @@ navy = {
 	name="4th Fleet"
 	location=2974
 	ship = {
-		name="1st Güiria Frigate"
+		name="1st Gï¿½iria Frigate"
 		type=frigate
 	}
 	ship = {
@@ -841,7 +841,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Güiria Frigate"
+		name="2nd Gï¿½iria Frigate"
 		type=frigate
 	}
 }
@@ -850,7 +850,7 @@ navy = {
 	name="7th Fleet"
 	location=3028
 	ship = {
-		name="1st Cumaná Frigate"
+		name="1st Cumanï¿½ Frigate"
 		type=frigate
 	}
 	ship = {
@@ -913,7 +913,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Cumaná Clipper Transport"
+		name="1st Cumanï¿½ Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -926,7 +926,7 @@ army = {
 	name="4th Army"
 	location=2206
 	regiment = {
-		name="1st Bogotá Infantry"
+		name="1st Bogotï¿½ Infantry"
 		type=infantry
 		home=2247
 	}
@@ -946,12 +946,12 @@ army = {
 		home=2279
 	}
 	regiment = {
-		name="1st Bogotá Artillery"
+		name="1st Bogotï¿½ Artillery"
 		type=artillery
 		home=2247
 	}
 	regiment = {
-		name="2nd Bogotá Infantry"
+		name="2nd Bogotï¿½ Infantry"
 		type=infantry
 		home=2247
 	}
@@ -966,11 +966,11 @@ navy = {
 	name="4th Fleet"
 	location=2991
 	ship = {
-		name="1st Quibdó Man'o'war"
+		name="1st Quibdï¿½ Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Quibdó Man'o'war"
+		name="2nd Quibdï¿½ Man'o'war"
 		type=manowar
 	}
 }
@@ -983,7 +983,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Quibdó Frigate"
+		name="1st Quibdï¿½ Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1016,11 +1016,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st León Frigate"
+		name="1st Leï¿½n Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Quibdó Frigate"
+		name="2nd Quibdï¿½ Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1028,7 +1028,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Quibdó Frigate"
+		name="3rd Quibdï¿½ Frigate"
 		type=frigate
 	}
 }

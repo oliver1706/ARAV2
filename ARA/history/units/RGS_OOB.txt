@@ -640,7 +640,7 @@ X11 = {
 	value = 0
 	level = 2
 }
-X12 = {
+AFO = {
 	value = 0
 	level = 2
 }
@@ -732,7 +732,7 @@ army = {
 	name="3rd Army"
 	location=2465
 	regiment = {
-		name="1st Encarnación Infantry"
+		name="1st Encarnaciï¿½n Infantry"
 		type=infantry
 		home=2341
 	}
