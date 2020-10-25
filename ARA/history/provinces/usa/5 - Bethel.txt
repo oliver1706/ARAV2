@@ -1,4 +1,5 @@
 owner=X14
+add_core=X14
 controller=X14
 trade_goods = fish
 life_rating = 20

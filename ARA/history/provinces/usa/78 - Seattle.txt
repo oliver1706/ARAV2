@@ -1,5 +1,5 @@
 owner=SAL
-controller=CNK
+controller=SAL
 add_core=SAL
 trade_goods = timber
 life_rating = 35

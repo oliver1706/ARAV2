@@ -1,6 +1,3 @@
-owner=KER
-controller=KER
-add_core=KER
 trade_goods = cattle
 life_rating = 35
 terrain = steppe

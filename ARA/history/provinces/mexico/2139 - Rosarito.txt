@@ -1,4 +1,5 @@
 owner=YAQ
+add_core=YAQ
 controller=YAQ
 trade_goods = fruit
 life_rating = 40

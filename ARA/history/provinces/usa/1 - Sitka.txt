@@ -1,5 +1,6 @@
 owner=HDA
-controller=X14
+controller=HDA
+add_core=HDA
 trade_goods = timber
 life_rating = 20
 terrain = plains

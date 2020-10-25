@@ -50,49 +50,49 @@
 
 	soldiers=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 106
 	}
 
 	artisans=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 593
 	}
 
 	clergymen=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 97
 	}
 
 	bureaucrats=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 8
 	}
 
 	officers=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 125
 	}
 
 	farmers=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 9695
 	}
@@ -180,21 +180,21 @@
 
 	soldiers=
 	{
-		culture = sitkan
+		culture = sonoran
 		religion = protestant
 		size= 23
 	}
 
 	artisans=
 	{
-		culture = sitkan
+		culture = sonoran
 		religion = protestant
 		size= 125
 	}
 
 	clergymen=
 	{
-		culture = sitkan
+		culture = sonoran
 		religion = protestant
 		size= 20
 	}
@@ -208,21 +208,21 @@
 
 	officers=
 	{
-		culture = sitkan
+		culture = sonoran
 		religion = protestant
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = sitkan
+		culture = sonoran
 		religion = protestant
 		size= 26
 	}
 
 	farmers=
 	{
-		culture = sitkan
+		culture = sonoran
 		religion = protestant
 		size= 2053
 	}
@@ -266,49 +266,49 @@
 
 	soldiers=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 17
 	}
 
 	artisans=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 94
 	}
 
 	clergymen=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 1535
 	}
@@ -877,49 +877,49 @@
 
 	soldiers=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 65
 	}
 
 	artisans=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 146
 	}
 
 	clergymen=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 24
 	}
 
 	bureaucrats=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 11
 	}
 
 	officers=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 61
 	}
 
 	farmers=
 	{
-		culture = cambio
+		culture = sonoran
 		religion = catholic
 		size= 2927
 	}

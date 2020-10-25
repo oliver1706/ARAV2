@@ -1,4 +1,5 @@
 owner=BLA
+add_core = BLA
 controller=BLA
 trade_goods = cattle
 life_rating = 35
