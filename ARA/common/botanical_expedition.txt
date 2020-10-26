@@ -141,7 +141,7 @@ X15 = {
 	monarchy = yes
 	last_dynasty = "de Castro"
 }
-X20 = {
+STE = {
 	monarchy = yes
 	last_dynasty = "de Altamira"
 }

@@ -1,6 +1,6 @@
-owner=X20
-controller=X20
-add_core=X20
+owner=STE
+controller=STE
+add_core=STE
 trade_goods = fruit
 life_rating = 30
 terrain = farmlands

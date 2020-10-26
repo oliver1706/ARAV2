@@ -400,7 +400,7 @@ alliance=
 
 alliance=
 {
-	first="X20"
+	first="STE"
 	second="CUB"
 	start_date="1771.2.11"
 	end_date="1936.1.1"

@@ -1,5 +1,5 @@
 owner=COR
-controller=X20
+controller=STE
 add_core=COR
 trade_goods = cattle
 life_rating = 30

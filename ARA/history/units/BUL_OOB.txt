@@ -692,7 +692,7 @@ MES = {
 	value = -15
 	level = 2
 }
-X20 = {
+STE = {
 	value = 0
 	level = 2
 }

@@ -1,5 +1,5 @@
-owner=X20
-controller=X20
+owner=STE
+controller=STE
 trade_goods = fruit
 life_rating = 35
 terrain = plains

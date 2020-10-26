@@ -1,5 +1,5 @@
-owner=X20
-controller=X20
+owner=STE
+controller=STE
 trade_goods = timber
 life_rating = 30
 terrain = jungle

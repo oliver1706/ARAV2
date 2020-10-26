@@ -28,7 +28,7 @@ press_rights=censored_press
 trade_unions=state_controlled
 political_parties=harassment
 
-ruling_party = X20_reactionary
+ruling_party = STE_reactionary
 upper_house = 
 {
 	fascist = 0
@@ -68,5 +68,5 @@ steamers = 1
 the_command_principle = 1
 water_wheel_power = 1
 prestige=0
-oob = "X20_OOB.txt"
+oob = "STE_OOB.txt"
 set_country_flag = religi
