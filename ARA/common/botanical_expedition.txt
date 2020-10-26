@@ -308,7 +308,7 @@ X01 = {
 	monarchy = no
 	last_dynasty = "Bonaparte"
 }
-X02 = {
+POI = {
 	monarchy = no
 	last_dynasty = "de la Tour du Pin"
 }

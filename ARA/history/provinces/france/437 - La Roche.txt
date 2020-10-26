@@ -1,7 +1,7 @@
-owner=X02
-controller=X02
+owner=POI
+controller=POI
 add_core=FRA
-add_core=X02
+add_core=POI
 trade_goods = grain
 life_rating = 35
 terrain = plains

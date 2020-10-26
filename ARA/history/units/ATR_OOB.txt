@@ -616,7 +616,7 @@ X01 = {
 	value = 50
 	level = 3
 }
-X02 = {
+POI = {
 	value = 0
 	level = 2
 }
