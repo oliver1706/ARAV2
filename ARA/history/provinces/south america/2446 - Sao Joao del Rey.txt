@@ -1,5 +1,5 @@
-owner=X11
-controller=X11
+owner=NSR
+controller=NSR
 trade_goods = tropical_wood
 life_rating = 35
 terrain = plains

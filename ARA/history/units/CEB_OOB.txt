@@ -481,7 +481,7 @@ X10 = {
 	value = 0
 	level = 2
 }
-X11 = {
+NSR = {
 	value = 0
 	level = 2
 }

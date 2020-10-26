@@ -111,7 +111,7 @@ BRG = {
 	monarchy = yes
 	last_dynasty = "von Habsburg"
 }
-X11 = {
+NSR = {
 	monarchy = yes
 }
 AFO = {

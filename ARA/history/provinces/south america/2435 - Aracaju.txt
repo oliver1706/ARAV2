@@ -1,5 +1,5 @@
-owner=X11
-controller=X11
+owner=NSR
+controller=NSR
 trade_goods = tobacco
 life_rating = 35
 terrain = farmlands

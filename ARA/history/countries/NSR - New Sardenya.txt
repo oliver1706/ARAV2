@@ -28,7 +28,7 @@ press_rights=censored_press
 trade_unions=state_controlled
 political_parties=harassment
 
-ruling_party = X11_reactionary
+ruling_party = NSR_reactionary
 upper_house = 
 {
 	fascist = 0
@@ -50,5 +50,5 @@ flintlock_rifles = 1
 late_enlightenment_philosophy = 1
 water_wheel_power = 1
 prestige=0
-oob = "X11_OOB.txt"
+oob = "NSR_OOB.txt"
 set_country_flag = religi
