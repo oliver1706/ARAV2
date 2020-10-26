@@ -508,7 +508,7 @@ X15 = {
 	value = 0
 	level = 2
 }
-X16 = {
+SNC = {
 	value = 0
 	level = 2
 }
@@ -600,17 +600,17 @@ army = {
 	name="Grand Company"
 	location=571
 	regiment = {
-		name="1st Saarbrücken Infantry"
+		name="1st Saarbrï¿½cken Infantry"
 		type=infantry
 		home=573
 	}
 	regiment = {
-		name="2nd Saarbrücken Infantry"
+		name="2nd Saarbrï¿½cken Infantry"
 		type=infantry
 		home=573
 	}
 	regiment = {
-		name="3rd Saarbrücken Infantry"
+		name="3rd Saarbrï¿½cken Infantry"
 		type=infantry
 		home=573
 	}
@@ -620,7 +620,7 @@ army = {
 	name="Independent Army"
 	location=575
 	regiment = {
-		name="1st Münster Infantry"
+		name="1st Mï¿½nster Infantry"
 		type=infantry
 		home=581
 	}
@@ -635,7 +635,7 @@ army = {
 		home=580
 	}
 	regiment = {
-		name="2nd Münster Infantry"
+		name="2nd Mï¿½nster Infantry"
 		type=infantry
 		home=581
 	}
@@ -690,12 +690,12 @@ army = {
 	name="Armee von Berg"
 	location=571
 	regiment = {
-		name="1st Düsseldorf Infantry"
+		name="1st Dï¿½sseldorf Infantry"
 		type=infantry
 		home=578
 	}
 	regiment = {
-		name="2nd Düsseldorf Infantry"
+		name="2nd Dï¿½sseldorf Infantry"
 		type=infantry
 		home=578
 	}

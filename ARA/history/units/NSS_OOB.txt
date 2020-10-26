@@ -509,7 +509,7 @@ X15 = {
 	value = -6
 	level = 2
 }
-X16 = {
+SNC = {
 	value = -6
 	level = 2
 }

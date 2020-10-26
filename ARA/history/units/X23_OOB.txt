@@ -669,7 +669,7 @@ X15 = {
 	value = -6
 	level = 2
 }
-X16 = {
+SNC = {
 	value = -6
 	level = 2
 }
@@ -795,7 +795,7 @@ army = {
 	name="7th Army"
 	location=2317
 	regiment = {
-		name="1st Roboré Infantry"
+		name="1st Roborï¿½ Infantry"
 		type=infantry
 		home=2318
 	}

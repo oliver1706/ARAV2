@@ -508,7 +508,7 @@ X15 = {
 	value = -13
 	level = 2
 }
-X16 = {
+SNC = {
 	value = -14
 	level = 2
 }
@@ -644,12 +644,12 @@ army = {
 		home=540
 	}
 	regiment = {
-		name="1st Lüneburg Artillery"
+		name="1st Lï¿½neburg Artillery"
 		type=artillery
 		home=532
 	}
 	regiment = {
-		name="2nd Lüneburg Artillery"
+		name="2nd Lï¿½neburg Artillery"
 		type=artillery
 		home=532
 	}

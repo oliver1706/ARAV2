@@ -130,7 +130,7 @@ X23 = {
 X22 = {
 	monarchy = no
 }
-X16 = {
+SNC = {
 	monarchy = no
 }
 RGS = {

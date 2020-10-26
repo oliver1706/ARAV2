@@ -641,7 +641,7 @@ X15 = {
 	value = -6
 	level = 2
 }
-X16 = {
+SNC = {
 	value = -6
 	level = 2
 }
@@ -730,7 +730,7 @@ army = {
 		home=2353
 	}
 	regiment = {
-		name="1st Tacuarembó Cavalry"
+		name="1st Tacuarembï¿½ Cavalry"
 		type=cavalry
 		home=2346
 	}
@@ -769,7 +769,7 @@ navy = {
 	name="1st Fleet"
 	location=2997
 	ship = {
-		name="1st Paysandú Frigate"
+		name="1st Paysandï¿½ Frigate"
 		type=frigate
 	}
 	ship = {
@@ -777,7 +777,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Paraná Frigate"
+		name="1st Paranï¿½ Frigate"
 		type=frigate
 	}
 	ship = {
@@ -815,7 +815,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Paysandú Clipper Transport"
+		name="1st Paysandï¿½ Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -823,7 +823,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Paraná Clipper Transport"
+		name="1st Paranï¿½ Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -835,7 +835,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Paysandú Clipper Transport"
+		name="2nd Paysandï¿½ Clipper Transport"
 		type=clipper_transport
 	}
 }

@@ -1,6 +1,6 @@
-owner=X16
-controller=X16
-add_core=X16
+owner=SNC
+controller=SNC
+add_core=SNC
 trade_goods = grain
 life_rating = 35
 terrain = forest
