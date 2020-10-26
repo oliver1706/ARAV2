@@ -670,7 +670,7 @@ SNC = {
 	value = -73
 	level = 2
 }
-X17 = {
+AGT = {
 	value = 97
 	influence_value = 11
 	level = 2

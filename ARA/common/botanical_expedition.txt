@@ -121,7 +121,7 @@ FLR = {
 	monarchy = yes
 	last_dynasty = "d'Albert"
 }
-X17 = {
+AGT = {
 	monarchy = no
 }
 CLD = {

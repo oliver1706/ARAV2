@@ -645,7 +645,7 @@ SNC = {
 	value = -6
 	level = 2
 }
-X17 = {
+AGT = {
 	value = 0
 	level = 2
 }
