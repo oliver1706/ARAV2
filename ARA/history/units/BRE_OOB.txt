@@ -528,7 +528,7 @@ X20 = {
 	value = -13
 	level = 2
 }
-X21 = {
+ACD = {
 	value = 8
 	level = 2
 }

@@ -1,6 +1,6 @@
-owner=X21
-controller=X21
-add_core=X21
+owner=ACD
+controller=ACD
+add_core=ACD
 trade_goods = grain
 life_rating = 35
 terrain = farmlands

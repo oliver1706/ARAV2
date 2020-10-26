@@ -148,7 +148,7 @@ X20 = {
 X14 = {
 	monarchy = no
 }
-X21 = {
+ACD = {
 	monarchy = no
 }
 X18 = {
