@@ -124,7 +124,7 @@ FLR = {
 X17 = {
 	monarchy = no
 }
-X23 = {
+CLD = {
 	monarchy = no
 }
 X22 = {

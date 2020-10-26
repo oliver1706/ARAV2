@@ -1,5 +1,5 @@
-owner=X23
-controller=X23
+owner=CLD
+controller=CLD
 trade_goods = cattle
 life_rating = 30
 terrain = mountain

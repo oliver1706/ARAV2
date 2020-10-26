@@ -684,7 +684,7 @@ X22 = {
 	value = -13
 	level = 2
 }
-X23 = {
+CLD = {
 	value = 0
 	level = 2
 }
