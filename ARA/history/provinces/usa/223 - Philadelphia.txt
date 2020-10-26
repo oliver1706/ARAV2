@@ -1,5 +1,5 @@
-owner=X13
-controller=X13
+owner=FLR
+controller=FLR
 trade_goods = iron
 life_rating = 40
 terrain = farmlands

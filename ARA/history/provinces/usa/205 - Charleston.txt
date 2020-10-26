@@ -1,5 +1,5 @@
 owner=SNC
-controller=X13
+controller=FLR
 trade_goods = coal
 life_rating = 35
 terrain = farmlands

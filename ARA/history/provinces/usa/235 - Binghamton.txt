@@ -1,6 +1,6 @@
-owner=X13
-controller=X13
-add_core=X13
+owner=FLR
+controller=FLR
+add_core=FLR
 trade_goods = grain
 life_rating = 35
 terrain = hills

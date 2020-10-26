@@ -117,7 +117,7 @@ X11 = {
 AFO = {
 	monarchy = no
 }
-X13 = {
+FLR = {
 	monarchy = yes
 	last_dynasty = "d'Albert"
 }

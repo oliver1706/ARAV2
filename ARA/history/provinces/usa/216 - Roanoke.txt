@@ -1,5 +1,5 @@
 owner=SNC
-controller=X13
+controller=FLR
 add_core=CHE
 trade_goods = tobacco
 life_rating = 35
