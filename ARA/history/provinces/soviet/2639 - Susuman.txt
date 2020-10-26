@@ -1,5 +1,5 @@
-owner=X04
-controller=X04
+owner=TOM
+controller=TOM
 trade_goods = fish
 life_rating = 35
 terrain = hills

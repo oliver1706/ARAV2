@@ -316,7 +316,7 @@ ANA = {
 	monarchy = yes
 	last_dynasty = "de Castro"
 }
-X04 = {
+TOM = {
 	monarchy = no
 }
 VIE = {

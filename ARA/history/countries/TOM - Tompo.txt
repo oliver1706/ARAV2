@@ -28,7 +28,7 @@ press_rights=censored_press
 trade_unions=non_socialist
 political_parties=gerrymandering
 
-ruling_party = X04_liberal
+ruling_party = TOM_liberal
 upper_house = 
 {
 	fascist = 0
@@ -71,5 +71,5 @@ romanticism = 1
 stock_exchange = 1
 water_wheel_power = 1
 prestige=0
-oob = "X04_OOB.txt"
+oob = "TOM_OOB.txt"
 set_country_flag = religi

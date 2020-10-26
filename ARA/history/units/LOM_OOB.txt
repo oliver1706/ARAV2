@@ -608,7 +608,7 @@ ANA = {
 	value = 0
 	level = 2
 }
-X04 = {
+TOM = {
 	value = -55
 	level = 2
 }

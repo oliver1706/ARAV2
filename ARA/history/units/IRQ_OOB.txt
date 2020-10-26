@@ -624,7 +624,7 @@ ANA = {
 	value = 50
 	level = 3
 }
-X04 = {
+TOM = {
 	value = 0
 	level = 2
 }
