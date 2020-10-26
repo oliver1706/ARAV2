@@ -1,5 +1,5 @@
-owner=X06
-controller=X06
+owner=MRV
+controller=MRV
 add_core=SER
 add_core=YUG
 trade_goods = coal

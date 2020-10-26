@@ -416,7 +416,7 @@ alliance=
 
 alliance=
 {
-	first="X06"
+	first="MRV"
 	second="LOR"
 	start_date="1825.2.12"
 	end_date="1936.1.1"

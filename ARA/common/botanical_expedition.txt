@@ -323,7 +323,7 @@ VIE = {
 	monarchy = yes
 	last_dynasty = "von Falkenberg"
 }
-X06 = {
+MRV = {
 	monarchy = no
 }
 X07 = {

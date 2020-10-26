@@ -485,7 +485,7 @@ VIE = {
 	influence_value = 56
 	level = 5
 }
-X06 = {
+MRV = {
 	value = 0
 	level = 2
 }
