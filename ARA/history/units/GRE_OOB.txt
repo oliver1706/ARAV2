@@ -288,7 +288,7 @@ PRS = {
 	value = 0
 	level = 2
 }
-X03 = {
+ANA = {
 	value = 0
 	level = 2
 }

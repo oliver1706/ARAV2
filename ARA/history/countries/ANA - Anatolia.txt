@@ -28,7 +28,7 @@ press_rights=censored_press
 trade_unions=state_controlled
 political_parties=harassment
 
-ruling_party = X03_reactionary
+ruling_party = ANA_reactionary
 upper_house = 
 {
 	fascist = 0
@@ -71,5 +71,5 @@ romanticism = 1
 stock_exchange = 1
 water_wheel_power = 1
 prestige=0
-oob = "X03_OOB.txt"
+oob = "ANA_OOB.txt"
 set_country_flag = religi

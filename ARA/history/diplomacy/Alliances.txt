@@ -408,7 +408,7 @@ alliance=
 
 alliance=
 {
-	first="X03"
+	first="ANA"
 	second="IRQ"
 	start_date="1825.2.13"
 	end_date="1936.1.1"

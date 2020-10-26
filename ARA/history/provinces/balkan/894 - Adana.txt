@@ -1,5 +1,5 @@
-owner=X03
-controller=X03
+owner=ANA
+controller=ANA
 add_core=IRQ
 trade_goods = wool
 life_rating = 35

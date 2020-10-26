@@ -312,7 +312,7 @@ POI = {
 	monarchy = no
 	last_dynasty = "de la Tour du Pin"
 }
-X03 = {
+ANA = {
 	monarchy = yes
 	last_dynasty = "de Castro"
 }
