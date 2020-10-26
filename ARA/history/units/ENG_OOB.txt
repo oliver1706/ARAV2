@@ -625,7 +625,7 @@ X04 = {
 	value = 0
 	level = 2
 }
-X05 = {
+VIE = {
 	value = 0
 	level = 2
 }
@@ -657,7 +657,7 @@ FLR = {
 	value = 41
 	level = 2
 }
-X14 = {
+ATI = {
 	value = 88
 	influence_value = 9
 	level = 2

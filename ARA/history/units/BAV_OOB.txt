@@ -479,7 +479,7 @@ X04 = {
 	value = 0
 	level = 2
 }
-X05 = {
+VIE = {
 	value = 75
 	military_access = yes
 	influence_value = 56
@@ -509,7 +509,7 @@ FLR = {
 	value = 0
 	level = 2
 }
-X14 = {
+ATI = {
 	value = 0
 	level = 2
 }

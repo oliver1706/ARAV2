@@ -1,6 +1,6 @@
-owner=X14
-add_core=X14
-controller=X14
+owner=ATI
+add_core=ATI
+controller=ATI
 trade_goods = fish
 life_rating = 20
 terrain = arctic

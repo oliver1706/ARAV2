@@ -481,7 +481,7 @@ X04 = {
 	value = 0
 	level = 2
 }
-X05 = {
+VIE = {
 	value = 0
 	level = 2
 }
@@ -509,7 +509,7 @@ FLR = {
 	value = 0
 	level = 2
 }
-X14 = {
+ATI = {
 	value = 0
 	level = 2
 }

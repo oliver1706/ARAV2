@@ -145,7 +145,7 @@ STE = {
 	monarchy = yes
 	last_dynasty = "de Altamira"
 }
-X14 = {
+ATI = {
 	monarchy = no
 }
 ACD = {
@@ -319,7 +319,7 @@ X03 = {
 X04 = {
 	monarchy = no
 }
-X05 = {
+VIE = {
 	monarchy = yes
 	last_dynasty = "von Falkenberg"
 }

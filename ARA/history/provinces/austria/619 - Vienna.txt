@@ -1,7 +1,7 @@
-owner=X05
-controller=X05
+owner=VIE
+controller=VIE
 add_core=GER
-add_core=X05
+add_core=VIE
 trade_goods = grain
 life_rating = 35
 terrain = hills

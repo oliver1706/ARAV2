@@ -1,5 +1,5 @@
-owner=X05
-controller=X05
+owner=VIE
+controller=VIE
 add_core=HUN
 trade_goods = cattle
 life_rating = 35
