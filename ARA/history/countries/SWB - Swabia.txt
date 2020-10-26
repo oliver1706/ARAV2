@@ -28,7 +28,7 @@ press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=non_secret_ballots
 
-ruling_party = X10_conservative
+ruling_party = SWB_conservative
 upper_house = 
 {
 	fascist = 0
@@ -68,5 +68,5 @@ romanticism = 1
 the_command_principle = 1
 water_wheel_power = 1
 prestige=0
-oob = "X10_OOB.txt"
+oob = "SWB_OOB.txt"
 set_country_flag = religi

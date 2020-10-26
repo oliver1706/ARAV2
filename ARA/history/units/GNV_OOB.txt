@@ -492,7 +492,7 @@ X09 = {
 	value = -13
 	level = 2
 }
-X10 = {
+SWB = {
 	value = 1
 	military_access = yes
 	level = 2

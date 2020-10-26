@@ -113,7 +113,7 @@ alliance=
 alliance=
 {
 	first="LIG"
-	second="X10"
+	second="SWB"
 	start_date="1825.2.12"
 	end_date="1936.1.1"
 }

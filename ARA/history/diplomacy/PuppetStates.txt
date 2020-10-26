@@ -32,7 +32,7 @@ vassal=
 
 vassal=
 {
-	first="X10"
+	first="SWB"
 	second="GNV"
 	start_date="1578.2.14"
 	end_date="1936.1.1"

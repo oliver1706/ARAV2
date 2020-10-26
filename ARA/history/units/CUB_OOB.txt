@@ -652,7 +652,7 @@ X09 = {
 	value = -3
 	level = 2
 }
-X10 = {
+SWB = {
 	value = -15
 	level = 2
 }

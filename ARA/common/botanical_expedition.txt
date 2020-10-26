@@ -628,7 +628,7 @@ SUL = {
 	monarchy = no
 	last_dynasty = "Bolkiah"
 }
-X10 = {
+SWB = {
 	monarchy = no
 	last_dynasty = "von J�lich-Berg"
 }
