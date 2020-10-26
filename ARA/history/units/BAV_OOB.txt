@@ -463,7 +463,7 @@ WES = {
 	value = -4
 	level = 2
 }
-X01 = {
+PRS = {
 	value = 0
 	level = 2
 }

@@ -304,7 +304,7 @@ WOL = {
 	monarchy = yes
 	last_dynasty = "N'Dyaye"
 }
-X01 = {
+PRS = {
 	monarchy = no
 	last_dynasty = "Bonaparte"
 }

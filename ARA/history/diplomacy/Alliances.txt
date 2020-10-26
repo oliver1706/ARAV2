@@ -81,7 +81,7 @@ alliance=
 alliance=
 {
 	first="ATR"
-	second="X01"
+	second="PRS"
 	start_date="1825.2.13"
 	end_date="1936.1.1"
 }
