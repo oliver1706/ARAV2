@@ -504,7 +504,7 @@ X18 = {
 	value = 0
 	level = 2
 }
-X19 = {
+MES = {
 	value = 0
 	level = 2
 }

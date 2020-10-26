@@ -679,7 +679,7 @@ X18 = {
 	value = 30
 	level = 2
 }
-X19 = {
+MES = {
 	value = 30
 	level = 2
 }

@@ -1,5 +1,5 @@
-owner=X19
-controller=X19
+owner=MES
+controller=MES
 trade_goods = fish
 life_rating = 35
 terrain = forest

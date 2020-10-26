@@ -154,7 +154,7 @@ ACD = {
 X18 = {
 	monarchy = no
 }
-X19 = {
+MES = {
 	monarchy = no
 }
 X24 = {
