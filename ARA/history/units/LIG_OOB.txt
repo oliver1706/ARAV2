@@ -662,7 +662,7 @@ X17 = {
 	value = -3
 	level = 2
 }
-X18 = {
+COR = {
 	value = -10
 	level = 2
 }

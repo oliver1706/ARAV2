@@ -151,7 +151,7 @@ X14 = {
 ACD = {
 	monarchy = no
 }
-X18 = {
+COR = {
 	monarchy = no
 }
 MES = {

@@ -505,7 +505,7 @@ X17 = {
 	value = 0
 	level = 2
 }
-X18 = {
+COR = {
 	value = 0
 	level = 2
 }
