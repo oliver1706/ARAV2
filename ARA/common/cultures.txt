@@ -449,7 +449,7 @@ british = {
 	unit = BritishGC
 	
 	argentine = {
-		color = { 161 121 141 }
+		color = { 176 57 57 }
 		
 		first_names = { Robert Jesse James Nathan George Joseph John Patrick Albert Braxton William Ambrose Jubal Richard Lewis Edmund Leonida Benjamin Wade Daniel Thomas Jonathan Stonewall Lemual Sterling Raphael Kirby Pierre Jonas Frank Charles Peter Rand Leslie Howard Malvin Oscar Henry Simon Edward Gideon Isaac Evander Jerome Alfred Cadmus Fitz Hugh Carnot Ezra Wilton  }
 		
@@ -509,7 +509,7 @@ british = {
 		
 	}
 	sitkan = {
-		color = { 172 241 252 }
+		color = { 172 180 252 }
 		
 		first_names = { Robert Jesse James Nathan George Joseph John Patrick Albert Braxton William Ambrose Jubal Richard Lewis Edmund Leonida Benjamin Wade Daniel Thomas Jonathan Stonewall Lemual Sterling Raphael Kirby Pierre Jonas Frank Charles Peter Rand Leslie Howard Malvin Oscar Henry Simon Edward Gideon Isaac Evander Jerome Alfred Cadmus Fitz Hugh Carnot Ezra Wilton  }
 		
@@ -534,7 +534,7 @@ celtic = {
 		
 	}
 	caledonian = {
-		color = { 70 180 60 }
+		color = { 0 180 180 }
 		
 		first_names = { Alexander Arthur Brian Cathal Christopher Con Daniel Denis Desmond �amon Edward Ernes Fion�n Frank George Harry Jack James John Joseph Kevin Liam Michael Patrick Peter Richard Robert S�an Thomas William Alistair Amhlaidh Bhaltair Boyd Cairbre Callum Cormag Dand David Davidh Deorsa Diarmad Domnall Duff Eanraig Edan Fife Fingall Fraser Grahame Irvine Jamie Jock Lockie Neil Rabbie Rorie Ruairi Seoc Stewart  }
 		
@@ -1654,7 +1654,7 @@ italian = {
 		
 	}
 	italoamericano = {
-		color = { 119 194 190 }
+		color = { 119 194 20 }
 		
 		first_names = { Alfonso Ambrogio Amedeo Andrea Angelo Antonio Armando Augusto Benito Camillo Carlo Cesare Corrado Costanzo Domenico Enrico Fabio Fabrizio Faustino Felice Ferdinando Fiorenzo Francesco Gaetano Gennaro Giacomo Giovanni Giulio Giuseppe Guglielmo Lorenzo Luigi Marino Matteo Nicola Paolo Pasquale Prospero Raffaele Roberto Ruggiero Sigismondo Silvio Simone Tancredi Tommasso Ugo Umberto Vincenzo Vittorio  }
 		
@@ -2447,7 +2447,7 @@ neo_european_cultures = {
 		
 	}
 	nouvellien = {
-		color = { 129 179 236 }
+		color = { 49 76 215 }
 		radicalism = 10
 		
 		first_names = { Narcisse Ren� �douard Luc Letellier Th�odore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eug�ne �ssioff Huguel Jean-Pierre Gilles  }
