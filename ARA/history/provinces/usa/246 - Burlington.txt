@@ -1,5 +1,5 @@
-owner=X15
-controller=X15
+owner=ULT
+controller=ULT
 trade_goods = timber
 life_rating = 35
 terrain = hills

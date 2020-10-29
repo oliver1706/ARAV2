@@ -1,5 +1,5 @@
-owner=X15
-controller=X15
+owner=ULT
+controller=ULT
 trade_goods = cattle
 life_rating = 35
 terrain = forest

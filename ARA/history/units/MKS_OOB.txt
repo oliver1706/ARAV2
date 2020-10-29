@@ -568,7 +568,7 @@ FLR = {
 	value = 0
 	level = 2
 }
-X15 = {
+ULT = {
 	value = 0
 	level = 2
 }

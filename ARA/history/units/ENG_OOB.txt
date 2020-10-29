@@ -662,7 +662,7 @@ ATI = {
 	influence_value = 9
 	level = 2
 }
-X15 = {
+ULT = {
 	value = -6
 	level = 2
 }

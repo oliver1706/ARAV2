@@ -28,7 +28,7 @@ press_rights=censored_press
 trade_unions=state_controlled
 political_parties=harassment
 
-ruling_party = X15_reactionary
+ruling_party = ULT_reactionary
 upper_house = 
 {
 	fascist = 0
@@ -72,5 +72,5 @@ stock_exchange = 1
 the_command_principle = 1
 water_wheel_power = 1
 prestige=0
-oob = "X15_OOB.txt"
+oob = "ULT_OOB.txt"
 set_country_flag = religi

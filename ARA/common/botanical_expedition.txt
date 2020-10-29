@@ -137,7 +137,7 @@ RGS = {
 	monarchy = yes
 	last_dynasty = "de Bragan�a"
 }
-X15 = {
+ULT = {
 	monarchy = yes
 	last_dynasty = "de Castro"
 }

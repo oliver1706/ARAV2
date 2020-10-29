@@ -1,5 +1,5 @@
-owner=X15
-controller=X15
+owner=ULT
+controller=ULT
 add_core=MTC
 trade_goods = fish
 life_rating = 35

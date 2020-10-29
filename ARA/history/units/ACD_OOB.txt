@@ -669,7 +669,7 @@ ATI = {
 	value = 0
 	level = 2
 }
-X15 = {
+ULT = {
 	value = -26
 	level = 2
 }
