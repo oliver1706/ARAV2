@@ -3395,84 +3395,84 @@
 60 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = eastern_algonquian
 		religion = totemism
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = eastern_algonquian
 		religion = totemism
 		size= 5
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
+		culture = eastern_algonquian
 		religion = totemism
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
+		culture = eastern_algonquian
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = eastern_algonquian
 		religion = totemism
 		size= 231
 	}
 
 	soldiers=
 	{
-		culture = north_hispano
+		culture = nouvellien
 		religion = catholic
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = north_hispano
+		culture = nouvellien
 		religion = catholic
 		size= 19
 	}
 
 	clergymen=
 	{
-		culture = north_hispano
+		culture = nouvellien
 		religion = catholic
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = north_hispano
+		culture = nouvellien
 		religion = catholic
 		size= 1
 	}
 
 	officers=
 	{
-		culture = north_hispano
+		culture = nouvellien
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = north_hispano
+		culture = nouvellien
 		religion = catholic
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = north_hispano
+		culture = nouvellien
 		religion = catholic
 		size= 327
 	}
@@ -5514,56 +5514,56 @@
 2627 = {
 	soldiers=
 	{
-		culture = eskaleut
+		culture = iroquoian
 		religion = totemism
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = iroquoian
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = iroquoian
 		religion = totemism
 		size= 116
 	}
 
 	soldiers=
 	{
-		culture = north_hispano
+		culture = nouvellien
 		religion = catholic
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = north_hispano
+		culture = nouvellien
 		religion = catholic
 		size= 23
 	}
 
 	clergymen=
 	{
-		culture = north_hispano
+		culture = nouvellien
 		religion = catholic
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = north_hispano
+		culture = nouvellien
 		religion = catholic
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = north_hispano
+		culture = nouvellien
 		religion = catholic
 		size= 445
 	}

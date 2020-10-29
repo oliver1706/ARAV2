@@ -1,7 +1,6 @@
-owner=SNC
-controller=SNC
+owner=AZT
+controller=AZT
 add_core=AZT
 trade_goods = fruit
 life_rating = 35
 terrain = mountain
-colonial=2

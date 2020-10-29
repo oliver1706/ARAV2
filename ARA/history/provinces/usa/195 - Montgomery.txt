@@ -1,5 +1,6 @@
 owner=SNC
 controller=SNC
+add_core=SNC
 trade_goods = cotton
 life_rating = 35
 terrain = plains

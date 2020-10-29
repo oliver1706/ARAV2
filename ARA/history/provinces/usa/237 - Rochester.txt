@@ -1,6 +1,6 @@
 owner=ULT
 controller=ULT
-add_core=MTC
+add_core=ULT
 trade_goods = grain
 life_rating = 35
 terrain = forest

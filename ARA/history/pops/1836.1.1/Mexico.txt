@@ -684,49 +684,49 @@
 
 	soldiers=
 	{
-		culture = cambio
+		culture = nouvellien
 		religion = catholic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = cambio
+		culture = nouvellien
 		religion = catholic
 		size= 946
 	}
 
 	clergymen=
 	{
-		culture = cambio
+		culture = nouvellien
 		religion = catholic
 		size= 154
 	}
 
 	bureaucrats=
 	{
-		culture = cambio
+		culture = nouvellien
 		religion = catholic
 		size= 71
 	}
 
 	officers=
 	{
-		culture = cambio
+		culture = nouvellien
 		religion = catholic
 		size= 31
 	}
 
 	aristocrats=
 	{
-		culture = cambio
+		culture = nouvellien
 		religion = catholic
 		size= 397
 	}
 
 	farmers=
 	{
-		culture = cambio
+		culture = nouvellien
 		religion = catholic
 		size= 18424
 	}
