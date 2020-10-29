@@ -1,7 +1,7 @@
-owner=X07
-controller=X07
+owner=RAI
+controller=RAI
 add_core=HND
-add_core=X07
+add_core=RAI
 trade_goods = grain
 life_rating = 32
 terrain = hills

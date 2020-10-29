@@ -1,7 +1,7 @@
-owner=X07
+owner=RAI
 controller=GDW
 add_core=HND
-add_core=X07
+add_core=RAI
 trade_goods = grain
 life_rating = 32
 terrain = plains

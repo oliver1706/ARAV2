@@ -2,7 +2,7 @@ graphical_culture = UsGC
 color = { 18 179 113 }
 
 party = {
-	name = "X07_anarcho_liberal"
+	name = "RAI_anarcho_liberal"
 	start_date = 1710.1.1
 	end_date = 2000.1.1
 
@@ -16,7 +16,7 @@ party = {
 }
 
 party = {
-	name = "X07_communist"
+	name = "RAI_communist"
 	start_date = 1849.1.1
 	end_date = 2000.1.1
 
@@ -30,7 +30,7 @@ party = {
 }
 
 party = {
-	name = "X07_conservative"
+	name = "RAI_conservative"
 	start_date = 1000.1.1
 	end_date = 2000.1.1
 
@@ -44,7 +44,7 @@ party = {
 }
 
 party = {
-	name = "X07_fascist"
+	name = "RAI_fascist"
 	start_date = 1905.1.1
 	end_date = 2000.1.1
 
@@ -58,7 +58,7 @@ party = {
 }
 
 party = {
-	name = "X07_liberal"
+	name = "RAI_liberal"
 	start_date = 1680.1.1
 	end_date = 2000.1.1
 
@@ -72,7 +72,7 @@ party = {
 }
 
 party = {
-	name = "X07_reactionary"
+	name = "RAI_reactionary"
 	start_date = 1680.1.1
 	end_date = 2000.1.1
 
@@ -86,7 +86,7 @@ party = {
 }
 
 party = {
-	name = "X07_socialist"
+	name = "RAI_socialist"
 	start_date = 1790.1.1
 	end_date = 2000.1.1
 

@@ -620,7 +620,7 @@ MRV = {
 	value = 50
 	level = 3
 }
-X07 = {
+RAI = {
 	value = 0
 	level = 2
 }

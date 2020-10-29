@@ -326,7 +326,7 @@ VIE = {
 MRV = {
 	monarchy = no
 }
-X07 = {
+RAI = {
 	monarchy = yes
 	last_dynasty = "Gadhi"
 }
