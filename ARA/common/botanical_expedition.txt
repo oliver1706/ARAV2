@@ -53,7 +53,7 @@ BRU = {
 	monarchy = yes
 	last_dynasty = "Bolkiah"
 }
-X00 = {
+BEJ = {
 	monarchy = no
 	last_dynasty = "Balawat"
 }

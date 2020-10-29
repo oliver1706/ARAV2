@@ -1,6 +1,6 @@
-owner=X00
-controller=X00
-add_core=X00
+owner=BEJ
+controller=BEJ
+add_core=BEJ
 trade_goods = tropical_wood
 life_rating = 30
 terrain = plains
