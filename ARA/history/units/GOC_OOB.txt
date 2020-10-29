@@ -572,7 +572,7 @@ RAI = {
 	value = 0
 	level = 2
 }
-X09 = {
+CLB = {
 	value = -1
 	level = 2
 }

@@ -334,7 +334,7 @@ CNS = {
 	monarchy = yes
 	last_dynasty = "von Habsburg"
 }
-X09 = {
+CLB = {
 	monarchy = yes
 	last_dynasty = "Condulmer"
 }

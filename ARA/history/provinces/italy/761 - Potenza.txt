@@ -1,8 +1,8 @@
-owner=X09
-controller=X09
+owner=CLB
+controller=CLB
 add_core=ITA
 add_core=SIC
-add_core=X09
+add_core=CLB
 trade_goods = fruit
 life_rating = 35
 terrain = hills

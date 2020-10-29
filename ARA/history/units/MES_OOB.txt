@@ -645,7 +645,7 @@ CNS = {
 	value = 0
 	level = 2
 }
-X09 = {
+CLB = {
 	value = -6
 	level = 2
 }

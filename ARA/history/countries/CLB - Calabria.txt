@@ -28,7 +28,7 @@ press_rights=censored_press
 trade_unions=state_controlled
 political_parties=harassment
 
-ruling_party = X09_reactionary
+ruling_party = CLB_reactionary
 upper_house = 
 {
 	fascist = 0
@@ -62,5 +62,5 @@ private_banks = 1
 publishing_industry = 1
 water_wheel_power = 1
 prestige=0
-oob = "X09_OOB.txt"
+oob = "CLB_OOB.txt"
 set_country_flag = religi

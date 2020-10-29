@@ -489,7 +489,7 @@ MRV = {
 	value = 0
 	level = 2
 }
-X09 = {
+CLB = {
 	value = -9
 	level = 2
 }
