@@ -594,7 +594,7 @@ WES = {
 	value = 24
 	level = 2
 }
-X00 = {
+BEJ = {
 	value = 0
 	level = 2
 }

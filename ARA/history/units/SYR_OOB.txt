@@ -608,7 +608,7 @@ WOL = {
 	value = 0
 	level = 2
 }
-X00 = {
+BEJ = {
 	value = -15
 	level = 2
 }

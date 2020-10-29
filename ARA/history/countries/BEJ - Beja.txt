@@ -27,7 +27,7 @@ press_rights=censored_press
 trade_unions=non_socialist
 political_parties=gerrymandering
 
-ruling_party = X00_conservative
+ruling_party = BEJ_conservative
 upper_house = 
 {
 	fascist = 0
@@ -61,5 +61,5 @@ foreign_naval_officers=no_foreign_naval_officers
 naval_schools=no_naval_schools
 foreign_navies=no_foreign_navies
 prestige=0
-oob = "X00_OOB.txt"
+oob = "BEJ_OOB.txt"
 set_country_flag = religi
