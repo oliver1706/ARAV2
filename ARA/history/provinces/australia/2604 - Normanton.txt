@@ -1,6 +1,6 @@
-owner=X22
-controller=X22
-add_core=X22
+owner=REI
+controller=REI
+add_core=REI
 trade_goods = tropical_wood
 life_rating = 30
 terrain = plains

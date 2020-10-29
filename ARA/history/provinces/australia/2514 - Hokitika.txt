@@ -1,5 +1,5 @@
-owner=X22
-controller=X22
+owner=REI
+controller=REI
 trade_goods = wool
 life_rating = 30
 terrain = hills

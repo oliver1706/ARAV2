@@ -28,7 +28,7 @@ press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=non_secret_ballots
 
-ruling_party = X22_liberal
+ruling_party = REI_liberal
 upper_house = 
 {
 	fascist = 0
@@ -72,5 +72,5 @@ stock_exchange = 1
 the_command_principle = 1
 water_wheel_power = 1
 prestige=0
-oob = "X22_OOB.txt"
+oob = "REI_OOB.txt"
 set_country_flag = religi

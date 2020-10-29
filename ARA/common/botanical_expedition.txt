@@ -127,7 +127,7 @@ AGT = {
 CLD = {
 	monarchy = no
 }
-X22 = {
+REI = {
 	monarchy = no
 }
 SNC = {

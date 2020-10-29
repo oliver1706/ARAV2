@@ -691,7 +691,7 @@ ACD = {
 	value = -24
 	level = 2
 }
-X22 = {
+REI = {
 	value = -64
 	level = 2
 }

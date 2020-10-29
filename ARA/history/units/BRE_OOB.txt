@@ -532,7 +532,7 @@ ACD = {
 	value = 8
 	level = 2
 }
-X22 = {
+REI = {
 	value = -13
 	level = 2
 }
