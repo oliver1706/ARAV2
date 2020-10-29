@@ -424,7 +424,7 @@ alliance=
 
 alliance=
 {
-	first="X08"
+	first="CNS"
 	second="BUL"
 	start_date="1825.2.14"
 	end_date="1936.1.1"

@@ -330,7 +330,7 @@ RAI = {
 	monarchy = yes
 	last_dynasty = "Gadhi"
 }
-X08 = {
+CNS = {
 	monarchy = yes
 	last_dynasty = "von Habsburg"
 }

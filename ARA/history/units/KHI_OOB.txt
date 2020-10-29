@@ -630,7 +630,7 @@ RAI = {
 	value = 0
 	level = 2
 }
-X08 = {
+CNS = {
 	value = 0
 	level = 2
 }

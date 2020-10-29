@@ -1,5 +1,5 @@
-owner=X08
-controller=X08
+owner=CNS
+controller=CNS
 trade_goods = iron
 life_rating = 35
 terrain = plains

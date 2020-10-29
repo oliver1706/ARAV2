@@ -1,8 +1,8 @@
-owner=X08
-controller=X08
+owner=CNS
+controller=CNS
 add_core=CAT
 add_core=SPA
-add_core=X08
+add_core=CNS
 trade_goods = wool
 life_rating = 35
 terrain = mountain
