@@ -157,7 +157,7 @@ COR = {
 MES = {
 	monarchy = no
 }
-X24 = {
+ROS = {
 	monarchy = no
 }
 CST = {

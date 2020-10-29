@@ -340,7 +340,7 @@ REI = {
 	value = 0
 	level = 2
 }
-X24 = {
+ROS = {
 	value = 0
 	level = 2
 }

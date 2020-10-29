@@ -1,5 +1,5 @@
-owner=X24
-controller=X24
+owner=ROS
+controller=ROS
 trade_goods = cattle
 life_rating = 15
 terrain = plains

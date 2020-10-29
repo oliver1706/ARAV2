@@ -699,7 +699,7 @@ CLD = {
 	value = -23
 	level = 2
 }
-X24 = {
+ROS = {
 	value = 0
 	level = 2
 }
