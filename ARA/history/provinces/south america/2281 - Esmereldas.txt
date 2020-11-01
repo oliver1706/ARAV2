@@ -1,5 +1,6 @@
 owner=STE
 controller=STE
+add_core=STE
 trade_goods = fruit
 life_rating = 35
 terrain = plains
