@@ -1,0 +1,25 @@
+political_decisions = {
+	claim_neighbouring_states_na = {
+		potential = {
+			OR = {
+				capital_scope = { continent = north_america }
+			}
+		}
+		
+		allow = {
+            any_owned_province = {
+                any_neighbor_province = {
+                    NOT = { owned_by = THIS}
+                }
+            }
+		}
+		
+		effect = {
+            any_owned = {
+                any_neighbor_province = {
+                    add_core = THIS
+                }
+            }
+		}
+	}
+}
