@@ -1,6 +1,6 @@
 owner=COR
 controller=COR
+add_core=COR
 trade_goods = iron
 life_rating = 30
 terrain = jungle
-colonial=2

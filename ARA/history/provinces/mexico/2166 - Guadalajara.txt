@@ -1,5 +1,6 @@
 owner=MES
 controller=MES
+add_core=MES
 trade_goods = fish
 life_rating = 35
 terrain = forest

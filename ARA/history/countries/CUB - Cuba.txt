@@ -1,5 +1,5 @@
 capital = 2214
-primary_culture = north_hispano
+primary_culture = cambio
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy

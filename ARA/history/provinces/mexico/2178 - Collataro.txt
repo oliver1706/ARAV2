@@ -1,6 +1,6 @@
 owner=MES
-controller=SNC
+controller=MES
+add_core=MES
 trade_goods = grain
 life_rating = 35
 terrain = jungle
-colonial=2

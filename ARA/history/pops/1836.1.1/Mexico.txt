@@ -1812,35 +1812,35 @@
 	artisans=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 862
 	}
 
 	clergymen=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 124
 	}
 
 	bureaucrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 10
 	}
 
 	officers=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 16
 	}
 
 	aristocrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 80
 	}
 
@@ -1848,43 +1848,43 @@
 2161 = {
 	soldiers=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 1178
 	}
 
 	artisans=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 421
 	}
 
 	clergymen=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 137
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 15
 	}
 
 	officers=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 132
 	}
 
@@ -1898,35 +1898,35 @@
 	artisans=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 421
 	}
 
 	clergymen=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 137
 	}
 
 	bureaucrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 15
 	}
 
 	officers=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 22
 	}
 
 	aristocrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 132
 	}
 
@@ -2629,35 +2629,35 @@
 	artisans=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 1520
 	}
 
 	clergymen=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 493
 	}
 
 	bureaucrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 54
 	}
 
 	officers=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 65
 	}
 
 	aristocrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 319
 	}
 
@@ -2863,43 +2863,43 @@
 2168 = {
 	soldiers=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 228
 	}
 
 	artisans=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 514
 	}
 
 	clergymen=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 74
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 8
 	}
 
 	officers=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 48
 	}
 
@@ -2913,35 +2913,35 @@
 	artisans=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 1679
 	}
 
 	clergymen=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 242
 	}
 
 	bureaucrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 26
 	}
 
 	officers=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 24
 	}
 
 	aristocrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 157
 	}
 
@@ -2954,36 +2954,36 @@
 
 	artisans=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 1165
 	}
 
 	clergymen=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 168
 	}
 
 	bureaucrats=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 18
 	}
 
 	officers=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 109
 	}
 
@@ -2998,43 +2998,43 @@
 2169 = {
 	soldiers=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 75
 	}
 
 	artisans=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 38
 	}
 
 	clergymen=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 8
 	}
 
@@ -3047,43 +3047,43 @@
 
 	soldiers=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 471
 	}
 
 	artisans=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 509
 	}
 
 	clergymen=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 165
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 18
 	}
 
 	officers=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = nahua
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 107
 	}
 
@@ -3097,35 +3097,35 @@
 	artisans=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 547
 	}
 
 	clergymen=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 178
 	}
 
 	bureaucrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 19
 	}
 
 	officers=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 18
 	}
 
 	aristocrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 115
 	}
 
@@ -3183,35 +3183,35 @@
 	artisans=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 1315
 	}
 
 	clergymen=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 427
 	}
 
 	bureaucrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 46
 	}
 
 	officers=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 56
 	}
 
 	aristocrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 277
 	}
 
@@ -3268,43 +3268,42 @@
 2171 = {
 	soldiers=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 148
 	}
 
 	artisans=
-	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 114
 	}
 
 	clergymen=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 7
 	}
 
@@ -3317,43 +3316,43 @@
 
 	soldiers=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 1047
 	}
 
 	clergymen=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 97
 	}
 
 	bureaucrats=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 11
 	}
 
 	officers=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = tarascan
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 63
 	}
 
@@ -3367,35 +3366,35 @@
 	artisans=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 1112
 	}
 
 	clergymen=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 103
 	}
 
 	bureaucrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 12
 	}
 
 	officers=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 67
 	}
 
@@ -3835,35 +3834,35 @@
 	artisans=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 485
 	}
 
 	clergymen=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 79
 	}
 
 	bureaucrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 17
 	}
 
 	officers=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 16
 	}
 
 	aristocrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 119
 	}
 
@@ -4535,43 +4534,43 @@
 2178 = {
 	soldiers=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 1084
 	}
 
 	artisans=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 435
 	}
 
 	clergymen=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 32
 	}
 
 	bureaucrats=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 7
 	}
 
 	officers=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 41
 	}
 
@@ -4584,43 +4583,43 @@
 
 	soldiers=
 	{
-		culture = zapotec
-		religion = catholic
+		culture = italoamericano
+		religion = protestant
 		size= 365
 	}
 
 	artisans=
 	{
-		culture = zapotec
-		religion = catholic
+		culture = italoamericano
+		religion = protestant
 		size= 729
 	}
 
 	clergymen=
 	{
-		culture = zapotec
-		religion = catholic
+		culture = italoamericano
+		religion = protestant
 		size= 53
 	}
 
 	bureaucrats=
 	{
-		culture = zapotec
-		religion = catholic
+		culture = italoamericano
+		religion = protestant
 		size= 11
 	}
 
 	officers=
 	{
-		culture = zapotec
-		religion = catholic
+		culture = italoamericano
+		religion = protestant
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = zapotec
-		religion = catholic
+		culture = italoamericano
+		religion = protestant
 		size= 68
 	}
 
@@ -4670,43 +4669,43 @@
 2179 = {
 	soldiers=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 1136
 	}
 
 	artisans=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 203
 	}
 
 	clergymen=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 33
 	}
 
 	bureaucrats=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 7
 	}
 
 	officers=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = zapotec
-		religion = nahuatl
+		culture = italoamericano
+		religion = protestant
 		size= 64
 	}
 
@@ -4719,43 +4718,43 @@
 
 	soldiers=
 	{
-		culture = zapotec
-		religion = catholic
+		culture = italoamericano
+		religion = protestant
 		size= 1543
 	}
 
 	artisans=
 	{
-		culture = zapotec
-		religion = catholic
+		culture = italoamericano
+		religion = protestant
 		size= 754
 	}
 
 	clergymen=
 	{
-		culture = zapotec
-		religion = catholic
+		culture = italoamericano
+		religion = protestant
 		size= 122
 	}
 
 	bureaucrats=
 	{
-		culture = zapotec
-		religion = catholic
+		culture = italoamericano
+		religion = protestant
 		size= 26
 	}
 
 	officers=
 	{
-		culture = zapotec
-		religion = catholic
+		culture = italoamericano
+		religion = protestant
 		size= 39
 	}
 
 	aristocrats=
 	{
-		culture = zapotec
-		religion = catholic
+		culture = italoamericano
+		religion = protestant
 		size= 237
 	}
 
@@ -4988,35 +4987,35 @@
 	artisans=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 719
 	}
 
 	clergymen=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 52
 	}
 
 	bureaucrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 11
 	}
 
 	officers=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = italoamericano
-		religion = nahuatl
+		religion = protestant
 		size= 67
 	}
 

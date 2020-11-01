@@ -1,6 +1,6 @@
 owner=MES
 controller=MES
+add_core=MES
 trade_goods = wool
 life_rating = 35
 terrain = forest
-colonial=2

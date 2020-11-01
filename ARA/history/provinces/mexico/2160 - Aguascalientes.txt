@@ -1,5 +1,6 @@
 owner=MES
 controller=MES
+add_core=MES
 trade_goods = timber
 life_rating = 35
 terrain = mountain
