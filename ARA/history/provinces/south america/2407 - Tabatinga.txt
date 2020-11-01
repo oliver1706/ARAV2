@@ -1,5 +1,6 @@
 owner=NSR
 controller=NSR
+add_core=NSR
 trade_goods = timber
 life_rating = 25
 terrain = jungle

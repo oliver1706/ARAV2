@@ -1,5 +1,6 @@
 owner=CLD
 controller=CLD
+add_core=CLD
 trade_goods = wool
 life_rating = 30
 terrain = mountain

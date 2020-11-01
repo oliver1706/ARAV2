@@ -1,5 +1,6 @@
 owner=AGT
 controller=AGT
+add_core=AGT
 trade_goods = iron
 life_rating = 35
 terrain = mountain

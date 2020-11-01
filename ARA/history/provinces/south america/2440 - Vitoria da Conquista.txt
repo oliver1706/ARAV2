@@ -1,5 +1,6 @@
 owner=NSR
 controller=NSR
+add_core=NSR
 trade_goods = coffee
 life_rating = 35
 terrain = hills
