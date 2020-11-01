@@ -17198,35 +17198,35 @@
 2662 = {
 	aristocrats=
 	{
-		culture = siberian
+		culture = sonoran
 		religion = animist
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = siberian
+		culture = sonoran
 		religion = animist
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = siberian
+		culture = sonoran
 		religion = animist
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = siberian
+		culture = sonoran
 		religion = animist
 		size= 230
 	}
 
 	soldiers=
 	{
-		culture = siberian
+		culture = sonoran
 		religion = animist
 		size= 3
 	}

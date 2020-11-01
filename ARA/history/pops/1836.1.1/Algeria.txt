@@ -1975,106 +1975,106 @@
 1714 = {
 	aristocrats=
 	{
-		culture = berber
-		religion = sunni
+		culture = aimara
+		religion = animist
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = maghrebi
-		religion = sunni
+		culture = aimara
+		religion = animist
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = tuareg
-		religion = sunni
+		culture = aimara
+		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = berber
-		religion = sunni
+		culture = aimara
+		religion = animist
 		size= 40
 	}
 
 	artisans=
 	{
-		culture = maghrebi
-		religion = sunni
+		culture = aimara
+		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = tuareg
-		religion = sunni
+		culture = aimara
+		religion = animist
 		size= 35
 	}
 
 	clergymen=
 	{
-		culture = berber
-		religion = sunni
+		culture = aimara
+		religion = animist
 		size= 15
 	}
 
 	clergymen=
 	{
-		culture = maghrebi
-		religion = sunni
+		culture = aimara
+		religion = animist
 		size= 40
 	}
 
 	clergymen=
 	{
-		culture = tuareg
-		religion = sunni
+		culture = aimara
+		religion = animist
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = berber
-		religion = sunni
+		culture = aimara
+		religion = animist
 		size= 920
 	}
 
 	farmers=
 	{
-		culture = maghrebi
-		religion = sunni
+		culture = aimara
+		religion = animist
 		size= 1810
 	}
 
 	farmers=
 	{
-		culture = tuareg
-		religion = sunni
+		culture = aimara
+		religion = animist
 		size= 1900
 	}
 
 	soldiers=
 	{
-		culture = berber
-		religion = sunni
+		culture = aimara
+		religion = animist
 		size= 15
 	}
 
 	soldiers=
 	{
-		culture = maghrebi
-		religion = sunni
+		culture = aimara
+		religion = animist
 		size= 30
 	}
 
 	soldiers=
 	{
-		culture = tuareg
-		religion = sunni
+		culture = aimara
+		religion = animist
 		size= 25
 	}
 

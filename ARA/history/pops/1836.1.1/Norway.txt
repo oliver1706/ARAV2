@@ -1362,21 +1362,21 @@
 3246 = {
 	farmers=
 	{
-		culture = icelandic
+		culture = danish
 		religion = catholic
 		size= 8
 	}
 
 	artisans=
 	{
-		culture = icelandic
+		culture = danish
 		religion = protestant
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = icelandic
+		culture = danish
 		religion = protestant
 		size= 6
 	}

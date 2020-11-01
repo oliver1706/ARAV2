@@ -2126,36 +2126,36 @@
 45 = {
 	aristocrats=
 	{
-		culture = eskaleut
-		religion = shamanism
+		culture = cambio
+		religion = catholic
 		size= 10
 	}
 
 	artisans=
 	{
-		culture = eskaleut
-		religion = shamanism
+		culture = cambio
+		religion = catholic
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
-		religion = shamanism
+		culture = cambio
+		religion = catholic
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = eskaleut
-		religion = shamanism
+		culture = cambio
+		religion = catholic
 		size= 900
 	}
 
 	soldiers=
 	{
-		culture = eskaleut
-		religion = shamanism
+		culture = cambio
+		religion = catholic
 		size= 15
 	}
 
