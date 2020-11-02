@@ -8,17 +8,78 @@ political_decisions = {
 		
 		allow = {
             any_owned_province = {
+				is_core = THIS
                 any_neighbor_province = {
                     NOT = { owned_by = THIS}
+					NOT = { is_core = THIS}
                 }
             }
 		}
 		
 		effect = {
             any_owned = {
+				limit = { is_core = THIS}
                 any_neighbor_province = {
                     add_core = THIS
                 }
+            }
+		}
+	}
+
+	claim_all_owned_land_na = {
+		potential = {
+			OR = {
+				capital_scope = { continent = north_america }
+			}
+			any_owned_province = {
+                NOT = { OR = {is_core = THIS is_overseas = yes} }
+            }
+		}
+		allow = {
+            any_owned_province = {
+				NOT = { OR = {is_core = THIS is_overseas = yes} }
+            }
+		}
+		effect = {
+            any_owned = {
+				limit = { NOT = { OR = {is_core = THIS is_overseas = yes} } }
+                add_core = THIS
+            }
+		}
+	}
+
+	unclaim_land_na = {
+		potential = {
+			OR = {
+				capital_scope = { continent = north_america }
+			}
+			any_core = {
+                NOT = {
+					any_neighbor_province = {
+						owned_by = THIS
+					}
+				}
+            }
+		}
+		allow = {
+			any_core = {
+                NOT = {
+					any_neighbor_province = {
+						owned_by = THIS
+					}
+				}
+            }
+		}
+		effect = {
+			all_core = {
+				limit = {
+					NOT = {
+						any_neighbor_province = {
+							owned_by = THIS
+						}
+					}
+				}
+				remove_core = THIS
             }
 		}
 	}
