@@ -9,17 +9,20 @@ political_decisions = {
 		allow = {
             any_owned_province = {
 				is_core = THIS
+				colonial = no
                 any_neighbor_province = {
                     NOT = { owned_by = THIS}
 					NOT = { is_core = THIS}
+					continent = north_america
                 }
             }
 		}
 		
 		effect = {
             any_owned = {
-				limit = { is_core = THIS}
+				limit = { is_core = THIS colonial = no}
                 any_neighbor_province = {
+					limit = { NOT = { is_core = THIS} continent = north_america}
                     add_core = THIS
                 }
             }
@@ -32,17 +35,21 @@ political_decisions = {
 				capital_scope = { continent = north_america }
 			}
 			any_owned_province = {
-                NOT = { OR = {is_core = THIS is_overseas = yes} }
+				is_colonial = no
+                NOT = { OR = {is_core = THIS is_overseas = yes } }
+				continent = north_america
             }
 		}
 		allow = {
             any_owned_province = {
+				is_colonial = no
 				NOT = { OR = {is_core = THIS is_overseas = yes} }
+				continent = north_america
             }
 		}
 		effect = {
             any_owned = {
-				limit = { NOT = { OR = {is_core = THIS is_overseas = yes} } }
+				limit = { NOT = { OR = {is_core = THIS is_overseas = yes} } continent = north_america is_colonial = no}
                 add_core = THIS
             }
 		}
@@ -54,18 +61,28 @@ political_decisions = {
 				capital_scope = { continent = north_america }
 			}
 			any_core = {
+				continent = north_america
                 NOT = {
-					any_neighbor_province = {
+					OR = {
 						owned_by = THIS
+						any_neighbor_province = {
+							owned_by = THIS
+							is_colonial = no
+						}
 					}
 				}
             }
 		}
 		allow = {
 			any_core = {
+				continent = north_america
                 NOT = {
-					any_neighbor_province = {
+					OR = {
 						owned_by = THIS
+						any_neighbor_province = {
+							is_core = THIS
+							is_colonial = no
+						}
 					}
 				}
             }
@@ -73,9 +90,14 @@ political_decisions = {
 		effect = {
 			all_core = {
 				limit = {
+					continent = north_america
 					NOT = {
-						any_neighbor_province = {
+						OR = {
 							owned_by = THIS
+							any_neighbor_province = {
+								owned_by = THIS
+								is_colonial = no
+							}
 						}
 					}
 				}
