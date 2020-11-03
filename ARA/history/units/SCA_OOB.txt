@@ -251,8 +251,10 @@ HDJ = {
 	level = 2
 }
 IRE = {
-	value = -12
-	level = 2
+	value = 120
+	military_access = yes
+	influence_value = 50
+	level = 5
 }
 IRQ = {
 	value = 0

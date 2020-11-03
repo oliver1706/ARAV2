@@ -532,14 +532,14 @@
 
 	artisans=
 	{
-		culture = vinlander
+		culture = danish
 		religion = protestant
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = vinlander
+		culture = danish
 		religion = protestant
 		size= 86
 	}

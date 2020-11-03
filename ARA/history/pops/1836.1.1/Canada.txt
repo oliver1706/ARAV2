@@ -4788,49 +4788,49 @@
 
 	soldiers=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 240
 	}
 
 	artisans=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 544
 	}
 
 	clergymen=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 89
 	}
 
 	bureaucrats=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 28
 	}
 
 	officers=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 229
 	}
 
 	farmers=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 10882
 	}
@@ -4860,14 +4860,14 @@
 
 	artisans=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 235
 	}
 
 	farmers=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 4804
 	}
@@ -4955,14 +4955,14 @@
 
 	artisans=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 19
 	}
 
 	farmers=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 390
 	}

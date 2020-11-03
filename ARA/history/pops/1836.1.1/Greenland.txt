@@ -29,42 +29,42 @@
 
 	soldiers=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 15
 	}
 
 	artisans=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 38
 	}
 
 	clergymen=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 16
 	}
 
 	farmers=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 656
 	}
@@ -87,35 +87,35 @@
 
 	soldiers=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 11
 	}
 
 	clergymen=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 175
 	}
@@ -138,35 +138,35 @@
 
 	soldiers=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 11
 	}
 
 	clergymen=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 175
 	}
@@ -189,35 +189,35 @@
 
 	soldiers=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 6
 	}
 
 	clergymen=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = vinlander
+		culture = danish
 		religion = catholic
 		size= 117
 	}
