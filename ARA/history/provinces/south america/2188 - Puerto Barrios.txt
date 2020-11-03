@@ -1,5 +1,6 @@
 owner=SNC
 controller=SNC
+add_core=SNC
 trade_goods = fruit
 life_rating = 30
 terrain = mountain
