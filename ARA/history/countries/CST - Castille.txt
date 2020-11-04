@@ -2,7 +2,7 @@ capital = 489
 primary_culture = spanish
 culture = zzz_religion_catholic
 religion = catholic
-government = absolute_monarchy
+government = theocracy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.414095
@@ -19,12 +19,12 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # political reforms
-slavery=yes_slavery
+slavery=no_slavery
 vote_franschise=landed_voting
 upper_house_composition=appointed
-voting_system=jefferson_method
+voting_system=first_past_the_post
 public_meetings=no_meeting
-press_rights=censored_press
+press_rights=state_press
 trade_unions=state_controlled
 political_parties=harassment
 

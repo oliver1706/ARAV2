@@ -291,6 +291,14 @@ baltic = {
 		last_names = { Abakovskis Ap�enieks Balodis Baumanis Berkis Berzin� Betin� Braons Caks Cakste Caps Celmin� Dalin� Dambitis Darzin� de Kolongs Desslers Eizenteins Goppers Halsmans Irbitis Kalnin� Kalpaks Kucys Kovalevskis Krogzemis Kronvalds Kuks Kviesis Lacis Leiko Loskis Maters Matisons Meierovics Mihelssons Milenbahs Millers Needra Ozolin� Petrovs Pliek�ans Pumpurs Rothko Simanis Stucka Tumins Ulmanis Veidenbaums  }
 		
 	}
+	lithuanian = {
+		color = { 17 162 48 }
+		
+		first_names = { Adolfas Aleksandras Algirdas Andrius Antanas Arturas Arunas Augustinas Balys Boris Bronislovas Danielius Darius Gediminas Henrikas Jonas Jonusas Juozas Juras Jurgis Justas Kazimieras Kazys Kipras Konstantinas Lukas Marijus Markas Mikalojus Mindaugas Motejus Mykolas Paulius Petras Povilas Ramunas Ringaudas Rolandas Simonas Stasys Steponas Valdas Valdemaras Viktoras Vilhelmas Visvaldas Vladimiras Vygantas Vytautas �ydrunas  }
+		
+		last_names = { Adamkus Almenas Avizienis Baltru�aitis Brazauskas Basanavicius Birutis Brazd�iunas Buga Ciurlionis Danauskas Daukantas Dobkevicius Dubeneckis Dvarionas Galdikas Grinius Gri�kevicius Ivanauskas Jablonskis Jucys Krupavicius Landsbergis Lozoraitis Merkys Paksas Paleckis Paulauskas Petrauskas Piskarkas Po�ela Radvila �abaniauskas Schatz Simonavicius �irvydas �le�evicius Semtona Snieckus Stauaitis Strai�ys Stulginkis �vedas Terleckas Urb�ys Vagnorius Vale�ka Voldemaras �emaitis Zuokas  }
+		
+	}
 	lounast = {
 		color = { 60 27 50 }
 		
@@ -442,6 +450,7 @@ beneluxian = {
 		
 	}
 	
+	union = NET
 }
 
 british = {
@@ -594,7 +603,7 @@ celtic = {
 		
 	}
 	
-	union = CAL
+	union = CLD
 	
 }
 
@@ -748,7 +757,17 @@ central_asian = {
 		last_names = { Okhlopkov Shishigin Shtyrov Ondar Sivtsev  }
 		
 	}
+
+	manchu = {
+		color = { 245 255 160 }
+		
+		first_names = { Ma Deng zhao Tong Guan Oboi Sonin Songgotu Suksaha Mingzhu Nalan Fu Hesehn Changlin  }
+		
+		last_names = { Zhanshan Tiemei Shangzhi Linge Xiangying Xingde Kang'an  }
+		
+	}
 	
+	union = KHA
 }
 
 czecho_slovak_culture_group = {
@@ -1003,15 +1022,7 @@ east_african = {
 east_asian = {
 	leader = asian
 	unit = ChineseGC
-	
-	ainu = {
-		color = { 130 130 130 }
-		
-		first_names = { Seimei Resaak Akihi Petennouk Unayanke Shiratekka Apniainu Pasekur Munkeke Shitekka Shinriki Shiromainu Menkakush  }
-		
-		last_names = { Aterui Shakushine Koshamine Harukor Turushno Isonash Keutoranke  }
-		
-	}
+
 	bai = {
 		color = { 245 245 220 }
 		
@@ -1050,30 +1061,6 @@ east_asian = {
 		first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu  }
 		
 		last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye L� Tian Jiang Wei Ting Shen Fang Jin Qiu  }
-		
-	}
-	japanese = {
-		color = { 230 230 230 }
-		
-		first_names = { Aritomo Goro Gentaro Gonnohyoe Heihachiro Hiroshi Hikonojo Hyoe Hayao Iwao Jiro Jinzaburo Kiyotaka Kuranosuke Kozo Kantaro Koichiro Kagenori Kageaki Kotohito Keisuke Kazushige Kenkichi Maresuke Masujiro Michisura Masatake Mitsuomi Mitsue Mineo Nariaki Nobuyoshi Rokuro Sukeyuki Sukenori Shoin Sumiyoshi Samata Soroku Shichiro Shigeto Sotokichi Shigeru Sadao Shinsaku Takayoshi Takamori Toshimichi Tsugumichi Tadakuni Tomonosuke Taro Toshiyoshi Tetsutaro Taruhito Takeaki Tamemoto Tomasaburo Yoshika Yoshinobu Yoshimichi Yoshida Yasukata Yahachi Yusaku Yoshifuru Yoshinori Yasuyoshi  }
-		
-		last_names = { Arisugawa Arichi Akiyama Araki Dewa Enomoto Hasegawa Honjo Ito Inoue Ichinohe Itagaki Kido Kuroda Katsura Kodama Kabayama Kawamura Kuroki Kawakami Kamimura Kataoka Kamio Kato Kanin Katsu Makino Muto Minami Masaki Matsudaira Nakamuta Nogi Nire Nozu Okubo Oyama Omura Oku Okada Osumi Saigo Suzuki Sato Sakura Shibayama Shimamura Shirakawa Togo Takashima Tsuboi Tachibana Terauchi Tamon Takasugi Tokugawa Uehara Uryu Ugaki Ueda Yamagata Yamamoto Yamakawa Yashiro Yui Yamashita Yamaya  }
-		
-	}
-	korean = {
-		color = { 87 89 25 }
-		
-		first_names = { Yi Jo Bak Yun Sim Kim Hong Seo Jeong Kwon Han  }
-		
-		last_names = { Hwan Chung Hyong Shinjong Haung Ch'ok Taek Seon Si Jip Guk Mok Bo Yong Sun Gyu Hu  }
-		
-	}
-	manchu = {
-		color = { 245 255 160 }
-		
-		first_names = { Ma Deng zhao Tong Guan Oboi Sonin Songgotu Suksaha Mingzhu Nalan Fu Hesehn Changlin  }
-		
-		last_names = { Zhanshan Tiemei Shangzhi Linge Xiangying Xingde Kang'an  }
 		
 	}
 	miao = {
@@ -1132,7 +1119,36 @@ east_asian = {
 		last_names = { Thu Manh Trieu Khanh Phung Hau Chan Den Phach Cao  }
 		
 	}
-	
+	union = CHI
+}
+
+far_east_asian = {
+    leader = asian
+    unit = ChineseGC
+	ainu = {
+		color = { 130 130 130 }
+		
+		first_names = { Seimei Resaak Akihi Petennouk Unayanke Shiratekka Apniainu Pasekur Munkeke Shitekka Shinriki Shiromainu Menkakush  }
+		
+		last_names = { Aterui Shakushine Koshamine Harukor Turushno Isonash Keutoranke  }
+		
+	}
+	japanese = {
+		color = { 230 230 230 }
+		
+		first_names = { Aritomo Goro Gentaro Gonnohyoe Heihachiro Hiroshi Hikonojo Hyoe Hayao Iwao Jiro Jinzaburo Kiyotaka Kuranosuke Kozo Kantaro Koichiro Kagenori Kageaki Kotohito Keisuke Kazushige Kenkichi Maresuke Masujiro Michisura Masatake Mitsuomi Mitsue Mineo Nariaki Nobuyoshi Rokuro Sukeyuki Sukenori Shoin Sumiyoshi Samata Soroku Shichiro Shigeto Sotokichi Shigeru Sadao Shinsaku Takayoshi Takamori Toshimichi Tsugumichi Tadakuni Tomonosuke Taro Toshiyoshi Tetsutaro Taruhito Takeaki Tamemoto Tomasaburo Yoshika Yoshinobu Yoshimichi Yoshida Yasukata Yahachi Yusaku Yoshifuru Yoshinori Yasuyoshi  }
+		
+		last_names = { Arisugawa Arichi Akiyama Araki Dewa Enomoto Hasegawa Honjo Ito Inoue Ichinohe Itagaki Kido Kuroda Katsura Kodama Kabayama Kawamura Kuroki Kawakami Kamimura Kataoka Kamio Kato Kanin Katsu Makino Muto Minami Masaki Matsudaira Nakamuta Nogi Nire Nozu Okubo Oyama Omura Oku Okada Osumi Saigo Suzuki Sato Sakura Shibayama Shimamura Shirakawa Togo Takashima Tsuboi Tachibana Terauchi Tamon Takasugi Tokugawa Uehara Uryu Ugaki Ueda Yamagata Yamamoto Yamakawa Yashiro Yui Yamashita Yamaya  }
+		
+	}
+	korean = {
+		color = { 87 89 25 }
+		
+		first_names = { Yi Jo Bak Yun Sim Kim Hong Seo Jeong Kwon Han  }
+		
+		last_names = { Hwan Chung Hyong Shinjong Haung Ch'ok Taek Seon Si Jip Guk Mok Bo Yong Sun Gyu Hu  }
+		
+	}
 }
 
 east_slavic = {
@@ -1205,6 +1221,16 @@ french = {
 	leader = european
 	unit = FrenchGC
 	
+	nouvellien = {
+		color = { 49 76 215 }
+		radicalism = 10
+		
+		first_names = { Narcisse Ren� �douard Luc Letellier Th�odore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eug�ne �ssioff Huguel Jean-Pierre Gilles  }
+		
+		last_names = { Belleau Caron de St.-Just Robitaille Masson Angers Chapleau Jotte Pantal�on Langelier Damasne LeBlanc Brodeur Perodeau  }
+		
+	}
+
 	french = {
 		color = { 20 20 100 }
 		
@@ -1531,22 +1557,6 @@ iranian_turanian = {
 		last_names = { Airom Ansari Ayrum Buzarjomehri Davallu Esfahani Farhani Jahanbani Kashani Khan Khuzai Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti Shirazi Tabrizi Tahmasebi Zahedi  }
 		
 	}
-	kazak = {
-		color = { 83 102 46 }
-		
-		first_names = { Ablai Abu al-Khayr Aryn Bukei Chokan Dulat Ibirai Isatai Ishim Jangir Kenisary Mashur Murat Nur Ali Qayip Sadyk Sirim Sarzhan Tenek Tolshan Vali  }
-		
-		last_names = { Beg Khan Konanbai uli Kutebar uli Muhammad uli Qasim uli  }
-		
-	}
-	kirgiz = {
-		color = { 62 73 41 }
-		
-		first_names = { Askar Chingiz Ishim Kasim Kurman Jangir Murat Nasiridin Sadyk Vali  }
-		
-		last_names = { Beg  }
-		
-	}
 	kurdish = {
 		color = { 176 201 238 }
 		radicalism = 10
@@ -1580,6 +1590,29 @@ iranian_turanian = {
 		first_names = { Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram Ebrahim Esmail Fath Ali Fazlollah Hamzeh Hasan Hossein Kamran Karim Lotf Ali Mahmoud Massoud Mohammad Moin ed-Din Mozzafer ed-Din Murad Muhsin Naser ed-Din Nosret Reza  }
 		
 		last_names = { Airom Ansari Ayrum Buzarjomehri Davallu Esfahani Farhani Jahanbani Kashani Khan Khuzai Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti Shirazi Tabrizi Tahmasebi Zahedi  }
+		
+	}
+	union = IRA
+}
+
+turkic = {
+	leader = arab
+	is_overseas = no
+	unit = MiddleEasternGC
+	kazak = {
+		color = { 83 102 46 }
+		
+		first_names = { Ablai Abu al-Khayr Aryn Bukei Chokan Dulat Ibirai Isatai Ishim Jangir Kenisary Mashur Murat Nur Ali Qayip Sadyk Sirim Sarzhan Tenek Tolshan Vali  }
+		
+		last_names = { Beg Khan Konanbai uli Kutebar uli Muhammad uli Qasim uli  }
+		
+	}
+	kirgiz = {
+		color = { 62 73 41 }
+		
+		first_names = { Askar Chingiz Ishim Kasim Kurman Jangir Murat Nasiridin Sadyk Vali  }
+		
+		last_names = { Beg  }
 		
 	}
 	tajik = {
@@ -1622,7 +1655,7 @@ iranian_turanian = {
 		last_names = { Bahadur Bukhari Khan  }
 		
 	}
-	
+	union = TKS
 }
 
 italian = {
@@ -2446,15 +2479,6 @@ neo_european_cultures = {
 		last_names = { Byrne Christie Clegg Copley Courtenay Dawkins Fuller Godwin Immelman James Kerzner Lessing Mann McIntosh Morgan Parow Pollock Rabin Rhodes Sheckter Shepstone Southey Steer  }
 		
 	}
-	nouvellien = {
-		color = { 49 76 215 }
-		radicalism = 10
-		
-		first_names = { Narcisse Ren� �douard Luc Letellier Th�odore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eug�ne �ssioff Huguel Jean-Pierre Gilles  }
-		
-		last_names = { Belleau Caron de St.-Just Robitaille Masson Angers Chapleau Jotte Pantal�on Langelier Damasne LeBlanc Brodeur Perodeau  }
-		
-	}
 	svart = {
 		color = { 48 12 91 }
 		
@@ -2577,7 +2601,7 @@ non_human = {
 	
 }
 
-oceanic = {
+austronesian = {
 	leader = nativeamerican
 	is_overseas = no
 	unit = AfricanGC
@@ -2630,7 +2654,46 @@ oceanic = {
 		last_names = { Ma'ufanga Feletoa Moengangongo Tuabayi Maeakafa Te Fuli Ielemia  }
 		
 	}
-	
+	filipino = {
+		color = { 200 220 30 }
+		
+		first_names = { Emilio Apolinario Andr�s Jos� Hermano Jacinto Mariano Deodato Ladislao Teodoro Valent�ne Antonio Le�n Sime�n Arcadio Artemio Manuel  }
+		
+		last_names = { Aguainaldo Mabini Bonifacio Jacinto Rizal D�az Plata Diwa Arellano  }
+		
+	}
+	malay = {
+		color = { 85 78 89 }
+		
+		first_names = { Shahabuddin Riayat Abdullah Jaafar Safiuddin Muhammad Ali Al-Mukammal Ismail Muabidin Tuanku Yusuf Idris Jalil Isandar Aziz  }
+		
+		last_names = { Raja Inu al-Marhum Raja Ahmad Riayat Shah al-Khairat Muadzam Bendahara Aadzam Murshidul  }
+		
+	}
+	moluccan = {
+		color = { 90 132 76 }
+		
+		first_names = { Ellyas Ignacio Jordao Michael Sonny Denny Mohammad Edinho Jos Levi  }
+		
+		last_names = { Leiwakabessy Mainaky Weisapy Bouma Palyama Pattinama Pelmelay Lilipaly Hafiedz  }
+		
+	}
+	javan = {
+		color = { 154 32 88 }
+		
+		first_names = { Abul Muhammad Safiuddin Ahmad Muhieddin Zainul Cirebon Amir Arifin Panembahan Haji Anom  }
+		
+		last_names = { Salihin Mufakhir Alaeddin Muttakin Sepuh Nurus Khairuddin Djalaluddin Emiruddin Akbaruddin Tajul Natadiningrat  }
+		
+	}
+	bornean = {
+		color = { 75 68 79 }
+		
+		first_names = { Muhammad Ahmad Sulaym�n Bulkiah 'Abd al-Qahhar Sayf ar-Rijal Hasan 'Abd al-Jal�l Muhammad 'Al� 'Abd al-Mubin Muhy� ad-D�n Nasr ad-D�n Kam�l ad-D�n Al�' ad-D�n Sayf ad-D�n Muhammad Jam�l ad-D�n Muhammad T�j ad-D�n  }
+		
+		last_names = { Burnei Kutai Sibu Kuching  }
+		
+	}
 }
 
 pan_romanian = {
@@ -2719,14 +2782,6 @@ polish_culture_group = {
 		last_names = { Bem B�r-Komorowski Brz�ska Chalasinski Chlapowski Chlopicki Chrzanowski Dabrowski Dembinski Fabryvy Hauke-Boask Iszikowski Jasinski Klicki Konopczynski Krukowiecki Kruszewski Langiewicz Madalinski Mieroslawski Mikolajczyk Mokronowski Niepok�lczycki Ostrowski Pac Pilsudski Poniatowski Potocki Pradzynski Radziwill Rokossowski Rola-Zymierski R�mmel R�zicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski Taczanowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski  }
 		
 	}
-	lithuanian = {
-		color = { 17 162 48 }
-		
-		first_names = { Adolfas Aleksandras Algirdas Andrius Antanas Arturas Arunas Augustinas Balys Boris Bronislovas Danielius Darius Gediminas Henrikas Jonas Jonusas Juozas Juras Jurgis Justas Kazimieras Kazys Kipras Konstantinas Lukas Marijus Markas Mikalojus Mindaugas Motejus Mykolas Paulius Petras Povilas Ramunas Ringaudas Rolandas Simonas Stasys Steponas Valdas Valdemaras Viktoras Vilhelmas Visvaldas Vladimiras Vygantas Vytautas �ydrunas  }
-		
-		last_names = { Adamkus Almenas Avizienis Baltru�aitis Brazauskas Basanavicius Birutis Brazd�iunas Buga Ciurlionis Danauskas Daukantas Dobkevicius Dubeneckis Dvarionas Galdikas Grinius Gri�kevicius Ivanauskas Jablonskis Jucys Krupavicius Landsbergis Lozoraitis Merkys Paksas Paleckis Paulauskas Petrauskas Piskarkas Po�ela Radvila �abaniauskas Schatz Simonavicius �irvydas �le�evicius Semtona Snieckus Stauaitis Strai�ys Stulginkis �vedas Terleckas Urb�ys Vagnorius Vale�ka Voldemaras �emaitis Zuokas  }
-		
-	}
 	nowyswiat = {
 		color = { 182 134 154 }
 		radicalism = 10
@@ -2781,7 +2836,7 @@ polish_culture_group = {
 		
 	}
 	
-	union = PLC
+	union = POL
 	
 }
 
@@ -3203,14 +3258,6 @@ southeast_asian = {
 		last_names = { Singh Prasad Ambedkar Khan Pandit Besant Sarabhai Gaidinliu Iyengar Baharjee Naidu  }
 		
 	}
-	bornean = {
-		color = { 75 68 79 }
-		
-		first_names = { Muhammad Ahmad Sulaym�n Bulkiah 'Abd al-Qahhar Sayf ar-Rijal Hasan 'Abd al-Jal�l Muhammad 'Al� 'Abd al-Mubin Muhy� ad-D�n Nasr ad-D�n Kam�l ad-D�n Al�' ad-D�n Sayf ad-D�n Muhammad Jam�l ad-D�n Muhammad T�j ad-D�n  }
-		
-		last_names = { Burnei Kutai Sibu Kuching  }
-		
-	}
 	burmese = {
 		color = { 99 87 27 }
 		
@@ -3226,22 +3273,6 @@ southeast_asian = {
 		first_names = { Nguyen Phuoc Ton That Noang Cao Bui An Nguyen Truong Tran  }
 		
 		last_names = { vinh Thuy Han Tuan Vinh San Cuong Khai Nien Than Quang Trong Hiep Mien Lam Mien Trinh Buu Lan  }
-		
-	}
-	filipino = {
-		color = { 200 220 30 }
-		
-		first_names = { Emilio Apolinario Andr�s Jos� Hermano Jacinto Mariano Deodato Ladislao Teodoro Valent�ne Antonio Le�n Sime�n Arcadio Artemio Manuel  }
-		
-		last_names = { Aguainaldo Mabini Bonifacio Jacinto Rizal D�az Plata Diwa Arellano  }
-		
-	}
-	javan = {
-		color = { 154 32 88 }
-		
-		first_names = { Abul Muhammad Safiuddin Ahmad Muhieddin Zainul Cirebon Amir Arifin Panembahan Haji Anom  }
-		
-		last_names = { Salihin Mufakhir Alaeddin Muttakin Sepuh Nurus Khairuddin Djalaluddin Emiruddin Akbaruddin Tajul Natadiningrat  }
 		
 	}
 	kachin = {
@@ -3274,22 +3305,6 @@ southeast_asian = {
 		first_names = { Manthaturath Anurutha Unkeo Sukha Chantha Unkham Sakkarin Sisavang Setthathirath Nanthasen Ong Phraya  }
 		
 		last_names = { Vong Kuman S�m Bun Supho Long Intharavong Anuvong  }
-		
-	}
-	malay = {
-		color = { 85 78 89 }
-		
-		first_names = { Shahabuddin Riayat Abdullah Jaafar Safiuddin Muhammad Ali Al-Mukammal Ismail Muabidin Tuanku Yusuf Idris Jalil Isandar Aziz  }
-		
-		last_names = { Raja Inu al-Marhum Raja Ahmad Riayat Shah al-Khairat Muadzam Bendahara Aadzam Murshidul  }
-		
-	}
-	moluccan = {
-		color = { 90 132 76 }
-		
-		first_names = { Ellyas Ignacio Jordao Michael Sonny Denny Mohammad Edinho Jos Levi  }
-		
-		last_names = { Leiwakabessy Mainaky Weisapy Bouma Palyama Pattinama Pelmelay Lilipaly Hafiedz  }
 		
 	}
 	phianam = {
@@ -3335,7 +3350,7 @@ southeast_asian = {
 		last_names = { vinh Thuy Han Tuan Vinh San Cuong Khai Nien Than Quang Trong Hiep Mien Lam Mien Trinh Buu Lan  }
 		
 	}
-	
+	union = IDO
 }
 
 southern_african = {
