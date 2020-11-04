@@ -1,6 +1,6 @@
-owner=CST
+owner=ATR
 controller=ATR
-add_core=CST
+add_core=ATR
 add_core=SPA
 trade_goods = cattle
 life_rating = 35

@@ -1,6 +1,5 @@
 owner=ORL
 controller=ORL
-add_core=BRY
 add_core=FRA
 add_core=ORL
 trade_goods = timber

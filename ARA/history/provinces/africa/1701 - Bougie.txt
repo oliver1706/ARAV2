@@ -1,8 +1,7 @@
 owner=CNS
 controller=CNS
-add_core=CAT
-add_core=SPA
 add_core=CNS
+add_core=TLC
 trade_goods = grain
 life_rating = 35
 terrain = plains

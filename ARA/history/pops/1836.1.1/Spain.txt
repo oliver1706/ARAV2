@@ -597,49 +597,49 @@
 478 = {
 	soldiers=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 306
 	}
 
 	artisans=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 4237
 	}
 
 	clergymen=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 454
 	}
 
 	bureaucrats=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 43
 	}
 
 	officers=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 39
 	}
 
 	aristocrats=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 381
 	}
 
 	farmers=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 25099
 	}
@@ -688,7 +688,7 @@
 
 	farmers=
 	{
-		culture = catalan
+		culture = cantabrian
 		religion = catholic
 		size= 11993
 	}
@@ -697,49 +697,49 @@
 479 = {
 	soldiers=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 372
 	}
 
 	artisans=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 2603
 	}
 
 	clergymen=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 279
 	}
 
 	bureaucrats=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 26
 	}
 
 	officers=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 24
 	}
 
 	aristocrats=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 234
 	}
 
 	farmers=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 33654
 	}
@@ -753,14 +753,14 @@
 
 	artisans=
 	{
-		culture = catalan
+		culture = spanish
 		religion = catholic
 		size= 5800
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = spanish
 		religion = catholic
 		size= 621
 	}
@@ -781,7 +781,7 @@
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = spanish
 		religion = catholic
 		size= 522
 	}
@@ -797,34 +797,34 @@
 480 = {
 	soldiers=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 324
 	}
 
 	craftsmen=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 10750
 	}
 
 	artisans=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 2270
 	}
 
 	clergymen=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 122
 	}
 
 	clerks=
-	{
+	{cantabrian
 		culture = spanish
 		religion = catholic
 		size= 324
@@ -832,14 +832,14 @@
 
 	bureaucrats=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 23
 	}
 
 	officers=
 	{
-		culture = spanish
+		culture = cantabrian
 		religion = catholic
 		size= 21
 	}
@@ -930,7 +930,7 @@
 
 	farmers=
 	{
-		culture = catalan
+		culture = cantabrian
 		religion = catholic
 		size= 4942
 	}
