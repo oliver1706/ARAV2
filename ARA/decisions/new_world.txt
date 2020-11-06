@@ -290,7 +290,7 @@ political_decisions = {
 	claim_neighbouring_states_au = {
 		potential = {
 			OR = {
-				capital_scope = { continent = oceania }
+				capital_scope = { continent = australia_new_zealand }
 			}
 		}
 		
@@ -318,7 +318,7 @@ political_decisions = {
 					}
                     NOT = { owned_by = THIS}
 					NOT = { is_core = THIS}
-					continent = oceania
+					continent = australia_new_zealand
                 }
             }
 		}
@@ -345,7 +345,7 @@ political_decisions = {
 					}
                     NOT = { owned_by = THIS}
 					NOT = { is_core = THIS}
-					continent = oceania }
+					continent = australia_new_zealand }
 					add_core = THIS
                 }
             }
@@ -355,12 +355,12 @@ political_decisions = {
 	claim_all_owned_land_au = {
 		potential = {
 			OR = {
-				capital_scope = { continent = oceania }
+				capital_scope = { continent = australia_new_zealand }
 			}
 			any_owned_province = {
 				is_colonial = no
                 NOT = { OR = {is_core = THIS is_overseas = yes } }
-				continent = oceania
+				continent = australia_new_zealand
             }
 		}
 		allow = {
@@ -368,12 +368,12 @@ political_decisions = {
             any_owned_province = {
 				is_colonial = no
 				NOT = { OR = {is_core = THIS is_overseas = yes} }
-				continent = oceania
+				continent = australia_new_zealand
             }
 		}
 		effect = {
             any_owned = {
-				limit = { NOT = { OR = {is_core = THIS is_overseas = yes} } continent = oceania is_colonial = no}
+				limit = { NOT = { OR = {is_core = THIS is_overseas = yes} } continent = australia_new_zealand is_colonial = no}
                 add_core = THIS
             }
 		}
@@ -382,10 +382,10 @@ political_decisions = {
 	unclaim_land_au = {
 		potential = {
 			OR = {
-				capital_scope = { continent = oceania }
+				capital_scope = { continent = australia_new_zealand }
 			}
 			any_core = {
-				continent = oceania
+				continent = australia_new_zealand
                 NOT = {
 					OR = {
 						owned_by = THIS
@@ -400,7 +400,7 @@ political_decisions = {
 		allow = {
 			war = no
 			any_core = {
-				continent = oceania
+				continent = australia_new_zealand
                 NOT = {
 					OR = {
 						owned_by = THIS
@@ -415,7 +415,7 @@ political_decisions = {
 		effect = {
 			all_core = {
 				limit = {
-					continent = oceania
+					continent = australia_new_zealand
 					NOT = {
 						OR = {
 							owned_by = THIS
