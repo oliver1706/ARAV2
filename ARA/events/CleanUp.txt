@@ -349,6 +349,7 @@ country_event = {
 				continent = europe
 				continent = asia
 				continent = africa
+				continent = oceania
 			}
 		}
 		sphere_owner = {
@@ -358,22 +359,9 @@ country_event = {
 			war = no
 		}
 		NOT = {
-			AND = {
-				OR = {
-					tag = AUS
-					tag = KUK
-				}
-				sphere_owner = {
-					tag = GER
-				}
-				NOT = {
-					exists = HUN
-				}
-			}
+			tag = ANA
 		}
-		NOT = {	
-			tag = ISR 
-			}
+		NOT = { has_country_flag = post_colonial_country }
 	}
 	
 	mean_time_to_happen = {

@@ -65,4 +65,387 @@ political_decisions = {
 			set_country_flag = mendizabal_confiscated
 		}
 	}
+
+	annex_galicia = {
+		potential = {
+			tag = POR
+			exists = GLC
+		}
+
+		allow = {
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			war = no
+			GLC = {
+				vassal_of = THIS
+			}
+			#nationalism_n_imperialism = 1
+		}
+
+		effect = {
+			prestige = 5
+			infamy = 2
+			add_accepted_culture = galician
+
+			GLC = {
+				all_core = {
+					add_core = POR
+					remove_core = GLC
+					remove_core = SPA
+				}
+			}
+
+			inherit = GLC
+
+			any_country = {
+				LIMIT = { is_culture_group = THIS capital_scope = {continent = europe } }
+				relation = {
+					who = THIS
+					value = -25
+				}
+			}
+		}
+	}
+
+	crusade_for_andalucia = {
+		potential = {
+			tag = CST
+			exists = ADU
+			NOT = {
+				ADU = {
+					all_core = {
+						continent = europe
+						is_core = THIS
+					}
+				}
+			}
+		}
+
+		allow = {
+			war = no
+			#state_n_government = 1
+			OR = {
+				government = theocracy
+				government = absolute_monarchy
+				government = prussian_constitutionalism
+			}
+			ADU = {
+				neighbour = THIS
+			}
+		}
+
+		effect = {
+			ADU = {
+				all_core = {
+					add_core = THIS
+				}
+				relation = {
+					who = THIS
+					value = -100
+				}
+			}
+			prestige = 3
+		}
+	}
+
+	form_spain = {
+		potential = {
+			is_culture_group = iberian
+			NOT = {
+				tag = ANA
+			}
+		}
+
+		allow = {
+			is_greater_power = yes
+			prestige = 15
+			SPA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							OR = {
+								is_vassal = no
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			#nationalism_n_imperialism = 1
+		}
+		effects = {
+			prestige = 20
+			all_core = {
+				add_core = SPA
+				remove_core = THIS
+			}
+			change_tag = SPA
+			add_accepted_culture = spanish
+			add_accepted_culture = cantabrian
+			add_accepted_culture = portuguese
+			add_accepted_culture = galician
+			any_country = {
+				limit = {
+					in_sphere = THIS
+					OR = {
+						culture = occitan
+					}
+					NOT = { 
+						tag = ANA
+					}
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+					NOT = { has_country_flag = post_colonial_country }
+				}
+				country_event = 11101
+			}
+		}
+	}
+
+	integrate_catalonia = {
+		potential = {
+			tag = SPA
+			# CAT = {
+			# 	any_core = {
+			# 		NOT = {
+			# 			owned_by = THIS
+			# 		}
+			# 	}
+			# }
+			NOT = {
+				CAT = {
+					all_core = {
+						continent = europe
+						is_core = THIS
+					}
+				}
+			}
+		}
+		allow = {
+			war = no
+			CAT = {
+				all_core = {
+					OR = {
+						NOT = { continent = europe }
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+							war = no
+							OR = {
+								is_vassal = no
+								vassal_of = THIS
+							}
+						}
+						}
+					}
+			}
+		}
+
+		effect = {
+			add_accepted_culture = catalan
+            prestige = 5
+			CAT = { all_core = { add_core = SPA } }
+			any_country = {
+				limit = {
+					culture = catalan
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+				}
+				annex_to = SPA
+			}
+            any_country = {
+                limit = {
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+                    NOT = { tag = SPA }
+                    war = no
+                    any_owned_province = { is_core = CAT }
+                }
+                any_owned = {
+                    limit = { is_core = CAT }
+                    secede_province = THIS
+                }
+            }
+        }
+	}
+
+	integrate_basques = {
+		potential = {
+			tag = SPA
+			NOT = {
+				NAV = {
+					all_core = {
+						is_core = THIS
+					}
+				}
+			}
+		}
+		allow = {
+			war = no
+			NAV = {
+				all_core = {
+					OR = {
+							NOT = { continent = europe }
+							owned_by = THIS
+							owner = {
+								OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+								}
+								war = no
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+				}
+			}
+		}
+
+		effect = {
+            prestige = 5
+			NAV = { all_core = { add_core = SPA } }
+			any_country = {
+				limit = {
+					culture = basque
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+				}
+				annex_to = SPA
+			}
+            any_country = {
+                limit = {
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+                    NOT = { tag = SPA }
+                    war = no
+                    any_owned_province = { is_core = NAV }
+                }
+                any_owned = {
+                    limit = { is_core = NAV }
+                    secede_province = THIS
+                }
+            }
+        }
+	}
+
+	catalonia_accept_occitan = {
+		potential = {
+			primary_culture = catalan
+			NOT = {
+				tag = CNS
+			}
+		}
+
+		allow = {
+			FRA_455 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						vassal_of = THIS
+					}
+					owner = {
+						in_sphere = THIS
+						OR = {
+							is_vassal = NOT
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			FRA_461 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						vassal_of = THIS
+					}
+					owner = {
+						in_sphere = THIS
+						OR = {
+							is_vassal = NOT
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			FRA_467 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						vassal_of = THIS
+					}
+					owner = {
+						in_sphere = THIS
+						OR = {
+							is_vassal = NOT
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+
+		effect = {
+			add_accepted_culture = occitan
+			OCC = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			any_country = {
+				limit = {
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+					OR = {
+						culture = occitan
+					}
+					NOT = { 
+						tag = ANA
+					}
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+					NOT = { has_country_flag = post_colonial_country }
+				}
+				country_event = 11101
+			}
+			
+			any_country = {
+                limit = {
+					capital_scope = { continent = europe }
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+                    war = no
+                    any_owned_province = { is_core = OCC }
+                }
+                any_owned = {
+                    limit = { is_core = ALB }
+                    secede_province = THIS
+                }
+            }
+		}
+	}
 }

@@ -33,7 +33,7 @@ ASH = {
 	level = 2
 }
 ATR = {
-	value = 0
+	value = -100
 	level = 2
 }
 AUV = {
@@ -125,7 +125,7 @@ CAM = {
 	level = 2
 }
 CAT = {
-	value = -27
+	value = -100
 	level = 2
 }
 CEB = {
@@ -153,7 +153,7 @@ CSH = {
 	level = 2
 }
 CST = {
-	value = 0
+	value = -100
 	level = 2
 }
 CUB = {
@@ -217,7 +217,7 @@ GEN = {
 	level = 2
 }
 GLC = {
-	value = 0
+	value = -100
 	level = 2
 }
 GNV = {
@@ -421,7 +421,7 @@ NAP = {
 	level = 2
 }
 NAV = {
-	value = 0
+	value = -100
 	level = 2
 }
 NEJ = {
@@ -489,7 +489,7 @@ PLB = {
 	level = 2
 }
 POR = {
-	value = 0
+	value = -100
 	level = 2
 }
 QIC = {
