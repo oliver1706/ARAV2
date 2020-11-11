@@ -823,9 +823,8 @@
 		size= 122
 	}
 
-	clerks=
-	{cantabrian
-		culture = spanish
+	clerks= {
+		culture = cantabrian
 		religion = catholic
 		size= 324
 	}

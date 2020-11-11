@@ -12630,7 +12630,7 @@
 	farmers=
 	{
 		culture = gypsy
-		religion = 
+		religion = catholic
 		size= 300
 	}
 
@@ -12702,7 +12702,7 @@
 	farmers=
 	{
 		culture = gypsy
-		religion = 
+		religion = catholic
 		size= 200
 	}
 
@@ -13578,7 +13578,7 @@
 	farmers=
 	{
 		culture = gypsy
-		religion = 
+		religion = catholic
 		size= 150
 	}
 
@@ -15520,7 +15520,7 @@
 	farmers=
 	{
 		culture = aromanian
-		religion = 
+		religion = catholic
 		size= 775
 	}
 

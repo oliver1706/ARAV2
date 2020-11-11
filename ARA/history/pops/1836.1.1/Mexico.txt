@@ -3273,7 +3273,7 @@
 		size= 148
 	}
 
-	artisans=
+	artisans= {
 		culture = italoamericano
 		religion = protestant
 		size= 114
